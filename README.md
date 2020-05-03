@@ -1,6 +1,6 @@
 # 概要 [![Actions Status](https://github.com/OUXT-Polaris/HP/workflows/github%20pages/badge.svg)](https://github.com/OUXT-Polaris/HP/actions)
 
-これは、OUXTのHP（https://ouxt.jp）のリポジトリです。
+これは、OUXTのHP（ https://ouxt.jp ）のリポジトリです。
 
 Hugo + GitHub Pagesで構成されています。
 
