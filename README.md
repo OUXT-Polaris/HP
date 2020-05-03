@@ -1,42 +1,37 @@
-<p align="center"><a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener"><img src="https://sourcethemes.com/academic/img/logo_200px.png" alt="Academic logo"></a></p>
+# 概要 [![Actions Status](https://github.com/OUXT-Polaris/HP/workflows/github%20pages/badge.svg)](https://github.com/OUXT-Polaris/HP/actions)
 
-# Academic Kickstart: The Template for [Academic Website Builder](https://sourcethemes.com/academic/)
+これは、OUXTのHP（https://ouxt.jp）のリポジトリです。
 
-[**Academic**](https://github.com/gcushen/hugo-academic) makes it easy to create a beautiful website for free using Markdown, Jupyter, or RStudio. Customize anything on your site with widgets, themes, and language packs. [Check out the latest demo](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the showcase](https://sourcethemes.com/academic/#expo).
+Hugo + GitHub Pagesで構成されています。
 
-**Academic Kickstart** provides a minimal template to kickstart your new website.
+このサイトの基本となっているのは、HugoのAcademic Themeです。
 
-- 👉 [**Get Started**](#install)
-- 📚 [View the **documentation**](https://sourcethemes.com/academic/docs/)
-- 💬 [Chat with the **Academic community**](https://spectrum.chat/academic) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@source_themes](https://twitter.com/source_themes) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithAcademic](https://twitter.com/search?q=%23MadeWithAcademic&src=typd)
-- 💡 [Request a **feature** or report a **bug**](https://github.com/gcushen/hugo-academic/issues)
-- ⬆️ **Updating?** View the [Update Guide](https://sourcethemes.com/academic/docs/update/) and [Release Notes](https://sourcethemes.com/academic/updates/)
-- :heart: **Support development** of Academic:
-  - ☕️ [**Donate a coffee**](https://paypal.me/cushen)
-  - 💵 [Become a backer on **Patreon**](https://www.patreon.com/cushen)
-  - 🖼️ [Decorate your laptop or journal with an Academic **sticker**](https://www.redbubble.com/people/neutreno/works/34387919-academic)
-  - 👕 [Wear the **T-shirt**](https://academic.threadless.com/)
-  - :woman_technologist: [**Contribute**](https://sourcethemes.com/academic/docs/contribute/)
+# 扱い方
+1. git clone
+2. issue
+3. branch
+4. marge
 
-[![Screenshot](https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png)](https://github.com/gcushen/hugo-academic/)
+といった手順で行ってください。以下にざっくりと説明を示します。
+## git clone
+ssh-keyをgithubに登録してから、 'using ssh'でgit cloneしましょう
 
-## Install
+## issue
+issueページで追加したいページや内容を記入しましょう。ここに記入することで、開発履歴として残ります。
 
-You can choose from one of the following four methods to install:
+## branch
+上記のbranchに合わせて、develop/（issue番号_issue名）のbranchを作成
 
-* [**one-click install using your web browser (recommended)**](https://sourcethemes.com/academic/docs/install/#install-with-web-browser)
-* [install on your computer using **Git** with the Command Prompt/Terminal app](https://sourcethemes.com/academic/docs/install/#install-with-git)
-* [install on your computer by downloading the **ZIP files**](https://sourcethemes.com/academic/docs/install/#install-with-zip)
-* [install on your computer with **RStudio**](https://sourcethemes.com/academic/docs/install/#install-with-rstudio)
+例：[develop/#1_edit_readme](https://github.com/OUXT-Polaris/HP/tree/develop/%231_edit_readme)
 
-Then [personalize your new site](https://sourcethemes.com/academic/docs/get-started/).
+## marge
+pull requestsのタブより、[develop/master](https://github.com/OUXT-Polaris/HP/tree/develop/master)ブランチへマージリクエスト/マージを行う。
 
-## Ecosystem
+続いて、[master](https://github.com/OUXT-Polaris/HP/)ブランチへ先ほどと同様にマージリクエスト/マージを行う
 
-* **[Academic Admin](https://github.com/sourcethemes/academic-admin):** An admin tool to import publications from BibTeX or import assets for an offline site
-* **[Academic Scripts](https://github.com/sourcethemes/academic-scripts):** Scripts to help migrate content to new versions of Academic
+ここで、マージが通り、githubActionでエラーが発生しなければWebページとして公開されます。
 
+# その他
 ## License
 
 Copyright 2017-present [George Cushen](https://georgecushen.com).
