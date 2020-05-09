@@ -4,22 +4,22 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "ホーム"
+  name = "ホーム/Home"
   url = "#about"
   weight = 10
 
 [[main]]
-  name = "投稿"
+  name = "投稿/Posts"
   url = "/posts"
   weight = 20
 
 [[main]]
-  name = "スポンサー"
+  name = "スポンサー/Sponsor"
   url = "/pages/sponsor"
   weight = 30
 
 [[main]]
-  name = "お問い合わせ"
+  name = "お問い合わせ/Contacts"
   url = "#contact"
   weight = 60
 
