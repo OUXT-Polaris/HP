@@ -27,7 +27,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-OUXT Polararisではロボット製作/開発費、ロボット輸送費を必要としています。
+OUXT Polarisではロボット製作/開発費、ロボット輸送費を必要としています。
 
 そのため、スポンサーを随時募集しています。
 
