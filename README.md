@@ -31,6 +31,12 @@ pull requestsのタブより、[develop/master](https://github.com/OUXT-Polaris/
 
 ここで、マージが通り、githubActionでエラーが発生しなければWebページとして公開されます。
 
+# 追加でつけた機能
+Google Analyst のID埋め込みがされています。
+これによって、Google Search Consolに追加されているのでGoogle検索に表示されるようになっています。
+
+OUXT管理者用アカウントに紐づけされています。
+
 # その他
 ## License
 
