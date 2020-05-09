@@ -1,10 +1,10 @@
 ---
 # Display name
-title: HidetoNiwa
+title: 丹羽 英人
 
 # Username (this should match the folder name)
 authors:
-- admin
+- HidetoNiwa
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,16 +20,16 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 大阪にいるにゎ～ん
 
-interests:
-- 自作PCB
-- サーバ構築
-- 自作PC
+#interests:
+#- 自作PCB
+#- サーバ構築
+#- 自作PC
 
-education:
-  courses:
-  - course: 基礎工学部システム科学科
-    institution: 大阪大学
-    year: 2020
+#education:
+#  courses:
+#  - course: 基礎工学部システム科学科
+#    institution: 大阪大学
+#    year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
