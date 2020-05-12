@@ -1,6 +1,6 @@
 ---
 # Display name
-title: OUXT Polararis
+title: OUXT Polaris
 
 # Username (this should match the folder name)
 authors:
