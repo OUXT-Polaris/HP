@@ -1,4 +1,68 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>OUXT Polaris</title><link>https://www.ouxt.jp/</link><atom:link href="https://www.ouxt.jp/index.xml" rel="self" type="application/rss+xml"/><description>OUXT Polaris</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>OUXT Polaris 2020</copyright><lastBuildDate>Sat, 23 May 2020 08:23:23 +0900</lastBuildDate><image><url>https://www.ouxt.jp/images/icon_hud1e4b740b82faf5d5011883d0ab60ce8_134644_512x512_fill_lanczos_center_2.png</url><title>OUXT Polaris</title><link>https://www.ouxt.jp/</link></image><item><title>RobotX2020 オンライン決起会開催！</title><link>https://www.ouxt.jp/post/1-startup2020/</link><pubDate>Sat, 23 May 2020 08:23:23 +0900</pubDate><guid>https://www.ouxt.jp/post/1-startup2020/</guid><description>&lt;p>こんにちは！運営担当のにゎ～んです！&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>OUXT Polaris</title><link>https://www.ouxt.jp/</link><atom:link href="https://www.ouxt.jp/index.xml" rel="self" type="application/rss+xml"/><description>OUXT Polaris</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>OUXT Polaris 2020</copyright><lastBuildDate>Fri, 29 May 2020 23:36:59 +0900</lastBuildDate><image><url>https://www.ouxt.jp/images/icon_hud1e4b740b82faf5d5011883d0ab60ce8_134644_512x512_fill_lanczos_center_2.png</url><title>OUXT Polaris</title><link>https://www.ouxt.jp/</link></image><item><title>第1回 OUXT-Polaris勉強会 開催！</title><link>https://www.ouxt.jp/post/1-seminar/</link><pubDate>Fri, 29 May 2020 23:36:59 +0900</pubDate><guid>https://www.ouxt.jp/post/1-seminar/</guid><description>&lt;p>こんにちは！運営担当のにゎ～んこと丹羽です！&lt;/p>
+&lt;p>さてタイトルの通り、OUXT-Polaris主催の勉強会を開催します！
+&lt;figure class="center" >
+&lt;a data-fancybox="" href="https://www.ouxt.jp/img/seminar/banner.jpg" >
+&lt;img src="https://www.ouxt.jp/img/seminar/banner.jpg" alt="" width="450" >
+&lt;/a>
+&lt;/figure>
+&lt;/p>
+&lt;p>OUXT所属のメンバーがロボティクス関連の話題を発表していきます。&lt;br>
+隔週水曜日 22時～23時に開催する予定です。&lt;/p>
+&lt;p>また、これに合わせまして
+&lt;a href="https://www.ouxt.jp/pages/seminar/" target="_blank" rel="noopener">勉強会ページ&lt;/a>を開設しました！&lt;br>
+今後こちらの方に、勉強会日程/発表者/テーマ等の更新を行って行きますのでよろしくお願いいたします～&lt;/p>
+&lt;h2 id="第1回勉強会">第1回勉強会&lt;/h2>
+&lt;h3 id="日時">日時&lt;/h3>
+&lt;p>6/3 22:00～23:00&lt;/p>
+&lt;h3 id="発表者">発表者&lt;/h3>
+&lt;p>片岡 大哉&lt;/p>
+&lt;h3 id="タイトル">タイトル&lt;/h3>
+&lt;p>RobotXに向けたプランナーの開発&lt;/p>
+&lt;h3 id="申し込み方法">申し込み方法&lt;/h3>
+&lt;p>
+&lt;a href="https://ouxt-polaris.connpass.com/event/177865/" target="_blank" rel="noopener">connpass イベントページ&lt;/a>よりお願いいたします。&lt;/p>
+&lt;p>Zoomを用いて開催します。参加者には開始1時間前をめどにURLを送付いたしますので、そちらの方から参加お願いします。&lt;/p></description></item><item><title>OUXT-Polaris 勉強会</title><link>https://www.ouxt.jp/pages/seminar/</link><pubDate>Fri, 29 May 2020 13:49:11 +0900</pubDate><guid>https://www.ouxt.jp/pages/seminar/</guid><description>
+&lt;figure class="center" >
+&lt;a data-fancybox="" href="https://www.ouxt.jp/img/seminar/banner.jpg" >
+&lt;img src="https://www.ouxt.jp/img/seminar/banner.jpg" alt="" width="450" >
+&lt;/a>
+&lt;/figure>
+&lt;h2 id="概要">概要&lt;/h2>
+&lt;p>OUXT-Polarisではzoomを用いた、オンライン勉強会を開催しています。&lt;br>
+OUXTのメンバーだけでなく、一般の方の参加も&lt;strong>大歓迎&lt;/strong>です。&lt;br>
+ロボティクス関連の話題をOUXTメンバーが発表します。&lt;/p>
+&lt;h2 id="申し込み方法">申し込み方法&lt;/h2>
+&lt;p>connpassより前日までに申し込みください。（各回のリンクは下記にあります。）&lt;/p>
+&lt;h2 id="発表テーマ">発表テーマ&lt;/h2>
+&lt;p>開催前の者に関しましては変更となる場合がございます。ご容赦ください。&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th align="center">&lt;/th>
+&lt;th align="center">日時&lt;/th>
+&lt;th align="center">発表者&lt;/th>
+&lt;th align="center">タイトル&lt;/th>
+&lt;th align="center">申し込みページ&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td align="center">第1回&lt;/td>
+&lt;td align="center">6/3 22:00～23:00&lt;/td>
+&lt;td align="center">片岡 大哉&lt;/td>
+&lt;td align="center">RobotXに向けたプランナーの開発&lt;/td>
+&lt;td align="center">
+&lt;a href="https://ouxt-polaris.connpass.com/event/177865/" target="_blank" rel="noopener">参加者募集中&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td align="center">第2回&lt;/td>
+&lt;td align="center">6/17 22:00～23:00&lt;/td>
+&lt;td align="center">吉本 幸太郎&lt;/td>
+&lt;td align="center">&lt;/td>
+&lt;td align="center">&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item><item><title>RobotX2020 オンライン決起会開催！</title><link>https://www.ouxt.jp/post/1-startup2020/</link><pubDate>Sat, 23 May 2020 08:23:23 +0900</pubDate><guid>https://www.ouxt.jp/post/1-startup2020/</guid><description>&lt;p>こんにちは！運営担当のにゎ～んです！&lt;/p>
 &lt;p>さて、OUXTではRobotX2020に向けての&lt;strong>決起会&lt;/strong>をオンラインでzoomを用いて行いました～！&lt;/p>
 &lt;p>本来であれば大阪府立大学にて、ロボットを囲んで活動を行いたいのですが、COVID-19の影響もありオンラインでのミートアップ会となりました。&lt;/p>
 &lt;p>各メンバーのRobotXに対する挑戦的な思いが感じられるよい会となりました～！
