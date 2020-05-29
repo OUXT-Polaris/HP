@@ -1,6 +1,6 @@
 # 概要 [![Actions Status](https://github.com/OUXT-Polaris/HP/workflows/github%20pages/badge.svg)](https://github.com/OUXT-Polaris/HP/actions)
 
-これは、OUXTのHP（ https://ouxt.jp ）のリポジトリです。
+これは、OUXTのHP（ https://www.ouxt.jp ）のリポジトリです。
 
 Hugo + GitHub Pagesで構成されています。
 
@@ -30,6 +30,12 @@ pull requestsのタブより、[develop/master](https://github.com/OUXT-Polaris/
 続いて、[master](https://github.com/OUXT-Polaris/HP/)ブランチへ先ほどと同様にマージリクエスト/マージを行う
 
 ここで、マージが通り、githubActionでエラーが発生しなければWebページとして公開されます。
+
+# 追加でつけた機能
+Google Analyst のID埋め込みがされています。
+これによって、Google Search Consolに追加されているのでGoogle検索に表示されるようになっています。
+
+OUXT管理者用アカウントに紐づけされています。
 
 # その他
 ## License

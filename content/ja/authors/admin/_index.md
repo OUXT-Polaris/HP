@@ -1,6 +1,6 @@
 ---
 # Display name
-title: OUXT Polararis
+title: OUXT Polaris
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: 
+role: 私たちは、ハワイで開催されている自動操縦船のロボットコンテストに日本で唯一参加している学生主体のチームです！
 
 # Organizations/Affiliations
 organizations:

@@ -4,7 +4,7 @@
 title: "Sponsors"
 subtitle: ""
 summary: "The information of the sponsors in our teams"
-authors: []
+authors: [admin]
 tags: []
 categories: []
 date: 2020-05-05T12:34:23+09:00
@@ -27,7 +27,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-OUXT Polararis needs a robot fabrication/development fee and a robot transportation fee.
+OUXT Polaris needs a robot fabrication/development fee and a robot transportation fee.
 
 For this reason, we are always looking for sponsors.
 

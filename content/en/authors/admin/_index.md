@@ -1,6 +1,6 @@
 ---
 # Display name
-title: OUXT Polararis
+title: OUXT Polaris
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: 
+role: We are the only student-led team in Japan that participates in the Autopilot Ship Robot Contest held in Hawaii!
 
 # Organizations/Affiliations
 organizations:
