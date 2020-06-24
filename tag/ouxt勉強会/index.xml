@@ -1,4 +1,29 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>OUXT勉強会 | OUXT Polaris</title><link>https://www.ouxt.jp/tag/ouxt%E5%8B%89%E5%BC%B7%E4%BC%9A/</link><atom:link href="https://www.ouxt.jp/tag/ouxt%E5%8B%89%E5%BC%B7%E4%BC%9A/index.xml" rel="self" type="application/rss+xml"/><description>OUXT勉強会</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>OUXT Polaris 2020</copyright><lastBuildDate>Mon, 08 Jun 2020 23:36:59 +0900</lastBuildDate><image><url>https://www.ouxt.jp/images/icon_hud1e4b740b82faf5d5011883d0ab60ce8_134644_512x512_fill_lanczos_center_2.png</url><title>OUXT勉強会</title><link>https://www.ouxt.jp/tag/ouxt%E5%8B%89%E5%BC%B7%E4%BC%9A/</link></image><item><title>第2回 OUXT-Polaris勉強会 開催！</title><link>https://www.ouxt.jp/post/2-seminar/</link><pubDate>Mon, 08 Jun 2020 23:36:59 +0900</pubDate><guid>https://www.ouxt.jp/post/2-seminar/</guid><description>&lt;p>こんにちは！運営担当のにゎ～んこと丹羽です！&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>OUXT勉強会 | OUXT Polaris</title><link>https://www.ouxt.jp/tag/ouxt%E5%8B%89%E5%BC%B7%E4%BC%9A/</link><atom:link href="https://www.ouxt.jp/tag/ouxt%E5%8B%89%E5%BC%B7%E4%BC%9A/index.xml" rel="self" type="application/rss+xml"/><description>OUXT勉強会</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>OUXT Polaris 2020</copyright><lastBuildDate>Tue, 23 Jun 2020 23:36:59 +0900</lastBuildDate><image><url>https://www.ouxt.jp/images/icon_hud1e4b740b82faf5d5011883d0ab60ce8_134644_512x512_fill_lanczos_center_2.png</url><title>OUXT勉強会</title><link>https://www.ouxt.jp/tag/ouxt%E5%8B%89%E5%BC%B7%E4%BC%9A/</link></image><item><title>第3回 OUXT-Polaris勉強会 開催！</title><link>https://www.ouxt.jp/post/3-seminar/</link><pubDate>Tue, 23 Jun 2020 23:36:59 +0900</pubDate><guid>https://www.ouxt.jp/post/3-seminar/</guid><description>&lt;p>こんにちは！運営担当のにゎ～んこと丹羽です！&lt;/p>
+&lt;p>さてタイトルの通り、第3回OUXT-Polaris勉強会を開催します！
+&lt;figure class="center" >
+&lt;a data-fancybox="" href="https://www.ouxt.jp/img/seminar/banner.jpg" >
+&lt;img src="https://www.ouxt.jp/img/seminar/banner.jpg" alt="" width="450" >
+&lt;/a>
+&lt;/figure>
+&lt;/p>
+&lt;p>今回は『RobotX2020に向けたハードウェアデザインレビュー』です！ハード班の真田が&lt;/p>
+&lt;p>ハードウェア系（＋電気系）でこんなやつを作ろうとしているので、おかしなところがあったら教えて下さい！&lt;/p>
+&lt;p>といった感じだそうです。OUXT-Polaris勉強会初のハードウェア系のお話です！&lt;/p>
+&lt;p>本勉強会はチーム内の技術向上を目的として開催していますが、&lt;strong>一般の方でも参加可能&lt;/strong>です！&lt;br>
+皆さまの参加をお待ちしてます～&lt;/p>
+&lt;p>公式ハッシュタグは『
+&lt;a href="https://twitter.com/search?q=%23OUXT%E5%8B%89%E5%BC%B7%E4%BC%9A&amp;amp;src=typed_query&amp;amp;f=live" target="_blank" rel="noopener">#OUXT勉強会&lt;/a>』となっています。皆さまの投稿よろしくお願いします！&lt;/p>
+&lt;h2 id="第3回ouxt-polaris勉強会">第3回OUXT-Polaris勉強会&lt;/h2>
+&lt;h3 id="日時">日時&lt;/h3>
+&lt;p>7/1 22:00～23:00&lt;/p>
+&lt;h3 id="発表者">発表者&lt;/h3>
+&lt;p>真田 辰哉&lt;/p>
+&lt;h3 id="タイトル">タイトル&lt;/h3>
+&lt;p>RobotX2020に向けたハードウェアデザインレビュー&lt;/p>
+&lt;h3 id="申し込み方法">申し込み方法&lt;/h3>
+&lt;p>
+&lt;a href="https://ouxt-polaris.connpass.com/event/180579/" target="_blank" rel="noopener">connpass イベントページ&lt;/a>よりお願いいたします。&lt;/p>
+&lt;p>Zoomを用いて開催します。参加者には開始1時間前までにURLを送付いたしますので、そちらの方から参加お願いします。&lt;/p></description></item><item><title>第2回 OUXT-Polaris勉強会 開催！</title><link>https://www.ouxt.jp/post/2-seminar/</link><pubDate>Mon, 08 Jun 2020 23:36:59 +0900</pubDate><guid>https://www.ouxt.jp/post/2-seminar/</guid><description>&lt;p>こんにちは！運営担当のにゎ～んこと丹羽です！&lt;/p>
 &lt;p>さてタイトルの通り、第2回OUXT-Polaris勉強会を開催します！
 &lt;figure class="center" >
 &lt;a data-fancybox="" href="https://www.ouxt.jp/img/seminar/banner.jpg" >
@@ -83,15 +108,23 @@ OUXTのメンバーだけでなく、一般の方の参加も&lt;strong>大歓�
 &lt;/tr>
 &lt;tr>
 &lt;td align="center">第2回&lt;/td>
-&lt;td align="center">6/17 22:00～23:00&lt;/td>
+&lt;td align="center">6/21 22:00～23:00&lt;/td>
 &lt;td align="center">吉本 幸太郎&lt;/td>
 &lt;td align="center">RobotXに向けたビヘイビアツリーによる&lt;br>自動航行船の行動計画&lt;/td>
 &lt;td align="center">
-&lt;a href="https://ouxt-polaris.connpass.com/event/178772/" target="_blank" rel="noopener">参加者募集中&lt;/a>&lt;/td>
+&lt;a href="https://ouxt-polaris.connpass.com/event/178772/" target="_blank" rel="noopener">開催終了&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td align="center">第3回&lt;/td>
 &lt;td align="center">7/1 22:00～23:00&lt;/td>
+&lt;td align="center">真田 辰哉&lt;/td>
+&lt;td align="center">RobotX2020に向けたハードウェアデザインレビュー&lt;/td>
+&lt;td align="center">
+&lt;a href="https://ouxt-polaris.connpass.com/event/180579/" target="_blank" rel="noopener">参加者募集中&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td align="center">第4回&lt;/td>
+&lt;td align="center">7/15 22:00～23:00&lt;/td>
 &lt;td align="center">&lt;/td>
 &lt;td align="center">&lt;/td>
 &lt;td align="center">&lt;/td>
