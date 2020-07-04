@@ -63,4 +63,7 @@ The next conference will be held from December 12-19, 2020.
 Would you like to work with us to build the world's smartest autopilot ship?
 If you're interested, please [contact](./#contact) us!
 
+The team is always looking for sponsors.
+For more information, please check our [Call for Sponsors](./pages/call-sponsor) page.
+
 {{< youtube id="pr_4i2vnWtg">}}
