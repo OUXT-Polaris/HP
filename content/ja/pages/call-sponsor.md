@@ -27,48 +27,51 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-OUXT Polarisではロボット製作/開発費、ロボット輸送費を必要としています。
-
-そのため、スポンサーを随時募集しています。
-
+OUXT Polarisではロボット製作/開発費、ロボット輸送費を必要としています。<br>
+そのため、スポンサーを随時募集しています。<br>
 ご不明な点がございましたら、[お問い合わせ](../../#contact)よりご連絡お願いします。
 
-## 金銭支援スポンサーシップ
+### 金銭支援スポンサー
 
-We use your sponsorship money as freight costs, parts fee, etc…
+私たちOUXT Polarisでは、ロボットのパーツや輸送費にお金を必要としています。<br>
+それらの支援をしていただけるスポンサー様を募集しています。
 
-## 物的支援スポンサーシップ
+### 物的支援スポンサー
 
-We develop fully autonomous ship by using your products.
-We write blogs about your products (tagged by your company names).
-If you lend us your product, we add half of total amount of your product price to your sponsorship money.
+私たちOUXT-Polarisでは、様々な製品を用いて完全に自律制御された船の開発を行っています。<br>
+貴社の名前のタグをつけた貴社製品を用いたブログの記載などを行います。<br>
+貴社の製品をお貸しいただきましたら、半額を協賛金とさせていただきます。
 
-If you are interested in us, please [contact](../../#contact) us!!
+もしこれらに興味を持っていただけましたら、[お問い合わせ](../../#contact) よりご連絡お願いします。
 
-# Gold Sponsors
-- Sponsorship money: **Over 1,000,000 JPY**
+## Gold Sponsors
 
-Put a your company’s logo on
+対象：**￥1,000,000**以上
+
+あなたの会社のロゴを下記に掲載させていただきます！
+
 - 船体
 - [Webサイト（スポンサーページ）](../sponsor/)
 - チームユニホーム
-- Open-source simulation ship 3D model
-- all of README.md files in our github
+- オープンソースのシミュレーション上の船の3Dモデル上
+- 私たちのGitHubのすべてのREADME.mdファイル上
 
-# Silver Sponsors
+## Silver Sponsors
 
-- Sponsorship money: **Over 500,000 JPY**
+対象：**￥500,000**以上
 
-Put a your company’s logo on
+あなたの会社のロゴを下記に掲載させていただきます！
+
 - 船体
 - [Webサイト（スポンサーページ）](../sponsor/)
 - チームユニホーム
 
-# Bronze Sponsors
+## Bronze Sponsors
 
-- Sponsorship money: **Over 300,000 JPY**
+対象：**￥300,000**以上
 
-Put a your company’s logo on
+あなたの会社のロゴを下記に掲載させていただきます！
+
 - 船体
 - [Webサイト（スポンサーページ）](../sponsor/)
 - チームユニホーム

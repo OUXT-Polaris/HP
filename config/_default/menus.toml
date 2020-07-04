@@ -19,11 +19,6 @@
   weight = 30
 
 [[main]]
-  name = "スポンサー募集/Call for Sponsors"
-  url = "/pages/call-sponsor"
-  weight = 35
-
-[[main]]
   name = "勉強会/Seminar"
   url = "/pages/Seminar"
   weight = 40
