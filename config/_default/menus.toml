@@ -4,29 +4,34 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "ホーム/Home"
-  url = "#about"
-  weight = 10
+name = "ホーム/Home"
+url = "#about"
+weight = 10
 
 [[main]]
-  name = "投稿/Posts"
-  url = "/post"
-  weight = 20
+name = "投稿/Posts"
+url = "/post"
+weight = 20
 
 [[main]]
-  name = "スポンサー/Sponsor"
-  url = "/pages/sponsor"
-  weight = 30
+name = "メンバー募集/recruit"
+url = "/pages/recruit"
+weight = 20
 
 [[main]]
-  name = "勉強会/Seminar"
-  url = "/pages/Seminar"
-  weight = 40
+name = "スポンサー/Sponsor"
+url = "/pages/sponsor"
+weight = 30
 
 [[main]]
-  name = "お問い合わせ/Contacts"
-  url = "#contact"
-  weight = 60
+name = "勉強会/Seminar"
+url = "/pages/Seminar"
+weight = 40
+
+[[main]]
+name = "お問い合わせ/Contacts"
+url = "#contact"
+weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
