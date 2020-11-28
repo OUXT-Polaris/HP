@@ -30,7 +30,7 @@ projects: []
 
 こんにちは！運営担当のにゎ～んこと丹羽です！
 
-さてタイトルの通り、第4回OUXT-Polaris勉強会を開催します！
+さてタイトルの通り、OUXT-Polaris勉強会：特別編を開催します！
 {{< figure src="https://connpass-tokyo.s3.amazonaws.com/thumbs/98/7e/987e3f4f2196cbc41d86c7539e8be89f.png" class="center" width="450">}}
 
 今回のOUXT Polaris勉強会は...「特別編：ROSを使ったロボット開発講座」です！
