@@ -1,4 +1,30 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>OUXT Polaris</title><link>https://www.ouxt.jp/</link><atom:link href="https://www.ouxt.jp/index.xml" rel="self" type="application/rss+xml"/><description>OUXT Polaris</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>OUXT Polaris 2020</copyright><lastBuildDate>Wed, 02 Sep 2020 23:36:59 +0900</lastBuildDate><image><url>https://www.ouxt.jp/images/icon_hud1e4b740b82faf5d5011883d0ab60ce8_134644_512x512_fill_lanczos_center_2.png</url><title>OUXT Polaris</title><link>https://www.ouxt.jp/</link></image><item><title>RobotX2020 開催中止に関して</title><link>https://www.ouxt.jp/post/robotx2020-cancelled/</link><pubDate>Wed, 02 Sep 2020 23:36:59 +0900</pubDate><guid>https://www.ouxt.jp/post/robotx2020-cancelled/</guid><description>&lt;p>運営担当のにゎ～んこと丹羽です！&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>OUXT Polaris</title><link>https://www.ouxt.jp/</link><atom:link href="https://www.ouxt.jp/index.xml" rel="self" type="application/rss+xml"/><description>OUXT Polaris</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>OUXT Polaris 2020</copyright><lastBuildDate>Sat, 28 Nov 2020 13:50:27 +0900</lastBuildDate><image><url>https://www.ouxt.jp/images/icon_hud1e4b740b82faf5d5011883d0ab60ce8_134644_512x512_fill_lanczos_center_2.png</url><title>OUXT Polaris</title><link>https://www.ouxt.jp/</link></image><item><title>特別編：ROSを使ったロボット開発講座</title><link>https://www.ouxt.jp/post/ros-seminar/</link><pubDate>Sat, 28 Nov 2020 13:50:27 +0900</pubDate><guid>https://www.ouxt.jp/post/ros-seminar/</guid><description>&lt;p>こんにちは！運営担当のにゎ～んこと丹羽です！&lt;/p>
+&lt;p>さてタイトルの通り、第4回OUXT-Polaris勉強会を開催します！
+&lt;figure class="center" >
+&lt;a data-fancybox="" href="https://connpass-tokyo.s3.amazonaws.com/thumbs/98/7e/987e3f4f2196cbc41d86c7539e8be89f.png" >
+&lt;img src="https://connpass-tokyo.s3.amazonaws.com/thumbs/98/7e/987e3f4f2196cbc41d86c7539e8be89f.png" alt="" width="450" >
+&lt;/a>
+&lt;/figure>
+&lt;/p>
+&lt;p>今回のOUXT Polaris勉強会は&amp;hellip;「特別編：ROSを使ったロボット開発講座」です！&lt;/p>
+&lt;p>当チームの片岡 大哉（
+&lt;a href="https://twitter.com/hakuturu583" target="_blank" rel="noopener">@hakuturu583&lt;/a>）が発表します！&lt;/p>
+&lt;p>ROSをどのようにロボットへと組み込んでいくのか？初歩から解説していきたいと思います～！&lt;/p>
+&lt;p>本勉強会はチーム内の技術向上を目的として開催していますが、&lt;strong>一般の方でも参加可能&lt;/strong>です！&lt;br>
+皆さまの参加をお待ちしてます～&lt;/p>
+&lt;p>公式ハッシュタグは『
+&lt;a href="https://twitter.com/search?q=%23OUXT%E5%8B%89%E5%BC%B7%E4%BC%9A&amp;amp;src=typed_query&amp;amp;f=live" target="_blank" rel="noopener">#OUXT勉強会&lt;/a>』となっています。皆さまの投稿よろしくお願いします！&lt;/p>
+&lt;h2 id="特別編rosを使ったロボット開発講座">特別編：ROSを使ったロボット開発講座&lt;/h2>
+&lt;h3 id="日時">日時&lt;/h3>
+&lt;p>12/20 13:00～16:00（途中休憩あり）&lt;/p>
+&lt;h3 id="発表者">発表者&lt;/h3>
+&lt;p>片岡 大哉&lt;/p>
+&lt;h3 id="タイトル">タイトル&lt;/h3>
+&lt;p>特別編：ROSを使ったロボット開発講座&lt;/p>
+&lt;h3 id="申し込み方法">申し込み方法&lt;/h3>
+&lt;p>
+&lt;a href="https://ouxt-polaris.connpass.com/event/197225/" target="_blank" rel="noopener">connpass イベントページ&lt;/a>よりお願いいたします。&lt;/p>
+&lt;p>Zoomを用いて開催します。参加者には開始1時間前までにURLを送付いたしますので、そちらの方から参加お願いします。&lt;/p></description></item><item><title>RobotX2020 開催中止に関して</title><link>https://www.ouxt.jp/post/robotx2020-cancelled/</link><pubDate>Wed, 02 Sep 2020 23:36:59 +0900</pubDate><guid>https://www.ouxt.jp/post/robotx2020-cancelled/</guid><description>&lt;p>運営担当のにゎ～んこと丹羽です！&lt;/p>
 &lt;p>さて、表題の通りOUXT Polarisが挑戦していたMaritime Robotx Challenge2020ですが、COVID-19の影響により大会開催が中止となりました。
 ご支援、応援いただきました皆様、ありがとうございました。&lt;/p>
 &lt;p>チームでは今回の開発経験を発表する場を大会時期に設けることを検討しています。ご期待ください！&lt;/p>
