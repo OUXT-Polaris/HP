@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Kazuki Kuroda
+title: Masato Ogura
 
 # Username (this should match the folder name)
 authors:
-- KazukiKuroda
+- MasatoOgura
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,7 +14,7 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: Osaka University Graduate School
+- name: 会社員
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -39,7 +39,7 @@ social:
 #  link: https://twitter.com/hahahahaha_NNN
 - icon: github
   icon_pack: fab
-  link: https://github.com/kazuki0824
+  link: https://github.com/masato0129
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -53,4 +53,5 @@ social:
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Software
+- Hardware
 ---
