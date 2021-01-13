@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>コンテンツ | OUXT Polaris</title><link>https://www.ouxt.jp/pages/seminar/</link><atom:link href="https://www.ouxt.jp/pages/seminar/index.xml" rel="self" type="application/rss+xml"/><description>コンテンツ</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>OUXT Polaris 2020</copyright><lastBuildDate>Sat, 09 Jan 2021 21:44:49 +0900</lastBuildDate><image><url>https://www.ouxt.jp/images/icon_hud1e4b740b82faf5d5011883d0ab60ce8_134644_512x512_fill_lanczos_center_2.png</url><title>コンテンツ</title><link>https://www.ouxt.jp/pages/seminar/</link></image><item><title>ROS駆け込み寺</title><link>https://www.ouxt.jp/pages/seminar/ros_help/</link><pubDate>Sat, 09 Jan 2021 21:44:49 +0900</pubDate><guid>https://www.ouxt.jp/pages/seminar/ros_help/</guid><description>&lt;p>OUXTでは2019年までROS1を，以降はROS2を使って開発を行っています．
+また，普段から研究や仕事でROS/ROS2を使っているメンバーが所属しています．&lt;/p>
+&lt;p>そんなOUXTのメンバーが皆さんのROS/ROS2の悩みに回答します！！&lt;/p>
+&lt;p>質問内容は些細なことや抽象的なことでも大丈夫です．&lt;/p>
+&lt;p>質問にはプライバシーや開発中のものに関する情報など含むので返答は収集させていただいたメールアドレスに対して返答させていただきます．
+また，ROS/ROS2に関する知見の共有のため，デリケートな情報を除いた上で投稿から2ヶ月以上後に質問・回答をHPに掲載させていただく場合があります．&lt;/p>
+&lt;iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfJzaz7ZrHD6UqBzDVAmTU2Stxz5buNfpNDu2Kmw5fzkoxY6A/viewform?embedded=true" width="720" height="1405" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます…&lt;/iframe></description></item><item><title>OUXT-Polaris 勉強会</title><link>https://www.ouxt.jp/pages/seminar/seminar/</link><pubDate>Fri, 29 May 2020 13:49:11 +0900</pubDate><guid>https://www.ouxt.jp/pages/seminar/seminar/</guid><description>
+&lt;figure class="center" >
+&lt;a data-fancybox="" href="https://www.ouxt.jp/img/seminar/banner.jpg" >
+&lt;img src="https://www.ouxt.jp/img/seminar/banner.jpg" alt="" width="450" >
+&lt;/a>
+&lt;/figure>
+&lt;h2 id="概要">概要&lt;/h2>
+&lt;p>OUXT-Polarisではzoomを用いた、オンライン勉強会を開催しています。&lt;br>
+OUXTのメンバーだけでなく、一般の方の参加も&lt;strong>大歓迎&lt;/strong>です。&lt;br>
+ロボティクス関連の話題をOUXTメンバーが発表します。&lt;/p>
+&lt;h2 id="申し込み方法">申し込み方法&lt;/h2>
+&lt;p>connpassより前日23時30分までに申し込みください。&lt;br>
+（各回のリンクは下記にあります。）&lt;/p>
+&lt;h2 id="発表テーマ">発表テーマ&lt;/h2>
+&lt;p>開催前の回に関しましては内容が変更となる場合がございます。ご容赦ください。&lt;/p>
+&lt;p>また、空白欄となっているところは未定となっておりますのでご注意ください。&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th align="center">&lt;/th>
+&lt;th align="center">日時&lt;/th>
+&lt;th align="center">発表者&lt;/th>
+&lt;th align="center">タイトル&lt;/th>
+&lt;th align="center">申し込みページ&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td align="center">第1回&lt;/td>
+&lt;td align="center">6/3 22:00～23:00&lt;/td>
+&lt;td align="center">片岡 大哉&lt;/td>
+&lt;td align="center">RobotXに向けたプランナーの開発&lt;/td>
+&lt;td align="center">
+&lt;a href="https://ouxt-polaris.connpass.com/event/177865/" target="_blank" rel="noopener">開催終了&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td align="center">第2回&lt;/td>
+&lt;td align="center">6/21 22:00～23:00&lt;/td>
+&lt;td align="center">吉本 幸太郎&lt;/td>
+&lt;td align="center">RobotXに向けたビヘイビアツリーによる&lt;br>自動航行船の行動計画&lt;/td>
+&lt;td align="center">
+&lt;a href="https://ouxt-polaris.connpass.com/event/178772/" target="_blank" rel="noopener">開催終了&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td align="center">第3回&lt;/td>
+&lt;td align="center">7/1 22:00～23:00&lt;/td>
+&lt;td align="center">真田 辰哉&lt;/td>
+&lt;td align="center">RobotX2020に向けたハードウェアデザインレビュー&lt;/td>
+&lt;td align="center">
+&lt;a href="https://ouxt-polaris.connpass.com/event/180579/" target="_blank" rel="noopener">開催終了&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td align="center">第4回&lt;/td>
+&lt;td align="center">7/15 22:00～23:00&lt;/td>
+&lt;td align="center">西下 敦青&lt;/td>
+&lt;td align="center">海外チーム技術解説 その１：エンブリーリドル航空大学&lt;/td>
+&lt;td align="center">
+&lt;a href="https://ouxt-polaris.connpass.com/event/181804/" target="_blank" rel="noopener">参加者募集中&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td align="center">第5回&lt;/td>
+&lt;td align="center">7/29 22:00～23:00&lt;/td>
+&lt;td align="center">&lt;/td>
+&lt;td align="center">&lt;/td>
+&lt;td align="center">&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item></channel></rss>

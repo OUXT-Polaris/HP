@@ -1,4 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>OUXT Polaris</title><link>https://www.ouxt.jp/</link><atom:link href="https://www.ouxt.jp/index.xml" rel="self" type="application/rss+xml"/><description>OUXT Polaris</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>OUXT Polaris 2020</copyright><lastBuildDate>Sat, 28 Nov 2020 13:50:27 +0900</lastBuildDate><image><url>https://www.ouxt.jp/images/icon_hud1e4b740b82faf5d5011883d0ab60ce8_134644_512x512_fill_lanczos_center_2.png</url><title>OUXT Polaris</title><link>https://www.ouxt.jp/</link></image><item><title>特別編：ROSを使ったロボット開発講座</title><link>https://www.ouxt.jp/post/ros-seminar/</link><pubDate>Sat, 28 Nov 2020 13:50:27 +0900</pubDate><guid>https://www.ouxt.jp/post/ros-seminar/</guid><description>&lt;p>こんにちは！運営担当のにゎ～んこと丹羽です！&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>OUXT Polaris</title><link>https://www.ouxt.jp/</link><atom:link href="https://www.ouxt.jp/index.xml" rel="self" type="application/rss+xml"/><description>OUXT Polaris</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>OUXT Polaris 2020</copyright><lastBuildDate>Sat, 09 Jan 2021 21:44:49 +0900</lastBuildDate><image><url>https://www.ouxt.jp/images/icon_hud1e4b740b82faf5d5011883d0ab60ce8_134644_512x512_fill_lanczos_center_2.png</url><title>OUXT Polaris</title><link>https://www.ouxt.jp/</link></image><item><title>ROS駆け込み寺</title><link>https://www.ouxt.jp/pages/seminar/ros_help/</link><pubDate>Sat, 09 Jan 2021 21:44:49 +0900</pubDate><guid>https://www.ouxt.jp/pages/seminar/ros_help/</guid><description>&lt;p>OUXTでは2019年までROS1を，以降はROS2を使って開発を行っています．
+また，普段から研究や仕事でROS/ROS2を使っているメンバーが所属しています．&lt;/p>
+&lt;p>そんなOUXTのメンバーが皆さんのROS/ROS2の悩みに回答します！！&lt;/p>
+&lt;p>質問内容は些細なことや抽象的なことでも大丈夫です．&lt;/p>
+&lt;p>質問にはプライバシーや開発中のものに関する情報など含むので返答は収集させていただいたメールアドレスに対して返答させていただきます．
+また，ROS/ROS2に関する知見の共有のため，デリケートな情報を除いた上で投稿から2ヶ月以上後に質問・回答をHPに掲載させていただく場合があります．&lt;/p>
+&lt;iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfJzaz7ZrHD6UqBzDVAmTU2Stxz5buNfpNDu2Kmw5fzkoxY6A/viewform?embedded=true" width="720" height="1405" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます…&lt;/iframe></description></item><item><title>特別編：ROSを使ったロボット開発講座</title><link>https://www.ouxt.jp/post/ros-seminar/</link><pubDate>Sat, 28 Nov 2020 13:50:27 +0900</pubDate><guid>https://www.ouxt.jp/post/ros-seminar/</guid><description>&lt;p>こんにちは！運営担当のにゎ～んこと丹羽です！&lt;/p>
 &lt;p>さてタイトルの通り、OUXT-Polaris勉強会：特別編を開催します！
 &lt;figure class="center" >
 &lt;a data-fancybox="" href="https://connpass-tokyo.s3.amazonaws.com/thumbs/98/7e/987e3f4f2196cbc41d86c7539e8be89f.png" >
@@ -167,7 +173,7 @@
 &lt;h3 id="申し込み方法">申し込み方法&lt;/h3>
 &lt;p>
 &lt;a href="https://ouxt-polaris.connpass.com/event/177865/" target="_blank" rel="noopener">connpass イベントページ&lt;/a>よりお願いいたします。&lt;/p>
-&lt;p>Zoomを用いて開催します。参加者には開始1時間前をめどにURLを送付いたしますので、そちらの方から参加お願いします。&lt;/p></description></item><item><title>OUXT-Polaris 勉強会</title><link>https://www.ouxt.jp/pages/seminar/</link><pubDate>Fri, 29 May 2020 13:49:11 +0900</pubDate><guid>https://www.ouxt.jp/pages/seminar/</guid><description>
+&lt;p>Zoomを用いて開催します。参加者には開始1時間前をめどにURLを送付いたしますので、そちらの方から参加お願いします。&lt;/p></description></item><item><title>OUXT-Polaris 勉強会</title><link>https://www.ouxt.jp/pages/seminar/seminar/</link><pubDate>Fri, 29 May 2020 13:49:11 +0900</pubDate><guid>https://www.ouxt.jp/pages/seminar/seminar/</guid><description>
 &lt;figure class="center" >
 &lt;a data-fancybox="" href="https://www.ouxt.jp/img/seminar/banner.jpg" >
 &lt;img src="https://www.ouxt.jp/img/seminar/banner.jpg" alt="" width="450" >
