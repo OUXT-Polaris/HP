@@ -37,6 +37,6 @@ OUXT Polarisではロボット製作/開発費、ロボット輸送費を必要�
 - Northrop Grumman
 {{< figure src="/img/sponsors/GRUMMAN.jpg" class="center" width="450">}}
 
-## 過年度大会 スポンサー情報
+***
 
-- [RobotX2018](./RobotX2018/)
+# 過年度大会 スポンサー情報
