@@ -64,4 +64,4 @@ user_groups:
 また、チームではスポンサー募集を随時行っています。<br>
 詳細に関しましては、[スポンサー募集ページ](./pages/call-sponsor)をご確認ください。
 
-{{< youtube id="pr_4i2vnWtg">}}
+{{< youtube id="oXlsnz4ye64">}}
