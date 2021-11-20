@@ -195,3 +195,14 @@ https://frj.connpass.com/event/219686/
 | オンライン | 2021/10/14 | 片岡 大哉 | [ロボットシステムの開発と運用、本番で一発完動するロボットシステムのために](https://docs.google.com/presentation/d/1kG9Pfwr6wx-qhGW9SE4Ys5pHqlLd9rjwTmmQu1Qxxwo/edit?usp=sharing) |
 
 https://mlops.connpass.com/event/223517/
+
+
+##  Unity Dojo　秋のLT祭り
+
+| 場所 | 発表日 | 発表者 | 演題 |
+| -------- | -------- | -------- | -------- |
+| オンライン | 2021/10/19 | 片岡大哉 | [UniSim、ROS2に最適化されたUnityベースのシミュレータ](https://youtu.be/PUu66BCNRbQ) |
+
+https://meetup.unity3d.jp/jp/events/1332
+
+Unityは物理エンジンや高度なレンダリングパイプラインを備え、ロボティクス分野への応用が期待されている。 Maritime RobotX Challengeに出場しているOUXT Polarisでは実機テストのコスト削減のためUnityベースでROS2に最適化されたシミュレータの開発に着手している。 今回の講演ではURDFのインポートやネイティブライブラリを利用したROS2トピックPub/Sub等の技術を紹介する。
