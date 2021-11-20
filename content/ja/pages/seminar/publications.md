@@ -1,0 +1,197 @@
+---
+# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+
+title: "講演実績"
+subtitle: ""
+summary: "OUXT Polarisの過去の発表実績のまとめ"
+authors: [Masaya Kataoka]
+date: 2021-11-19T13:50:27+09:00
+lastmod: 2021-11-19T13:50:27+09:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+---
+
+OUXT Polarisでは開発を通して得た知見をROSコミュニティやロボット競技コミュニテイに還元するべく精力的に講演活動を行なっています。
+これまでの講演内容は以下の通りです。
+
+# RobotX
+
+Maritime RobotX Challengeの採点項目にはチームごとに提出されるTechnical Documentationの内容も含まれています。
+OUXT Polarisで過去に執筆したTechnical Documentationは以下のようなものがあります。
+
+## RobotX 2014
+
+| 場所 | 発表日 | 発表者 | 演題 |
+| -------- | -------- | -------- | -------- |
+| Singapore |  | Naoya Fujimoto, et al | [Catamaran Robot “Polaris -I” for Maritime RobotX Challenge 2014](https://robonation.org/app/uploads/sites/2/2019/09/Osaka_RX14_Paper.pdf)  |
+
+## RobotX 2016
+| 場所 | 発表日 | 発表者 | 演題 |
+| -------- | -------- | -------- | -------- |
+| Hawaii |  | Suisei Wada, et al |[Google Scholar Link](https://scholar.google.co.jp/scholar?cluster=4258648321170149126&hl=ja&as_sdt=2005&sciodt=0,5)  |
+
+## RobotX 2018
+
+| 場所 | 発表日 | 発表者 | 演題 |
+| -------- | -------- | -------- | -------- |
+| Hawaii | 2018/12/15 | 堀口修平 | [Design Presentation](https://docs.google.com/presentation/d/1f27lm-hlY2wn1rCtDxRG8pOUzUJ0dvNQmqGxTysoKtw/edit?usp=sharing) |
+
+# OUXT Polaris勉強会
+OUXT Polarisでは月に一度程度の頻度で勉強会を開催しています。
+勉強会においてはチーム外の方にも来ていただいて議論や知見の共有を行なっています。
+
+https://ouxt-polaris.connpass.com
+
+# ROSJP
+
+ROSJPは日本のROSユーザーグループです。
+OUXT Polarisでは日本のROSコミュニティに情報発信するべく積極的に発表しております。
+また、現在チームメンバーの片岡は2021年よりROSJPの運営チームの一員となっています。
+
+### ROS Japan UG #13 移動ロボット勉強会
+
+| 場所 | 発表日 | 発表者 | 演題 |
+| -------- | -------- | -------- | -------- |
+| 東京 | 2017/10/25 | 片岡大哉、和田翠星 | [GazeboでUSV シミュレーション](https://docs.google.com/presentation/d/1sFCBonvnUbPf5SBrAahCp6JlBjhRLaM3x-krzjUcNNk/edit) |
+
+https://rosjp.connpass.com/event/66253/
+
+## ROS Japan UG #18 関西勉強会
+| 場所 | 発表日 | 発表者 | 演題 |
+| -------- | -------- | -------- | -------- |
+| 滋賀 | 2017/12/17 | 片岡大哉、西下敦生 | [pclで三次元物体認識](https://www.slideshare.net/masayakataoka/3d-object-detection-using-pcl-point-cloud-library) |
+
+https://rosjp.connpass.com/event/72045/
+
+## ROS Japan UG #34 LT大会（持ち込みLT）
+
+| 場所 | 発表日 | 発表者 | 演題 |
+| -------- | -------- | -------- | -------- |
+| 東京 | 2020/02/17 | 片岡大哉 | [ROS2で共有ライブラリを作るのがとてもつらいお話](https://docs.google.com/presentation/d/1um8clBICblZ8IX2l2BtMWgPt_LQU85J5BOpsp0Tubnw/edit?usp=sharing)  [動画](https://youtu.be/nKE7xUATBNA?t=423) |
+
+https://rosjp.connpass.com/event/161041/
+
+## ROS Japan UG Re: #35 自作／カスタムロボットのROS対応 Webinar
+
+| 場所 | 発表日 | 発表者 | 演題 |
+| -------- | -------- | -------- | -------- |
+| オンライン | 2020/12/14 | 吉本幸太郎 | 自動航行船のROS2対応 [動画](https://www.youtube.com/watch?v=xDzj1rGwfNw&list=PLy_c3-6F_9apKcw2gl2ESH9djX-1k6WeG&index=5) |
+
+https://rosjp.connpass.com/event/197222/
+
+## ROS Japan UG #38 オンラインROS勉強会
+
+| 場所 | 発表日 | 発表者 | 演題 |
+| -------- | -------- | -------- | -------- |
+| オンライン | 2020/08/28 | 片岡大哉 | ROS2のドキュメント自動生成してみた[動画](https://youtu.be/SFs4jSWL-D8?t=3108) |
+
+https://rosjp.connpass.com/event/183750/
+
+## ROS Japan UG #43 組み込み勉強会
+
+| 場所 | 発表日 | 発表者 | 演題 |
+| -------- | -------- | -------- | -------- |
+| オンライン | 2021/7/17 | 片岡 大哉 | [ros2_controlで動くロボット 多摩川で浮かべてみた](https://docs.google.com/presentation/d/1Da5UXz_yvCCBQYr6Cr0bLGdi5MX7BNx4QrMvNeQvFds/edit?usp=sharing) |
+
+https://rosjp.connpass.com/event/215366/
+
+# ROSCON
+
+ROSCONは査読ありのROS開発者の国際会議です。
+OUXT PolarisではROSCONJPの2018,2019,2021の本会議に提案が採択された実績及びROSCON MacauにてメンバーがLightning Talkを行なった実績があります。
+
+## ROSCONJP 2018
+| 場所 | 発表日 | 発表者 | 演題 |
+| -------- | -------- | -------- | -------- |
+| 東京 | 2018/9/14 |田中良道  | [Maritime RobotX Challenge 2018への取り組み](https://roscon.ros.org/jp/2018/presentations/ROSCon_JP_2018_presentation_17.pdf) |
+
+### Abstract
+
+OUXT Polarisは日本各地の高専生・大学生・大学院生を中心に構成されたチームである。自律走行船の国際大会であるMaritime RobotX Challengeへ唯一の日本チームとして参加し、入賞することを活動目的としている。ROSCon JP 2018 においては、開発中の機体について各技術要素とROSによるシステム統合技術を紹介し、知識と経験の共有を図るとともに、要素技術に関する議論を期待している。
+
+ [video](https://vimeo.com/292069925)
+
+## ROSCONJP 2019
+| 場所 | 発表日 | 発表者 | 演題 |
+| -------- | -------- | -------- | -------- |
+| 東京 | 2019/09/25 | 片岡大哉・和田翠星・増岡伸也・田中良道 | [Virtual RobotX Chellengeへ向けたオープンソース自律航行システムの開発](https://docs.google.com/presentation/d/1h-CJzWTqgiuRm0yYv2PdxBk7fp8D3dvHgWh-_MqOTO4/edit?usp=sharing) |
+
+### Abstract
+OUXT PolarisはMaritime RobotX Challengeに日本から有志で参加しているチームである。2018年大会ではタスクをROSを用いてOSSの自律航行システムを構築し、大会ではタスクを1つクリアした。今年は、シミュレーターによる大会Virtual RobotX Challengeが開催される。ROSCon JP 2019では、昨年の反省を踏まえたソフトウェアアーキテクチャの改良と、成果物によるROSコミュニティへの貢献について発表を行う。
+[video](https://vimeopro.com/osrfoundation/roscon-jp-2019/video/370249409)
+
+## ROSCON 2019 Macau
+
+| 場所 | 発表日 | 発表者 | 演題 |
+| -------- | -------- | -------- | -------- |
+| マカオ | 2019/11/1 | 片岡大哉 | [pcl_appsとROS2で始める点群処理](https://docs.google.com/presentation/d/1JlIHBWABynf4gf0fQTIkJ3G6S0t-PvDRBwkFqgfJnik/edit?usp=sharing)  |
+
+## ROSCONJP 2021
+
+| 場所 | 発表日 | 発表者 | 演題 |
+| -------- | -------- | -------- | -------- |
+| 東京 | 2021/9/16 | 吉本幸太郎・小倉将人 | [Martime RobotX Challenge2022 のためのビヘイビアプランニング開発](https://roscon.jp/presentations/21.pdf) <br>動画　https://vimeo.com/638043225/b9f16e187d |
+| 東京 | 2021/9/16 | 片岡大哉 | [ros-integration-action 無料で始める簡単結合テスト](https://docs.google.com/presentation/d/1MSvtNRBFXpQIUjxkKop5JWZlm5n56TC96fJPIpgbCdM/edit?usp=sharing) |
+
+https://roscon.jp/
+
+### Abstract
+OUXT-Polaris は完全自律航行船の国際コンテスト出場を目指すチームである。自律航行のためのビヘイビアプラニングには BehaviorTree.CPP ライブラリ1を使用している。 OUXT ではこのライブラリを更に便利に使うための拡張ツールを開発した。また、自動航行ソフトウェアのテストには実機実験が大切である。コロナ禍でも実施可能な OUXT-Polaris の取り組みを紹介する。
+
+# 他ロボット競技チームとの交流
+
+## ごちゃまぜロボットコンテスト交流会 #1
+### 回路・制御セッションLT
+
+| 場所 | 発表日 | 発表者 | 演題 |
+| -------- | -------- | -------- | -------- |
+| オンライン | 2021/8/29 | 真田 辰哉 | [回路のドキュメント， 残してますか？](https://docs.google.com/presentation/d/1eX-4q53B-KSLe45MT007Y4fA5y4Qvg5hhZ7Q96SlFeY/edit?usp=sharing) |
+| オンライン | 2021/8/29 | 片岡 大哉 | [コロナ禍でもみんなでできるフィールド実験を目指して](https://docs.google.com/presentation/d/1gdvyy3P4PtuJM4OW5FNaBInLRl3fx1LGs2wjQ9_TK_M/edit?usp=sharing) |
+
+https://scramble-robocon-meetup.connpass.com/event/218937/
+
+## フィールドロボティクス勉強会 #1
+
+| 場所 | 発表日 | 発表者 | 演題 |
+| -------- | -------- | -------- | -------- |
+| オンライン | 2019/12/20 | 片岡 大哉 | [ソフト屋から見たフィールドロボット スコールに負けない認識系を作る！！](https://docs.google.com/presentation/d/1La6yIR7biA0-OSTfUmhWJ_WzKOiSXXZ-Bv4oG04rzdQ/edit?usp=sharing) |
+
+https://frj.connpass.com/event/156793/
+
+## そとろぼ！ 第2回フィールドロボティクス勉強会オンライン
+
+| 場所 | 発表日 | 発表者 | 演題 |
+| -------- | -------- | -------- | -------- |
+| オンライン | 2021/8/28 | 片岡 大哉 | [ros2_controlで動くロボット 多摩川、安威川で浮かべてみた](https://docs.google.com/presentation/d/1LOxP7aNiviGGZsBSauLB_Vhlks3EigBtK8BozU3C0pQ/edit?usp=sharing) |
+
+https://frj.connpass.com/event/219686/
+
+## 自律移動勉強会with Robohan
+
+| 場所 | 発表日 | 発表者 | 演題 |
+| -------- | -------- | -------- | -------- |
+| オンライン | 2021/9/19 | 片岡 大哉 | [自律移動勉強会 with Robohan](https://docs.google.com/presentation/d/1EPSkBz0jrBDOpFTDcVVkeMStDlK6PijpHtkO5YvwGxU/edit?usp=sharing) |
+
+
+# その他勉強会
+##  第12回 MLOps 勉強会
+| 場所 | 発表日 | 発表者 | 演題 |
+| -------- | -------- | -------- | -------- |
+| オンライン | 2021/10/14 | 片岡 大哉 | [ロボットシステムの開発と運用、本番で一発完動するロボットシステムのために](https://docs.google.com/presentation/d/1kG9Pfwr6wx-qhGW9SE4Ys5pHqlLd9rjwTmmQu1Qxxwo/edit?usp=sharing) |
+
+https://mlops.connpass.com/event/223517/
