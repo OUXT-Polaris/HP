@@ -141,7 +141,7 @@ OUXT PolarisはMaritime RobotX Challengeに日本から有志で参加してい�
 | -------- | -------- | -------- | -------- |
 | マカオ | 2019/11/1 | 片岡大哉 | [pcl_appsとROS2で始める点群処理](https://docs.google.com/presentation/d/1JlIHBWABynf4gf0fQTIkJ3G6S0t-PvDRBwkFqgfJnik/edit?usp=sharing)  |
 
-## ROSCONP 2021
+## ROSCONJP 2021
 
 | 場所 | 発表日 | 発表者 | 演題 |
 | -------- | -------- | -------- | -------- |
