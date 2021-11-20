@@ -411,7 +411,29 @@ OUXT PolarisではROSCONJPの2018,2019,2021の本会議に提案が採択され�
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
-&lt;p>&lt;a href="https://mlops.connpass.com/event/223517/">https://mlops.connpass.com/event/223517/&lt;/a>&lt;/p></description></item><item><title>スポンサー（RobotX2018）</title><link>https://www.ouxt.jp/pages/sponsor/robotx2018/</link><pubDate>Wed, 13 Jan 2021 22:14:03 +0900</pubDate><guid>https://www.ouxt.jp/pages/sponsor/robotx2018/</guid><description>&lt;p>RobotX2018 では下記スポンサーの皆様にご支援を承りました。ありがとうございました。&lt;/p>
+&lt;p>&lt;a href="https://mlops.connpass.com/event/223517/">https://mlops.connpass.com/event/223517/&lt;/a>&lt;/p>
+&lt;h2 id="unity-dojo秋のlt祭り">Unity Dojo　秋のLT祭り&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>場所&lt;/th>
+&lt;th>発表日&lt;/th>
+&lt;th>発表者&lt;/th>
+&lt;th>演題&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>オンライン&lt;/td>
+&lt;td>2021/10/19&lt;/td>
+&lt;td>片岡大哉&lt;/td>
+&lt;td>
+&lt;a href="https://youtu.be/PUu66BCNRbQ" target="_blank" rel="noopener">UniSim、ROS2に最適化されたUnityベースのシミュレータ&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>&lt;a href="https://meetup.unity3d.jp/jp/events/1332">https://meetup.unity3d.jp/jp/events/1332&lt;/a>&lt;/p>
+&lt;p>Unityは物理エンジンや高度なレンダリングパイプラインを備え、ロボティクス分野への応用が期待されている。 Maritime RobotX Challengeに出場しているOUXT Polarisでは実機テストのコスト削減のためUnityベースでROS2に最適化されたシミュレータの開発に着手している。 今回の講演ではURDFのインポートやネイティブライブラリを利用したROS2トピックPub/Sub等の技術を紹介する。&lt;/p></description></item><item><title>スポンサー（RobotX2018）</title><link>https://www.ouxt.jp/pages/sponsor/robotx2018/</link><pubDate>Wed, 13 Jan 2021 22:14:03 +0900</pubDate><guid>https://www.ouxt.jp/pages/sponsor/robotx2018/</guid><description>&lt;p>RobotX2018 では下記スポンサーの皆様にご支援を承りました。ありがとうございました。&lt;/p>
 &lt;h2 id="gold-sponsors">Gold Sponsors&lt;/h2>
 &lt;ul>
 &lt;li>CLOUDIAN
