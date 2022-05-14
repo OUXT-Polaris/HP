@@ -14,7 +14,7 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: TierⅣ.inc
+- name: TIER Ⅳ.inc
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
