@@ -14,7 +14,7 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: 奈良先端科学技術大学院大学
+- name: TIER Ⅳ.inc
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
