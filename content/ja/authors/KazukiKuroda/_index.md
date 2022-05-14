@@ -1,10 +1,10 @@
 ---
 # Display name
-title: 片岡 大哉
+title: 黒田 和暉
 
 # Username (this should match the folder name)
 authors:
-- MasayaKataoka
+- KazukiKuroda
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,7 +14,7 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: TIER Ⅳ.inc
+- name: 無所属
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -39,7 +39,7 @@ social:
 #  link: https://twitter.com/hahahahaha_NNN
 - icon: github
   icon_pack: fab
-  link: https://github.com/hakuturu583
+  link: https://github.com/kazuki0824
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

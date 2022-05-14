@@ -1,10 +1,10 @@
 ---
 # Display name
-title: 増岡 伸哉
+title: 荒井 杏真
 
 # Username (this should match the folder name)
 authors:
-- ShinyaMasuoka
+- KyomaArai
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,7 +14,7 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: 兵庫県立大学
+- name: 東海大学
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -37,9 +37,9 @@ social:
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/hahahahaha_NNN
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/kazuki0824
+- icon: github
+  icon_pack: fab
+  link: https://github.com/AkubiCot
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
