@@ -14,7 +14,7 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: 大阪大学大学院
+- name: メカトロニクスエンジニア
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -54,7 +54,6 @@ email: "tototohide@gmail.com"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 回路
 - 運営
 ---
 # 自己紹介
