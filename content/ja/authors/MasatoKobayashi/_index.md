@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: "学術研究員"
+role: "助教"
 
 # Organizations/Affiliations
 organizations:
-- name: "神戸大学大学院"
+- name: "大阪大学"
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -85,11 +85,11 @@ user_groups:
 | 2021年 11月-2022年 3月 | オムロンサイニックエックス株式会社リサーチインターンに従事.Robotics×AIに関する研究|
 | 2021年 11月-2022年 9月 | 国立研究開発法人科学技術振興機構 (JST) 次世代研究者挑戦的研究プログラムに従事|
 | 2022年 9月-現在 | OUXT Polaris メンバー:自律航行船の国際ロボットコンテストのMaritime RobotX Challengeへ向けて挑戦中の日本唯一の学生主体チーム|
-| 2022年 10月-現在 | 神戸大学大学院　海事科学研究科　学術研究員(助教相当)|
-| 2022年 10月-現在 | 東京大学松尾研究室とAI×ロボットに関する業務やTRAILに従事|
+| 2022年 10月-2023年 3月 | 神戸大学大学院　海事科学研究科　学術研究員(助教相当)|
+| 2022年 10月-現在 | 東京大学松尾研究室とAI×ロボットに関する研究に従事(ロボットチーム TRAIL)|
+| 2023年 4月-現在 | 大阪大学 サイバーメディアセンター 情報メディア教育研究部門 ([竹村研究室](https://www.lab.ime.cmc.osaka-u.ac.jp/))　助教に従事|
 
-- 個人サイト
-https://mertcookimg.github.io/
+- [個人サイト](https://mertcookimg.github.io/)
 
-- researchmap
-https://researchmap.jp/kobayashi.masato?lang=ja
+
+- [researchmap](https://researchmap.jp/kobayashi.masato?lang=ja)
