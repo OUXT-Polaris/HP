@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: "Academic Researcher"
+role: "Assistant Professor"
 
 # Organizations/Affiliations
 organizations:
-- name: "Kobe University"
+- name: "Osaka University"
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -82,11 +82,10 @@ user_groups:
 | Nov,2021-Mar,2022| Research Administrative Division Research Internship, OMRON SINIC X Corporation 
 | Nov,2021-Sep,2022| Japan Science and Technology Agency, Support for Pioneering Research Initiated by the Next Generation|
 | Sep,2022-Present| OUXT Polaris Member ( Maritime Robotx Challenge)|
-| Oct,2022-Present| Academic Researcher, Graduate School of Maritime Sciences, Kobe University.|
+| Oct,2022-Mar,2023| Academic Researcher, Graduate School of Maritime Sciences, Kobe University.|
 | Oct,2022-Present| Robotics and AI Project with The University of Tokyo (Matsuo Laboratory),TRAIL |
+| Apr,2023-Present| Assistant Professor, Informedia Education Research Division, Cybermedia Center, Osaka University |
 
-- My page
-https://mertcookimg.github.io/
+- [My page](https://mertcookimg.github.io/)
 
-- researchmap
-https://researchmap.jp/kobayashi.masato?lang=en
+- [researchmap](https://researchmap.jp/kobayashi.masato?lang=en)
