@@ -433,65 +433,7 @@ OUXT PolarisではROSCONJPの2018,2019,2021の本会議に提案が採択され�
 &lt;/tbody>
 &lt;/table>
 &lt;p>&lt;a href="https://meetup.unity3d.jp/jp/events/1332">https://meetup.unity3d.jp/jp/events/1332&lt;/a>&lt;/p>
-&lt;p>Unityは物理エンジンや高度なレンダリングパイプラインを備え、ロボティクス分野への応用が期待されている。 Maritime RobotX Challengeに出場しているOUXT Polarisでは実機テストのコスト削減のためUnityベースでROS2に最適化されたシミュレータの開発に着手している。 今回の講演ではURDFのインポートやネイティブライブラリを利用したROS2トピックPub/Sub等の技術を紹介する。&lt;/p></description></item><item><title>スポンサー（RobotX2018）</title><link>https://www.ouxt.jp/pages/sponsor/robotx2018/</link><pubDate>Wed, 13 Jan 2021 22:14:03 +0900</pubDate><guid>https://www.ouxt.jp/pages/sponsor/robotx2018/</guid><description>&lt;p>RobotX2018 では下記スポンサーの皆様にご支援を承りました。ありがとうございました。&lt;/p>
-&lt;h2 id="gold-sponsors">Gold Sponsors&lt;/h2>
-&lt;ul>
-&lt;li>CLOUDIAN
-&lt;figure class="center" >
-&lt;a data-fancybox="" href="https://www.ouxt.jp/img/sponsors/CLOUDIAN.png" >
-&lt;img src="https://www.ouxt.jp/img/sponsors/CLOUDIAN.png" alt="" width="450" >
-&lt;/a>
-&lt;/figure>
-&lt;/li>
-&lt;li>FURUNO
-&lt;figure class="center" >
-&lt;a data-fancybox="" href="https://www.ouxt.jp/img/sponsors/FURUNO.png" >
-&lt;img src="https://www.ouxt.jp/img/sponsors/FURUNO.png" alt="" width="450" >
-&lt;/a>
-&lt;/figure>
-&lt;/li>
-&lt;li>Northrop Grumman
-&lt;figure class="center" >
-&lt;a data-fancybox="" href="https://www.ouxt.jp/img/sponsors/GRUMMAN.jpg" >
-&lt;img src="https://www.ouxt.jp/img/sponsors/GRUMMAN.jpg" alt="" width="450" >
-&lt;/a>
-&lt;/figure>
-&lt;/li>
-&lt;li>Tier IV
-&lt;figure class="center" >
-&lt;a data-fancybox="" href="https://www.ouxt.jp/img/sponsors/tier_iv.png" >
-&lt;img src="https://www.ouxt.jp/img/sponsors/tier_iv.png" alt="" width="450" >
-&lt;/a>
-&lt;/figure>
-&lt;/li>
-&lt;/ul>
-&lt;h2 id="silver-sponsors">Silver Sponsors&lt;/h2>
-&lt;ul>
-&lt;li>Mitsui E&amp;amp;S Shipbuilding
-&lt;figure class="center" >
-&lt;a data-fancybox="" href="https://www.ouxt.jp/img/sponsors/Mitsui-ES.jpg" >
-&lt;img src="https://www.ouxt.jp/img/sponsors/Mitsui-ES.jpg" alt="" width="450" >
-&lt;/a>
-&lt;/figure>
-&lt;/li>
-&lt;li>Yanmar
-&lt;figure class="center" >
-&lt;a data-fancybox="" href="https://www.ouxt.jp/img/sponsors/yanmar_logo.gif" >
-&lt;img src="https://www.ouxt.jp/img/sponsors/yanmar_logo.gif" alt="" width="450" >
-&lt;/a>
-&lt;/figure>
-&lt;/li>
-&lt;/ul>
-&lt;h2 id="bronze-sponsors">Bronze Sponsors&lt;/h2>
-&lt;ul>
-&lt;li>NVIDIA
-&lt;figure class="center" >
-&lt;a data-fancybox="" href="https://www.ouxt.jp/img/sponsors/nvidia.jpg" >
-&lt;img src="https://www.ouxt.jp/img/sponsors/nvidia.jpg" alt="" width="450" >
-&lt;/a>
-&lt;/figure>
-&lt;/li>
-&lt;/ul></description></item><item><title>ROS駆け込み寺</title><link>https://www.ouxt.jp/pages/seminar/ros_help/</link><pubDate>Sat, 09 Jan 2021 21:44:49 +0900</pubDate><guid>https://www.ouxt.jp/pages/seminar/ros_help/</guid><description>&lt;p>OUXTでは2019年までROS1を，以降はROS2を使って開発を行っています．
+&lt;p>Unityは物理エンジンや高度なレンダリングパイプラインを備え、ロボティクス分野への応用が期待されている。 Maritime RobotX Challengeに出場しているOUXT Polarisでは実機テストのコスト削減のためUnityベースでROS2に最適化されたシミュレータの開発に着手している。 今回の講演ではURDFのインポートやネイティブライブラリを利用したROS2トピックPub/Sub等の技術を紹介する。&lt;/p></description></item><item><title>ROS駆け込み寺</title><link>https://www.ouxt.jp/pages/seminar/ros_help/</link><pubDate>Sat, 09 Jan 2021 21:44:49 +0900</pubDate><guid>https://www.ouxt.jp/pages/seminar/ros_help/</guid><description>&lt;p>OUXTでは2019年までROS1を，以降はROS2を使って開発を行っています．
 また，普段から研究や仕事でROS/ROS2を使っているメンバーが所属しています．&lt;/p>
 &lt;p>そんなOUXTのメンバーが皆さんのROS/ROS2の悩みに回答します！！&lt;/p>
 &lt;p>質問内容は些細なことや抽象的なことでも大丈夫です．&lt;/p>
