@@ -31,12 +31,3 @@ OUXT Polarisではロボット製作/開発費、ロボット輸送費を必要�
 そのため、スポンサーを随時募集しています。（参考：[スポンサー募集ページ](../call-sponsor)）
 
 ご不明な点がございましたら、[お問い合わせ](../../#contact)よりご連絡お願いします。
-
-## Gold Sponsors
-
-- Northrop Grumman
-{{< figure src="/img/sponsors/GRUMMAN.jpg" class="center" width="450">}}
-
-***
-
-# 過年度大会 スポンサー情報
