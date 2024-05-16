@@ -13,10 +13,10 @@
   url = "/post"
   weight = 20
 
-[[main]]
-  name = "スポンサー/Sponsor"
-  url = "/pages/sponsor"
-  weight = 30
+# [[main]]
+#   name = "スポンサー/Sponsor"
+#   url = "/pages/sponsor"
+#   weight = 30
 
 [[main]]
   name = "勉強会/Seminar"
