@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 岡本健太
+title: 岡本 健太
 
 # Username (this should match the folder name)
 authors:
@@ -14,7 +14,7 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: 京都工芸繊維大学
+- name: トヨタ自動車株式会社
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -52,5 +52,5 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- ソフトウェア
+- 運営
 ---

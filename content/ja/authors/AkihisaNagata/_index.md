@@ -14,7 +14,7 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: 関西大学
+- name: 株式会社ティアフォー
   url: ""
 
 # Short bio (displayed in user profile at end of posts)

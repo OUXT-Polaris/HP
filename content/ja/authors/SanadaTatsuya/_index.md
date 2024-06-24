@@ -14,7 +14,7 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: 無所属
+- name: TXP Medical株式会社
   url: ""
 
 # Short bio (displayed in user profile at end of posts)

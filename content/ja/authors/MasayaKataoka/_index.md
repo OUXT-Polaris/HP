@@ -14,7 +14,7 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: TIER Ⅳ.inc
+- name: 株式会社ティアフォー
   url: ""
 
 # Short bio (displayed in user profile at end of posts)

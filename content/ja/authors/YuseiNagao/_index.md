@@ -1,10 +1,10 @@
 ---
 # Display name
-title: 小田島 拓海
+title: 長尾 悠世
 
 # Username (this should match the folder name)
 authors:
-- TakumiKotajima
+- YuseiNagao
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,7 +14,7 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: 豊橋技術科学大学
+- name: 株式会社デンソー
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -37,9 +37,9 @@ social:
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/hahahahaha_NNN
-- icon: github
-  icon_pack: fab
-  link: https://github.com/Kotakku
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

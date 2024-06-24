@@ -1,10 +1,10 @@
 ---
 # Display name
-title: 服部 真人
+title: 松崎 史弥
 
 # Username (this should match the folder name)
 authors:
-- MasatoHattori
+- FumiyaMatsuzaki
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,7 +14,7 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: 有限会社ベースアドレステクノロジーズジャパン
+- name: 九州大学
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -34,12 +34,12 @@ bio:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/hahahahaha_NNN
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/kazuki0824
+- icon: twitter
+ icon_pack: fab
+ link: https://twitter.com/santana_hammer
+- icon: github
+  icon_pack: fab
+  link: https://github.com/trigger-fk
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -52,6 +52,11 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- ハードウェア
-- 回路
+- ソフトウェア
 ---
+
+## プロフィール
+2023.10-Present: StrayedCats (The Championship of Robotics Engineers)<br>
+2023.04-Present: OUXT Polaris (Maritime RobotX Challenge)<br>
+2022.10-2024.03: Hibikino-Musashi@Home (RoboCup@Home)<br>
+2020.08-2023.03: FUKUOKA NIWAKA (RoboMaster)<br>
