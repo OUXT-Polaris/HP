@@ -34,9 +34,9 @@ bio:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: twitter
- icon_pack: fab
- link: https://twitter.com/santana_hammer
+# - icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/santana_hammer
 - icon: github
   icon_pack: fab
   link: https://github.com/trigger-fk
