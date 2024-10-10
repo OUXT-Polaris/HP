@@ -7,7 +7,8 @@
 &lt;iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfJzaz7ZrHD6UqBzDVAmTU2Stxz5buNfpNDu2Kmw5fzkoxY6A/viewform?embedded=true" width="720" height="1405" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます…&lt;/iframe></description></item><item><title>スポンサー募集</title><link>https://www.ouxt.jp/pages/call-sponsor/</link><pubDate>Wed, 24 Jun 2020 12:34:23 +0900</pubDate><guid>https://www.ouxt.jp/pages/call-sponsor/</guid><description>&lt;p>OUXT Polarisではロボット製作/開発費、ロボット輸送費を必要としています。&lt;br>
 そのため、スポンサーを随時募集しています。&lt;br>
 ご不明な点がございましたら、
-&lt;a href="../../#contact">お問い合わせ&lt;/a>よりご連絡お願いします。&lt;/p>
+&lt;a href="../../#contact">お問い合わせ&lt;/a>よりご連絡お願いします。
+現在は2025年年末までのスポンサー企業様を募集しております。&lt;/p>
 &lt;h3 id="金銭支援スポンサー">金銭支援スポンサー&lt;/h3>
 &lt;p>私たちOUXT Polarisでは、ロボットのパーツや輸送費にお金を必要としています。&lt;br>
 それらの支援をしていただけるスポンサー様を募集しています。&lt;/p>
@@ -17,37 +18,113 @@
 貴社の製品をお貸しいただきましたら、半額を協賛金とさせていただきます。&lt;/p>
 &lt;p>もしこれらに興味を持っていただけましたら、
 &lt;a href="../../#contact">お問い合わせ&lt;/a> よりご連絡お願いします。&lt;/p>
-&lt;h2 id="gold-sponsors">Gold Sponsors&lt;/h2>
-&lt;p>対象：&lt;strong>￥1,000,000&lt;/strong>以上&lt;/p>
-&lt;p>あなたの会社のロゴ(ロゴサイズ：大)を下記に掲載させていただきます！&lt;/p>
-&lt;ul>
-&lt;li>船体&lt;/li>
-&lt;li>
-&lt;a href="../sponsor/">Webサイト（スポンサーページ）&lt;/a>&lt;/li>
-&lt;li>チームユニホーム&lt;/li>
-&lt;li>
-&lt;a href="https://github.com/OUXT-Polaris/vrx" target="_blank" rel="noopener">オープンソースのシミュレーション&lt;/a>上の船の3Dモデル上&lt;/li>
-&lt;li>
-&lt;a href="https://github.com/OUXT-Polaris/ouxt_automation/tree/master" target="_blank" rel="noopener">メインGithubリポジトリ&lt;/a>のREADME.mdファイル上&lt;/li>
-&lt;/ul>
-&lt;p>また、スポンサー企業様とメンバーとの技術交流会開催を予定しています。&lt;/p>
-&lt;h2 id="silver-sponsors">Silver Sponsors&lt;/h2>
-&lt;p>対象：&lt;strong>￥500,000&lt;/strong>以上&lt;/p>
-&lt;p>あなたの会社のロゴ(ロゴサイズ：中)を下記に掲載させていただきます！&lt;/p>
-&lt;ul>
-&lt;li>船体&lt;/li>
-&lt;li>
-&lt;a href="../sponsor/">Webサイト（スポンサーページ）&lt;/a>&lt;/li>
-&lt;li>チームユニホーム&lt;/li>
-&lt;/ul>
-&lt;p>また、スポンサー企業様とメンバーとの技術交流会開催を予定しています。&lt;/p>
-&lt;h2 id="bronze-sponsors">Bronze Sponsors&lt;/h2>
-&lt;p>対象：&lt;strong>￥300,000&lt;/strong>以上&lt;/p>
-&lt;p>あなたの会社のロゴ(ロゴサイズ：小)を下記に掲載させていただきます！&lt;/p>
-&lt;ul>
-&lt;li>船体&lt;/li>
-&lt;li>
-&lt;a href="../sponsor/">Webサイト（スポンサーページ）&lt;/a>&lt;/li>
-&lt;li>チームユニホーム&lt;/li>
-&lt;/ul>
-&lt;p>また、スポンサー企業様とメンバーとの技術交流会開催を予定しています。&lt;/p></description></item></channel></rss>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;/th>
+&lt;th>Gold Sponsor&lt;/th>
+&lt;th>Silver Sponsor&lt;/th>
+&lt;th>Bronze Sponsors&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>スポンサーシップ金額&lt;/td>
+&lt;td>&lt;strong>￥1,000,000&lt;/strong>以上&lt;/td>
+&lt;td>&lt;strong>￥5,00,000&lt;/strong>以上&lt;/td>
+&lt;td>&lt;strong>￥300,000&lt;/strong>以上&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Roboboat船体へのロゴ掲示&lt;/td>
+&lt;td>大サイズ（最大 縦60 mm、横 120 mm）&lt;/td>
+&lt;td>中サイズ（最大 縦40 mm、横 80 mm）&lt;/td>
+&lt;td>小サイズ(最大 縦 30 mm、横 60 mm)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Roboboat船体へのロゴ掲示位置&lt;/td>
+&lt;td>船体上部およびハル（片側のみ）&lt;/td>
+&lt;td>船体上部および側面（片側のみ）&lt;/td>
+&lt;td>船体上部&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>チームユニホームへの貴社のロゴ掲示&lt;/td>
+&lt;td>大サイズ（最大 縦60 mm、横120 mm）&lt;/td>
+&lt;td>中サイズ（最大 縦40 mm、横80 mm）&lt;/td>
+&lt;td>小サイズ（最大 縦30 mm、横60 mm）&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>
+&lt;a href="https://github.com/OUXT-Polaris/vrx" target="_blank" rel="noopener">オープンソースのシミュレーション&lt;/a>上の船の3Dモデル上への貴社のロゴ掲示&lt;/td>
+&lt;td>あり（最大 縦200 mm、横400 mm）&lt;/td>
+&lt;td>なし&lt;/td>
+&lt;td>なし&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>
+&lt;a href="https://github.com/OUXT-Polaris/ouxt_automation/tree/master" target="_blank" rel="noopener">メインGithubリポジトリ&lt;/a>のREADME.mdファイル上への貴社のロゴ掲示と謝辞の掲載&lt;/td>
+&lt;td>あり（貴社のロゴで1行、貴社の会社名で1行、計２行分を確保いたします）&lt;/td>
+&lt;td>なし&lt;/td>
+&lt;td>なし&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>
+&lt;a href="../sponsor/">公式Webサイト（スポンサーページ）&lt;/a>への貴社のロゴの掲示&lt;/td>
+&lt;td>1社につき1行&lt;/td>
+&lt;td>2社につき1行&lt;/td>
+&lt;td>3社につき1行&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>
+&lt;a href="https://note.com/polaris_ouxt/m/m0011a1816b40" target="_blank" rel="noopener">ウェブマガジン上での謝辞の掲載&lt;/a>&lt;/td>
+&lt;td>貴社の会社名で1行、計２行&lt;/td>
+&lt;td>会社名で1行&lt;/td>
+&lt;td>なし&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>
+&lt;a href="https://x.com/ouxt_polaris" target="_blank" rel="noopener">チーム所有SNSアカウント&lt;/a>でスポンサー契約時に告知&lt;/td>
+&lt;td>あり&lt;/td>
+&lt;td>あり&lt;/td>
+&lt;td>あり&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>OUXTによる成果報告会の開催及びそれの参加権&lt;/td>
+&lt;td>あり&lt;/td>
+&lt;td>あり&lt;/td>
+&lt;td>あり&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>ウェブ上で複数の会社のロゴが同一の場所に掲示される場合、表示順はページの上から Gold Sponsors =&amp;gt; Silver Sponsors =&amp;gt; Bronze Sponsorsとなります。&lt;/p>
+&lt;p>また、同じ種別のスポンサーが複数社おられる場合表示順はスポンサー契約を結んでいただいた順となります。&lt;/p>
+&lt;h3 id="各種リターンのサンプル">各種リターンのサンプル&lt;/h3>
+&lt;p>各種リターンのサンプルは下記のとおりです。
+もしご不明な点がございましたら、
+&lt;a href="../../#contact">お問い合わせ&lt;/a>よりご連絡お願いします。&lt;/p>
+&lt;h4 id="snsでのスポンサー契約締結告知文">SNSでのスポンサー契約締結告知文&lt;/h4>
+&lt;pre>&lt;code>この度OUXT Polarisは〇〇などの製品を開発されている△△社様とスポンサー契約を結びました。
+△△社様には□□スポンサーとしてご支援を賜ります。🤝
+今後ともよろしくお願いいたします。
+（△△社Webサイト）
+&lt;/code>&lt;/pre>
+&lt;h4 id="ウェブマガジン上での謝辞の掲載">ウェブマガジン上での謝辞の掲載&lt;/h4>
+&lt;pre>&lt;code>OUXT Polarisは、
+(GOLD SPONSER社)様
+ロゴ
+(GOLD SPONSER社)様
+ロゴ
+(SILVER SPONSER社)様
+(SILVER SPONSER社)様
+その他企業、個人スポンサー様からのご支援で活動しております。
+今後ともよろしくお願いいたします。
+&lt;/code>&lt;/pre>
+&lt;h4 id="メインgithubリポジトリのreadmemdファイル上への貴社のロゴ掲示と謝辞の掲載">メインGithubリポジトリのREADME.mdファイル上への貴社のロゴ掲示と謝辞の掲載&lt;/h4>
+&lt;pre>&lt;code>OUXT Polaris is sponsored by
+(GOLD SPONSER社)様
+ロゴ
+(GOLD SPONSER社)様
+ロゴ
+(SILVER SPONSER社)様
+(SILVER SPONSER社)様
+and other sponsor companies/individuals.
+&lt;/code>&lt;/pre></description></item></channel></rss>
