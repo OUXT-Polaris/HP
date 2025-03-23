@@ -18,6 +18,15 @@ date_format = "2006/01/02"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "RoboBoat 2025"
+  company = "Conference Outline"
+  company_url = "https://roboboat.org/programs/2025/"
+  location = "Florida"
+  date_start = "2025-03-03"
+  date_end = "2025-03-09"
+  description = """"""
+
+[[experience]]
   title = "2022 RobotX Challenge(In-person portion cancelled)"
   company = "Conference Outline"
   company_url = "https://robotx.org/2022-splash/"
