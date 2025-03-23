@@ -61,6 +61,7 @@ user_groups:
 Software Perception Unit Member.
 
 | Months and Years | Organization |
+|:-|:-|
 | Apr 2018 - Mar 2022 | Faculty of Environmental Engineering, The University of Kitakyushu |
 | Apr 2022 - Mar 2024 | Graduate school of Environmental Engineering, The University of Kitakyushu |
 | Apr 2024 - Present | Joint Graduate School of Mathematics for Innovation, Kyushu University |
