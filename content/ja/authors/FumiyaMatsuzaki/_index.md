@@ -24,10 +24,12 @@ bio:
 #- 
 
 #education:
-#  courses:
-#  - course: 
-#    institution: 
-#    year: 
+  - course: 修士（工学）
+    institution: The University of Kitakyushu
+    year: 2024
+  - course: 学士（工学）
+    institution: The University of Kitakyushu
+    year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -56,7 +58,9 @@ user_groups:
 ---
 
 ## プロフィール
-2023.10-Present: StrayedCats (The Championship of Robotics Engineers)<br>
-2023.04-Present: OUXT Polaris (Maritime RobotX Challenge)<br>
-2022.10-2024.03: Hibikino-Musashi@Home (RoboCup@Home)<br>
-2020.08-2023.03: FUKUOKA NIWAKA (RoboMaster)<br>
+認識系統担当。たまにデザイン関係。
+
+| 年月 | 所属等 |
+| 2018年4月-2022年3月 | 北九州市立大学 国際環境工学部 機械システム工学科 |
+| 2022年4月-2024年3月 | 北九州市立大学 大学院国際環境工学研究科 環境工学専攻 機械システムコース 博士前期課程 |
+| 2018年4月-現在 | 九州大学 大学院マス・フォア・イノベーション連係学府 博士後期課程 |
