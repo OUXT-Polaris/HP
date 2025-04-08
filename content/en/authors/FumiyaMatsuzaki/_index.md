@@ -24,12 +24,13 @@ bio:
 #- 
 
 education:
-  - course: Master of Engineering
-    institution: The University of Kitakyushu
-    year: 2024
-  - course: Bachelor of Engineering
-    institution: The University of Kitakyushu
-    year: 2022
+  -courses:
+    - course: Master of Engineering
+      institution: The University of Kitakyushu
+      year: 2024
+    - course: Bachelor of Engineering
+      institution: The University of Kitakyushu
+      year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
