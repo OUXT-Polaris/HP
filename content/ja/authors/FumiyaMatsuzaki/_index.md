@@ -23,7 +23,7 @@ bio:
 #interests:
 #- 
 
-#education:
+education:
   - course: 修士（工学）
     institution: The University of Kitakyushu
     year: 2024
