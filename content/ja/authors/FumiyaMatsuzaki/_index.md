@@ -24,12 +24,13 @@ bio:
 #- 
 
 education:
-  - course: 修士（工学）
-    institution: The University of Kitakyushu
-    year: 2024
-  - course: 学士（工学）
-    institution: The University of Kitakyushu
-    year: 2022
+  -courses:
+    - course: 修士（工学）
+      institution: The University of Kitakyushu
+      year: 2024
+    - course: 学士（工学）
+      institution: The University of Kitakyushu
+      year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
