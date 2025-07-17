@@ -1,4 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>OUXT勉強会 | OUXT Polaris</title><link>https://www.ouxt.jp/category/ouxt%E5%8B%89%E5%BC%B7%E4%BC%9A/</link><atom:link href="https://www.ouxt.jp/category/ouxt%E5%8B%89%E5%BC%B7%E4%BC%9A/index.xml" rel="self" type="application/rss+xml"/><description>OUXT勉強会</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>OUXT Polaris 2020-2024</copyright><lastBuildDate>Sat, 28 Nov 2020 13:50:27 +0900</lastBuildDate><image><url>https://www.ouxt.jp/images/icon_hud1e4b740b82faf5d5011883d0ab60ce8_134644_512x512_fill_lanczos_center_2.png</url><title>OUXT勉強会</title><link>https://www.ouxt.jp/category/ouxt%E5%8B%89%E5%BC%B7%E4%BC%9A/</link></image><item><title>特別編：ROSを使ったロボット開発講座</title><link>https://www.ouxt.jp/post/ros-seminar/</link><pubDate>Sat, 28 Nov 2020 13:50:27 +0900</pubDate><guid>https://www.ouxt.jp/post/ros-seminar/</guid><description>&lt;p>こんにちは！運営担当のにゎ～んこと丹羽です！&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>OUXT勉強会 | OUXT Polaris</title><link>https://www.ouxt.jp/category/ouxt%E5%8B%89%E5%BC%B7%E4%BC%9A/</link><atom:link href="https://www.ouxt.jp/category/ouxt%E5%8B%89%E5%BC%B7%E4%BC%9A/index.xml" rel="self" type="application/rss+xml"/><description>OUXT勉強会</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>OUXT Polaris 2020-2024</copyright><lastBuildDate>Wed, 29 Jan 2025 23:36:59 +0900</lastBuildDate><image><url>https://www.ouxt.jp/images/icon_hud1e4b740b82faf5d5011883d0ab60ce8_134644_512x512_fill_lanczos_center_2.png</url><title>OUXT勉強会</title><link>https://www.ouxt.jp/category/ouxt%E5%8B%89%E5%BC%B7%E4%BC%9A/</link></image><item><title>nebulaで絶え間のない点群を感じよう</title><link>https://www.ouxt.jp/post/zakimatu/</link><pubDate>Wed, 29 Jan 2025 23:36:59 +0900</pubDate><guid>https://www.ouxt.jp/post/zakimatu/</guid><description>&lt;h2 id="はじめに">はじめに&lt;/h2>
+&lt;p>OUXT Polaris学生メンバー、ソフトウェア担当の松崎です。
+専門は制御理論ですが、OUXTでは認識系統を担当しています。&lt;/p>
+&lt;p>今回は、Volodyne VLP-16をROS 2で使用する際に &amp;ldquo;ros-drivers&amp;rdquo; ではなく、サードパーティ製のドライバパッケージである &amp;ldquo;nebula&amp;rdquo; を使ってみたので、導入方法の紹介と使用感・Rviz2でのデータ比較を行います。&lt;/p>
+&lt;p>つづきは、こちらのリンクから！⇩&lt;/p>
+&lt;p>&lt;a href="https://note.com/santana3/n/nd3f68c2f4de5">https://note.com/santana3/n/nd3f68c2f4de5&lt;/a>&lt;/p></description></item><item><title>protolink開発秘話、ROSConJPの裏側！</title><link>https://www.ouxt.jp/post/protolink/</link><pubDate>Sun, 29 Sep 2024 23:36:59 +0900</pubDate><guid>https://www.ouxt.jp/post/protolink/</guid><description>&lt;h2 id="はじめに">はじめに&lt;/h2>
+&lt;p>OUXT Polaris社会人メンバーの片岡です。
+皆様ROSCONJP2024お疲れ様でした！
+今回も多数の興味深い発表が聞けて大変楽しい一日でした。&lt;/p>
+&lt;p>今回学生メンバーの松崎と二見がROSCONJP2024に参加し発表してくれた内容は10分では少し物足りないのでより深い内容や今後それをどのようにロボット開発に活かしていくかについて記事にまとめます。&lt;/p>
+&lt;p>つづきは、こちらのリンクから！⇩&lt;/p>
+&lt;p>&lt;a href="https://note.com/hakuturu583/n/n16e63d6ad2b5">https://note.com/hakuturu583/n/n16e63d6ad2b5&lt;/a>&lt;/p></description></item><item><title>OUXT Polaris：ROS2を活用した自作自律航行船NavigationSystem概要</title><link>https://www.ouxt.jp/post/rutto/</link><pubDate>Thu, 01 Dec 2022 23:36:59 +0900</pubDate><guid>https://www.ouxt.jp/post/rutto/</guid><description>&lt;h2 id="御礼">御礼&lt;/h2>
+&lt;p>皆様、ROS2のアドカレにご興味をお持ち頂きありがとうございます！
+誠に恐縮ながら、2022/12/1の投稿をさせて頂きます！
+楽しんで頂けると幸いです！
+投稿者：Twitter: &lt;a href="https://twitter.com/MeRTcooking">https://twitter.com/MeRTcooking&lt;/a>&lt;/p>
+&lt;h2 id="本記事のあらすじ">本記事のあらすじ&lt;/h2>
+&lt;p>学生主体のロボコンチームであるOUXT Polarisが挑戦しているMaritime RobotX Challengeについて説明し、
+その後、ROS2を活用した自律航行船Navigation Systemの概要について説明します。
+ソフトウェアだけ気になる方は、読み飛ばしてください！&lt;/p>
+&lt;p>つづきは、こちらのリンクから！⇩&lt;/p>
+&lt;p>&lt;a href="https://qiita.com/MeRT/items/c89d33afde65cf3b921d">https://qiita.com/MeRT/items/c89d33afde65cf3b921d&lt;/a>&lt;/p></description></item><item><title>特別編：ROSを使ったロボット開発講座</title><link>https://www.ouxt.jp/post/ros-seminar/</link><pubDate>Sat, 28 Nov 2020 13:50:27 +0900</pubDate><guid>https://www.ouxt.jp/post/ros-seminar/</guid><description>&lt;p>こんにちは！運営担当のにゎ～んこと丹羽です！&lt;/p>
 &lt;p>さてタイトルの通り、OUXT-Polaris勉強会：特別編を開催します！
 &lt;figure class="center" >
 &lt;a data-fancybox="" href="https://connpass-tokyo.s3.amazonaws.com/thumbs/98/7e/987e3f4f2196cbc41d86c7539e8be89f.png" >

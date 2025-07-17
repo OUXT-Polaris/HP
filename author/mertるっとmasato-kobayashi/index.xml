@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>MeRT(るっと(Masato Kobayashi)) | OUXT Polaris</title><link>https://www.ouxt.jp/author/mert%E3%82%8B%E3%81%A3%E3%81%A8masato-kobayashi/</link><atom:link href="https://www.ouxt.jp/author/mert%E3%82%8B%E3%81%A3%E3%81%A8masato-kobayashi/index.xml" rel="self" type="application/rss+xml"/><description>MeRT(るっと(Masato Kobayashi))</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>OUXT Polaris 2020-2024</copyright><lastBuildDate>Thu, 01 Dec 2022 23:36:59 +0900</lastBuildDate><image><url>https://www.ouxt.jp/images/icon_hud1e4b740b82faf5d5011883d0ab60ce8_134644_512x512_fill_lanczos_center_2.png</url><title>MeRT(るっと(Masato Kobayashi))</title><link>https://www.ouxt.jp/author/mert%E3%82%8B%E3%81%A3%E3%81%A8masato-kobayashi/</link></image><item><title>OUXT Polaris：ROS2を活用した自作自律航行船NavigationSystem概要</title><link>https://www.ouxt.jp/post/rutto/</link><pubDate>Thu, 01 Dec 2022 23:36:59 +0900</pubDate><guid>https://www.ouxt.jp/post/rutto/</guid><description>&lt;h2 id="御礼">御礼&lt;/h2>
+&lt;p>皆様、ROS2のアドカレにご興味をお持ち頂きありがとうございます！
+誠に恐縮ながら、2022/12/1の投稿をさせて頂きます！
+楽しんで頂けると幸いです！
+投稿者：Twitter: &lt;a href="https://twitter.com/MeRTcooking">https://twitter.com/MeRTcooking&lt;/a>&lt;/p>
+&lt;h2 id="本記事のあらすじ">本記事のあらすじ&lt;/h2>
+&lt;p>学生主体のロボコンチームであるOUXT Polarisが挑戦しているMaritime RobotX Challengeについて説明し、
+その後、ROS2を活用した自律航行船Navigation Systemの概要について説明します。
+ソフトウェアだけ気になる方は、読み飛ばしてください！&lt;/p>
+&lt;p>つづきは、こちらのリンクから！⇩&lt;/p>
+&lt;p>&lt;a href="https://qiita.com/MeRT/items/c89d33afde65cf3b921d">https://qiita.com/MeRT/items/c89d33afde65cf3b921d&lt;/a>&lt;/p></description></item></channel></rss>
