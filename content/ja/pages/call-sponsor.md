@@ -7,8 +7,8 @@ summary: "私たちのチームではスポンサーを募集しています。"
 authors: [admin]
 tags: []
 categories: []
-date: 2020-06-24T12:34:23+09:00
-lastmod: 2020-06-24T12:34:23+09:00
+date: 2025-06-24T12:34:23+09:00
+lastmod: 2025-06-24T12:34:23+09:00
 featured: false
 draft: false
 
