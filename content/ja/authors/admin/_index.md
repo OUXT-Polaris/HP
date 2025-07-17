@@ -50,8 +50,8 @@ email: ""
 user_groups:
 ---
 
-[Maritime Robotx Challenge](https://www.robotx.org/)へむけて結成された、学生主体のロボコンチームです。  
-2025年度は、[RobBoat](https://roboboat.org/)に出場しています。2026年度も同大会に参加予定です！
+[Maritime RobotX Challenge](https://www.robotx.org/)へむけて結成された、学生主体のロボコンチームです。  
+2025年度は、[RoboBoat](https://roboboat.org/)に出場しています。2026年度も同大会に参加予定です！
 <br>
 <br>
 ## What is **RoboBoat**?
