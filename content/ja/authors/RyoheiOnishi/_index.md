@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 大西凌平
+title: 大西 凌平
 
 # Username (this should match the folder name)
 authors:
@@ -14,7 +14,7 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: 九州工業大学院
+- name: 九州工業大学 大学院
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -54,5 +54,4 @@ social:
 user_groups:
 - ソフトウェア
 - ハードウェア
----
 ---

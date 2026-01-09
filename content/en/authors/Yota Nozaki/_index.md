@@ -1,10 +1,10 @@
 ---
 # Display name
-title: 長尾 悠世
+title: Yota Nozaki
 
 # Username (this should match the folder name)
 authors:
-- YuseiNagao
+- YotaNozaki
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,7 +14,7 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: 株式会社デンソー
+- name: Kyushu Institute of Technology
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -52,5 +52,5 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- ソフトウェア
+- Circuits
 ---

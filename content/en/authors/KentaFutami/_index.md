@@ -14,7 +14,7 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: Kyushu Institude of Technology
+- name: Kyushu Institute of Technology
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -53,4 +53,5 @@ social:
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Hardware
+- Management
 ---

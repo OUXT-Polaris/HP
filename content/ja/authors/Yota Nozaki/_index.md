@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 野崎　陽太
+title: 野崎 陽太
 
 # Username (this should match the folder name)
 authors:

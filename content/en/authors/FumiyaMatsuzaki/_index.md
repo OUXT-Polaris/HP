@@ -24,7 +24,7 @@ bio:
 #- 
 
 education:
-  -courses:
+  courses:
     - course: Master of Engineering
       institution: The University of Kitakyushu
       year: 2024
@@ -59,10 +59,8 @@ user_groups:
 ---
 
 ## Profile
-Software Perception Unit Member.
-
-| Months and Years | Organization |
+| Months and Years | Institution |
 |:-|:-|
-| Apr 2018 - Mar 2022 | Faculty of Environmental Engineering, The University of Kitakyushu |
-| Apr 2022 - Mar 2024 | Graduate school of Environmental Engineering, The University of Kitakyushu |
-| Apr 2024 - Present | Joint Graduate School of Mathematics for Innovation, Kyushu University |
+| 2018.04-2022.03 | Department of Mechanical Engineering, The University of Kitakyushu |
+| 2022.04-2024.03 | Graduate school of Environmental Engineering, The University of Kitakyushu |
+| 2024.04-Present | Joint Graduate School of Mathematics for Innovation, Kyushu University |
