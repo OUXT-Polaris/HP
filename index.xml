@@ -1,17 +1,249 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>OUXT Polaris</title><link>https://www.ouxt.jp/</link><atom:link href="https://www.ouxt.jp/index.xml" rel="self" type="application/rss+xml"/><description>OUXT Polaris</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>OUXT Polaris 2020-2024</copyright><lastBuildDate>Tue, 24 Jun 2025 12:34:23 +0900</lastBuildDate><image><url>https://www.ouxt.jp/images/icon_hud1e4b740b82faf5d5011883d0ab60ce8_134644_512x512_fill_lanczos_center_2.png</url><title>OUXT Polaris</title><link>https://www.ouxt.jp/</link></image><item><title>スポンサー募集</title><link>https://www.ouxt.jp/pages/call-sponsor/</link><pubDate>Tue, 24 Jun 2025 12:34:23 +0900</pubDate><guid>https://www.ouxt.jp/pages/call-sponsor/</guid><description>&lt;p>OUXT Polarisではロボット製作/開発費、ロボット輸送費を必要としています。&lt;br>
-そのため、スポンサーを随時募集しています。&lt;br>
-ご不明な点がございましたら、
-&lt;a href="../../#contact">お問い合わせ&lt;/a>よりご連絡お願いします。
-現在は2026年3月末までのスポンサー企業様を募集しております。&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>OUXT Polaris</title><link>https://www.ouxt.jp/</link><atom:link href="https://www.ouxt.jp/index.xml" rel="self" type="application/rss+xml"/><description>OUXT Polaris</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>OUXT Polaris 2020-2024</copyright><lastBuildDate>Thu, 10 Jul 2025 13:50:27 +0900</lastBuildDate><image><url>https://www.ouxt.jp/images/icon_hud1e4b740b82faf5d5011883d0ab60ce8_134644_512x512_fill_lanczos_center_2.png</url><title>OUXT Polaris</title><link>https://www.ouxt.jp/</link></image><item><title>講演実績</title><link>https://www.ouxt.jp/pages/seminar/publications/</link><pubDate>Thu, 10 Jul 2025 13:50:27 +0900</pubDate><guid>https://www.ouxt.jp/pages/seminar/publications/</guid><description>&lt;p>OUXT Polarisでは、開発を通して得た知見をROSコミュニティやロボット競技コミュニティに還元するべく、精力的に講演活動を行なっています。これまでの講演内容は以下の通りです。&lt;/p>
+&lt;hr>
+&lt;h1 id="競技会関連-technical-documentation">&lt;strong>競技会関連 (Technical Documentation)&lt;/strong>&lt;/h1>
+&lt;p>RoboBoatやMaritime RobotX Challengeでは、機体開発の技術的な詳細をまとめた「Technical Documentation」が採点項目に含まれます。OUXT Polarisが過去に執筆・発表した資料を公開しています。&lt;/p>
+&lt;h2 id="roboboat">&lt;strong>RoboBoat&lt;/strong>&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th align="left">大会&lt;/th>
+&lt;th align="left">発表日&lt;/th>
+&lt;th align="left">発表者&lt;/th>
+&lt;th align="left">演題&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td align="left">&lt;strong>RoboBoat 2025&lt;/strong>&lt;/td>
+&lt;td align="left">2025/03/06&lt;/td>
+&lt;td align="left">Kenta Futami &lt;em>et al.&lt;/em>&lt;/td>
+&lt;td align="left">
+&lt;a href="https://robonation.org/app/uploads/sites/3/2025/02/TDR_OUXT_Polaris_RB2025.pdf" target="_blank" rel="noopener">Technical Design Report : OUXT Polaris 2025&lt;/a> (Florida)&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="robotx">&lt;strong>RobotX&lt;/strong>&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th align="left">Competition&lt;/th>
+&lt;th align="left">Author&lt;/th>
+&lt;th align="left">Title&lt;/th>
+&lt;th>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td align="left">&lt;strong>RobotX 2022&lt;/strong>&lt;/td>
+&lt;td align="left">Kenta Okamoto &lt;em>et al.&lt;/em>&lt;/td>
+&lt;td align="left">
+&lt;a href="https://arxiv.org/pdf/2306.13894" target="_blank" rel="noopener">OUXT Polaris: Autonomous Navigation System for the 2022 Maritime RobotX Challenge&lt;/a> (Australlia)&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td align="left">&lt;strong>RobotX 2018&lt;/strong>&lt;/td>
+&lt;td align="left">Shuhei Horiguchi&lt;/td>
+&lt;td align="left">
+&lt;a href="https://robonation.org/app/uploads/sites/2/2019/09/Osaka_RX18_Paper.pdf" target="_blank" rel="noopener">Development of a navigation system with high function and high reusability for Maritime RobotX Challenge 2018&lt;/a> (Hawaii)&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td align="left">&lt;strong>RobotX 2016&lt;/strong>&lt;/td>
+&lt;td align="left">Suisei Wada &lt;em>et al.&lt;/em>&lt;/td>
+&lt;td align="left">
+&lt;a href="https://scholar.google.co.jp/scholar?cluster=4258648321170149126&amp;amp;hl=ja&amp;amp;as_sdt=2005&amp;amp;sciodt=0,5" target="_blank" rel="noopener">Journal Paper about the development for the 2016 RobotX Competition&lt;/a> (Hawaii)&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td align="left">&lt;strong>RobotX 2014&lt;/strong>&lt;/td>
+&lt;td align="left">Naoya Fujimoto &lt;em>et al.&lt;/em>&lt;/td>
+&lt;td align="left">
+&lt;a href="https://robonation.org/app/uploads/sites/2/2019/09/Osaka_RX14_Paper.pdf" target="_blank" rel="noopener">Catamaran Robot “Polaris -I” for Maritime RobotX Challenge 2014&lt;/a> (Singapore)&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;!-- | **RobotX 2018** | Shuhei Horiguchi | [Design Presentation](https://docs.google.com/presentation/d/1f27lm-hlY2wn1rCtDxRG8pOUzUJ0dvNQmqGxTysoKtw/edit?usp=sharing) (Hawaii) | -->
+&lt;hr>
+&lt;h1 id="学会国際会議-academic-conferences">&lt;strong>学会・国際会議 (Academic Conferences)&lt;/strong>&lt;/h1>
+&lt;h2 id="roscon--roscon-jp">&lt;strong>ROSCon / ROSCon JP&lt;/strong>&lt;/h2>
+&lt;p>ROS（Robot Operating System）開発者のための世界最大規模の国際会議および国内会議です。OUXT Polarisは複数回の採択実績があります。&lt;/p>
+&lt;h3 id="roscon-jp-2024">&lt;strong>ROSCon JP 2024&lt;/strong>&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>発表日:&lt;/strong> 2024/09/25 (東京)&lt;/li>
+&lt;li>&lt;strong>発表者:&lt;/strong> 二見 堅太、松崎 史弥&lt;/li>
+&lt;li>&lt;strong>演題:&lt;/strong>
+&lt;a href="https://roscon.jp/2024/presentations/06.pdf" target="_blank" rel="noopener">Maritime RobotX Challenge 2024に向けた自律航行ハードウェアとROS 2とのインテグレーション&lt;/a>&lt;/li>
+&lt;li>&lt;strong>動画:&lt;/strong>
+&lt;a href="https://vimeo.com/showcase/11452054/video/1029114561" target="_blank" rel="noopener">Presentation Video&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Abstract:&lt;/strong> 自律航行船と自律ドローンを連携させたロボット競技会「Maritime RobotX Challenge」への挑戦を例に、高度なハードウェアとソフトウェアの結合手法、制約事項、ソフトウェア高速化の知見について発表。&lt;/li>
+&lt;/ul>
+&lt;h3 id="roscon-jp-2021">&lt;strong>ROSCon JP 2021&lt;/strong>&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>発表日:&lt;/strong> 2021/09/16 (東京/オンライン)&lt;/li>
+&lt;li>&lt;strong>発表者:&lt;/strong> 吉本 幸太郎、小倉 将人&lt;/li>
+&lt;li>&lt;strong>演題:&lt;/strong>
+&lt;a href="https://roscon.jp/2021/presentations/21.pdf" target="_blank" rel="noopener">Maritime RobotX Challenge 2022 のためのビヘイビアプランニング開発&lt;/a>&lt;/li>
+&lt;li>&lt;strong>動画:&lt;/strong>
+&lt;a href="https://vimeo.com/638043225/b9f16e187d" target="_blank" rel="noopener">Presentation Video&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Abstract:&lt;/strong> Maritime RobotX Challenge 2022に向けた自律航行システムのビヘイビアプランニング開発について発表。コロナ禍でもチーム開発を行うためのROS 2ベースのシステムアーキテクチャ、シミュレーション環境、ビヘイビアプランニング手法を紹介。&lt;/li>
+&lt;/ul>
+&lt;h4 id="ltセッション">LTセッション&lt;/h4>
+&lt;ul>
+&lt;li>&lt;strong>発表者:&lt;/strong> 片岡 大哉&lt;/li>
+&lt;li>&lt;strong>演題:&lt;/strong>
+&lt;a href="https://roscon.jp/2021/presentations/17.pdf" target="_blank" rel="noopener">ros-integration-action 無料で始める簡単結合テスト&lt;/a>&lt;/li>
+&lt;li>&lt;strong>動画:&lt;/strong>
+&lt;a href="https://vimeo.com/638042931/b079369c12" target="_blank" rel="noopener">Presentation Video&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="roscon-2019-macau">&lt;strong>ROSCon 2019 Macau&lt;/strong>&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>発表日:&lt;/strong> 2019/11/01 (Macau)&lt;/li>
+&lt;li>&lt;strong>発表者:&lt;/strong> 片岡 大哉&lt;/li>
+&lt;li>&lt;strong>演題:&lt;/strong> Component Everything in PCL&lt;/li>
+&lt;li>&lt;strong>動画:&lt;/strong>
+&lt;a href="https://vimeo.com/379127050" target="_blank" rel="noopener">Presentation Video&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="roscon-jp-2019">&lt;strong>ROSCon JP 2019&lt;/strong>&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>発表日:&lt;/strong> 2019/09/25 (東京)&lt;/li>
+&lt;li>&lt;strong>発表者:&lt;/strong> 片岡 大哉、和田 翠星、増岡 伸也、田中 良道&lt;/li>
+&lt;li>&lt;strong>演題:&lt;/strong>
+&lt;a href="https://roscon.ros.org/jp/2019/presentations/ROSCon_JP_2019_presentation_11.pdf" target="_blank" rel="noopener">Virtual RobotX Challengeへ向けたオープンソース自律航行システムの開発&lt;/a>&lt;/li>
+&lt;li>&lt;strong>動画:&lt;/strong>
+&lt;a href="https://vimeopro.com/osrfoundation/roscon-jp-2019/video/370249409" target="_blank" rel="noopener">Presentation Video&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Abstract:&lt;/strong> 2019年に開催されたVirtual RobotX Challengeに向けた自律航行システムの開発について発表。OUXT Polarisが開発したオープンソースのROSベース自律航行システム、Gazeboシミュレーション環境を紹介。&lt;/li>
+&lt;/ul>
+&lt;h3 id="roscon-jp-2018">&lt;strong>ROSCon JP 2018&lt;/strong>&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>発表日:&lt;/strong> 2018/09/14 (東京)&lt;/li>
+&lt;li>&lt;strong>発表者:&lt;/strong> 田中 良道&lt;/li>
+&lt;li>&lt;strong>演題:&lt;/strong>
+&lt;a href="https://roscon.jp/2018/presentations/ROSCon_JP_2018_presentation_17.pdf" target="_blank" rel="noopener">Maritime RobotX Challenge 2018への取り組み&lt;/a>&lt;/li>
+&lt;li>&lt;strong>動画:&lt;/strong>
+&lt;a href="https://vimeo.com/292069925" target="_blank" rel="noopener">Presentation Video&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Abstract:&lt;/strong> 2018年にハワイで開催されたMaritime RobotX Challengeに向けたOUXT Polarisの取り組みについて発表。開発中の機体について各技術要素とROSによるシステム統合技術を紹介。&lt;/li>
+&lt;/ul>
+&lt;h2 id="国内学会">&lt;strong>国内学会&lt;/strong>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>ロボティクス・メカトロニクス講演会 (ROBOMECH) 2025&lt;/strong>
+&lt;ul>
+&lt;li>2025/06/10（山梨）/ 大西 凌平：RoboBoat 2025のための自律航行型無人船の開発&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>日本ロボット学会学術講演会 (RSJ) 2023&lt;/strong>
+&lt;ul>
+&lt;li>2023/09/08（宮城）/ 松崎 史弥：Maritime RobotX への挑戦を通じた技術活動&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h1 id="コミュニティ勉強会-community-events">&lt;strong>コミュニティ・勉強会 (Community Events)&lt;/strong>&lt;/h1>
+&lt;h2 id="ros-japan-user-group-rosjp">&lt;strong>ROS Japan User Group (ROSJP)&lt;/strong>&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th align="left">イベント名&lt;/th>
+&lt;th align="left">発表日&lt;/th>
+&lt;th align="left">発表者&lt;/th>
+&lt;th align="left">演題&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td align="left">&lt;strong>ROS Japan UG #58&lt;/strong>&lt;/td>
+&lt;td align="left">2025/06/20&lt;/td>
+&lt;td align="left">松崎 史弥&lt;/td>
+&lt;td align="left">RoboBoatに向けた小型自律航行船の開発&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td align="left">&lt;strong>ROS Japan UG #43&lt;/strong>&lt;/td>
+&lt;td align="left">2021/07/17&lt;/td>
+&lt;td align="left">片岡 大哉&lt;/td>
+&lt;td align="left">ros2_controlで動くロボット 多摩川で浮かべてみた&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td align="left">&lt;strong>ROS Japan UG #38&lt;/strong>&lt;/td>
+&lt;td align="left">2020/08/28&lt;/td>
+&lt;td align="left">片岡 大哉&lt;/td>
+&lt;td align="left">ROS 2のドキュメント自動生成してみた&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td align="left">&lt;strong>ROS Japan UG #35&lt;/strong>&lt;/td>
+&lt;td align="left">2020/12/14&lt;/td>
+&lt;td align="left">吉本 幸太郎&lt;/td>
+&lt;td align="left">自動航行船のROS 2対応&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td align="left">&lt;strong>ROS Japan UG #34&lt;/strong>&lt;/td>
+&lt;td align="left">2020/02/17&lt;/td>
+&lt;td align="left">片岡 大哉&lt;/td>
+&lt;td align="left">ROS 2で共有ライブラリを作るのがとてもつらいお話&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td align="left">&lt;strong>ROS Japan UG #18&lt;/strong>&lt;/td>
+&lt;td align="left">2017/12/17&lt;/td>
+&lt;td align="left">片岡、西下&lt;/td>
+&lt;td align="left">pclで三次元物体認識&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td align="left">&lt;strong>ROS Japan UG #13&lt;/strong>&lt;/td>
+&lt;td align="left">2017/10/25&lt;/td>
+&lt;td align="left">片岡、和田&lt;/td>
+&lt;td align="left">GazeboでUSV シミュレーション&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="その他勉強会交流会">&lt;strong>その他勉強会・交流会&lt;/strong>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Unity Dojo 秋のLT祭り (2021/10/19)&lt;/strong>
+&lt;ul>
+&lt;li>片岡 大哉：
+&lt;a href="https://youtu.be/PUu66BCNRbQ" target="_blank" rel="noopener">UniSim、ROS 2に最適化されたUnityベースのシミュレータ&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>第12回 MLOps 勉強会 (2021/10/14)&lt;/strong>
+&lt;ul>
+&lt;li>片岡 大哉：
+&lt;a href="https://docs.google.com/presentation/d/1kG9Pfwr6wx-qhGW9SE4Ys5pHqlLd9rjwTmmQu1Qxxwo/edit?usp=sharing" target="_blank" rel="noopener">ロボットシステムの開発と運用、本番で一発完動するロボットシステムのために&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>そとろぼ！ 第2回フィールドロボティクス勉強会 (2021/08/28)&lt;/strong>
+&lt;ul>
+&lt;li>片岡 大哉：
+&lt;a href="https://docs.google.com/presentation/d/1LOxP7aNiviGGZsBSauLB_Vhlks3EigBtK8BozU3C0pQ/edit?usp=sharing" target="_blank" rel="noopener">ros2_controlで動くロボット 多摩川、安威川で浮かべてみた&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>ごちゃまぜロボットコンテスト交流会 #1 (2021/08/29)&lt;/strong>
+&lt;ul>
+&lt;li>真田 辰哉：
+&lt;a href="https://docs.google.com/presentation/d/1eX-4q53B-KSLe45MT007Y4fA5y4Qvg5hhZ7Q96SlFeY/edit?usp=sharing" target="_blank" rel="noopener">回路のドキュメント、残してますか？&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h1 id="ouxt-polaris勉強会休止中">&lt;strong>OUXT Polaris勉強会（休止中）&lt;/strong>&lt;/h1>
+&lt;p>OUXT Polarisでは、外部の方も交えた議論や知見共有を目的とした勉強会を定期的に開催しています。&lt;/p>
+&lt;p>
+&lt;a href="https://ouxt-polaris.connpass.com" target="_blank" rel="noopener">Connpassグループ: OUXT Polaris&lt;/a>&lt;/p></description></item><item><title>スポンサー募集</title><link>https://www.ouxt.jp/pages/call-sponsor/</link><pubDate>Tue, 24 Jun 2025 12:34:23 +0900</pubDate><guid>https://www.ouxt.jp/pages/call-sponsor/</guid><description>&lt;h2 id="ouxt-polaris-スポンサー募集のご案内">OUXT Polaris スポンサー募集のご案内&lt;/h2>
+&lt;p>OUXT Polarisでは、自律航行船の開発および世界大会への挑戦を支えてくださるスポンサー企業様を随時募集しております。 現在は、2026年3月末までの期間をご支援いただける企業様を重点的に募っております。&lt;/p>
+&lt;p>私たちの活動にご賛同いただける場合は、
+&lt;a href="../../#contact">お問い合わせ&lt;/a>よりぜひご連絡ください。&lt;/p>
 &lt;h3 id="金銭支援スポンサー">金銭支援スポンサー&lt;/h3>
-&lt;p>私たちOUXT Polarisでは、ロボットのパーツや輸送費にお金を必要としています。&lt;br>
-それらの支援をしていただけるスポンサー様を募集しています。&lt;/p>
+&lt;p>ロボットの製作・開発費、および海外遠征時の機体輸送費として活用させていただきます。&lt;/p>
+&lt;ul>
+&lt;li>主な用途： 高精度センサーの購入、船体構造材の調達、国際大会への機体輸送パッキング費用など&lt;/li>
+&lt;/ul>
 &lt;h3 id="物的支援スポンサー">物的支援スポンサー&lt;/h3>
-&lt;p>私たちOUXT-Polarisでは、様々な製品を用いて完全に自律制御された船の開発を行っています。&lt;br>
-貴社の名前のタグをつけた貴社製品を用いたブログの記載などを行います。&lt;br>
-貴社の製品をお貸しいただきましたら、半額を協賛金とさせていただきます。&lt;/p>
-&lt;p>もしこれらに興味を持っていただけましたら、
-&lt;a href="../../#contact">お問い合わせ&lt;/a> よりご連絡お願いします。&lt;/p>
+&lt;p>製品のご提供や、機材の貸与によるご支援を募集しております。私たちは様々な先端技術を組み合わせ、完全自律制御の船を開発しています。&lt;/p>
+&lt;h3 id="ご支援への特典">ご支援への特典：&lt;/h3>
+&lt;ul>
+&lt;li>貴社製品を使用した開発プロセスのブログ掲載（貴社名のタグ付け・紹介）&lt;/li>
+&lt;li>機体への企業ロゴ掲出
+備考： 製品をお貸し出しいただく場合は、その相当額の半額を協賛金としてカウントさせていただきます。&lt;/li>
+&lt;/ul>
+&lt;p>ご興味をお持ちいただけましたら、詳細な資料を送付させていただきます。
+&lt;a href="../../#contact">お問い合わせ&lt;/a>よりお気軽にご連絡ください。&lt;/p>
 &lt;table>
 &lt;thead>
 &lt;tr>
@@ -364,549 +596,4 @@ RobotX2020 オンライン決起会の様子
 &lt;/figure>
 &lt;/p>
 &lt;p>また、HPの方も従来のものから新しい本サイトへと一新しました。&lt;/p>
-&lt;p>本年度は決勝進出を目標として挑戦していきます！応援のほどよろしくお願いいたします。&lt;/p></description></item><item><title>講演実績</title><link>https://www.ouxt.jp/pages/seminar/publications/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.ouxt.jp/pages/seminar/publications/</guid><description>&lt;p>OUXT Polarisでは開発を通して得た知見をROSコミュニティやロボット競技コミュニテイに還元するべく精力的に講演活動を行なっています。
-これまでの講演内容は以下の通りです。&lt;/p>
-&lt;h1 id="roboboat">&lt;strong>RoboBoat&lt;/strong>&lt;/h1>
-&lt;p>RoboBoatの採点項目にはチームごとに提出されるTechnical Documentationの内容も含まれています。
-OUXT Polarisで過去に執筆したTechnical Documentationは以下のようなものがあります。&lt;/p>
-&lt;h2 id="urobotboat-2025u">&lt;u>RobotBoat 2025&lt;/u>&lt;/h2>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>場所&lt;/th>
-&lt;th>発表日&lt;/th>
-&lt;th>発表者&lt;/th>
-&lt;th>演題&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>Florida&lt;/td>
-&lt;td>2025/3/6&lt;/td>
-&lt;td>二見堅太&lt;/td>
-&lt;td>
-&lt;a href="https://robonation.org/app/uploads/sites/3/2025/02/TDR_OUXT_Polaris_RB2025.pdf" target="_blank" rel="noopener">Design Presentation&lt;/a>&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;h1 id="robotx">&lt;strong>RobotX&lt;/strong>&lt;/h1>
-&lt;p>RoboBoatと同様に、Maritime RobotX Challengeの採点項目にはTechnical Documentationの内容も含まれています。
-OUXT Polarisで過去に執筆したTechnical Documentationは以下のようなものがあります。&lt;/p>
-&lt;h2 id="urobotx-2018u">&lt;u>RobotX 2018&lt;/u>&lt;/h2>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>場所&lt;/th>
-&lt;th>発表日&lt;/th>
-&lt;th>発表者&lt;/th>
-&lt;th>演題&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>Hawaii&lt;/td>
-&lt;td>2018/12/15&lt;/td>
-&lt;td>堀口修平&lt;/td>
-&lt;td>
-&lt;a href="https://docs.google.com/presentation/d/1f27lm-hlY2wn1rCtDxRG8pOUzUJ0dvNQmqGxTysoKtw/edit?usp=sharing" target="_blank" rel="noopener">Design Presentation&lt;/a>&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;h2 id="urobotx-2016u">&lt;u>RobotX 2016&lt;/u>&lt;/h2>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>場所&lt;/th>
-&lt;th>発表日&lt;/th>
-&lt;th>発表者&lt;/th>
-&lt;th>演題&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>Hawaii&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>Suisei Wada, et al&lt;/td>
-&lt;td>
-&lt;a href="https://scholar.google.co.jp/scholar?cluster=4258648321170149126&amp;amp;hl=ja&amp;amp;as_sdt=2005&amp;amp;sciodt=0,5" target="_blank" rel="noopener">Google Scholar Link&lt;/a>&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;h2 id="urobotx-2014u">&lt;u>RobotX 2014&lt;/u>&lt;/h2>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>場所&lt;/th>
-&lt;th>発表日&lt;/th>
-&lt;th>発表者&lt;/th>
-&lt;th>演題&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>Singapore&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>Naoya Fujimoto, et al&lt;/td>
-&lt;td>
-&lt;a href="https://robonation.org/app/uploads/sites/2/2019/09/Osaka_RX14_Paper.pdf" target="_blank" rel="noopener">Catamaran Robot “Polaris -I” for Maritime RobotX Challenge 2014&lt;/a>&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;h1 id="ロボティクスメカトロニクス講演会">&lt;strong>ロボティクス・メカトロニクス講演会&lt;/strong>&lt;/h1>
-&lt;p>ロボティクス・メカトロニクス講演会 (通称：ROBOMECH) は、ロボット工学とメカトロニクスの分野における国内最大規模の工学系学会です。&lt;/p>
-&lt;h2 id="urobomech-2025u">&lt;u>ROBOMECH 2025&lt;/u>&lt;/h2>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>場所&lt;/th>
-&lt;th>発表日&lt;/th>
-&lt;th>発表者&lt;/th>
-&lt;th>演題&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>山梨&lt;/td>
-&lt;td>2025/6/10&lt;/td>
-&lt;td>大西 凌平&lt;/td>
-&lt;td>RoboBoat2025のための自律航行型無人船の開発&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;h1 id="日本ロボット学会学術講演会">&lt;strong>日本ロボット学会学術講演会&lt;/strong>&lt;/h1>
-&lt;p>日本ロボット学会学術講演会（通称：RSJ）は、日本ロボット学会が主催する年次学術講演会です。&lt;/p>
-&lt;h2 id="ursj-2023u">&lt;u>RSJ 2023&lt;/u>&lt;/h2>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>場所&lt;/th>
-&lt;th>発表日&lt;/th>
-&lt;th>発表者&lt;/th>
-&lt;th>演題&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>宮城&lt;/td>
-&lt;td>2023/9/8&lt;/td>
-&lt;td>松崎 史弥&lt;/td>
-&lt;td>Maritime RobotX への挑戦を通じた技術活動&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;h1 id="rosjp">&lt;strong>ROSJP&lt;/strong>&lt;/h1>
-&lt;p>ROSJPは日本のROSユーザーグループです。
-OUXT Polarisでは日本のROSコミュニティに情報発信するべく積極的に発表しております。&lt;/p>
-&lt;h2 id="uros-japan-ug-58-九州rosjpu">&lt;u>ROS Japan UG #58 九州ROSJP&lt;/u>&lt;/h2>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>場所&lt;/th>
-&lt;th>発表日&lt;/th>
-&lt;th>発表者&lt;/th>
-&lt;th>演題&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>福岡&lt;/td>
-&lt;td>2025/6/20&lt;/td>
-&lt;td>松崎 史弥&lt;/td>
-&lt;td>
-&lt;a href="https://docs.google.com/presentation/d/1RmWp0zIBPuuZPmyUTQRwLDea-TbuT-oh9PCh-SNSjzA/edit?usp=sharing" target="_blank" rel="noopener">RoboBoatに向けた小型自律航行船の開発&lt;/a>&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;p>&lt;a href="https://rosjp.connpass.com/event/354492/">https://rosjp.connpass.com/event/354492/&lt;/a>&lt;/p>
-&lt;h2 id="uros-japan-ug-43-組み込み勉強会u">&lt;u>ROS Japan UG #43 組み込み勉強会&lt;/u>&lt;/h2>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>場所&lt;/th>
-&lt;th>発表日&lt;/th>
-&lt;th>発表者&lt;/th>
-&lt;th>演題&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>オンライン&lt;/td>
-&lt;td>2021/7/17&lt;/td>
-&lt;td>片岡 大哉&lt;/td>
-&lt;td>
-&lt;a href="https://docs.google.com/presentation/d/1Da5UXz_yvCCBQYr6Cr0bLGdi5MX7BNx4QrMvNeQvFds/edit?usp=sharing" target="_blank" rel="noopener">ros2_controlで動くロボット 多摩川で浮かべてみた&lt;/a>&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;p>&lt;a href="https://rosjp.connpass.com/event/215366/">https://rosjp.connpass.com/event/215366/&lt;/a>&lt;/p>
-&lt;h2 id="uros-japan-ug-38-オンラインros勉強会u">&lt;u>ROS Japan UG #38 オンラインROS勉強会&lt;/u>&lt;/h2>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>場所&lt;/th>
-&lt;th>発表日&lt;/th>
-&lt;th>発表者&lt;/th>
-&lt;th>演題&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>オンライン&lt;/td>
-&lt;td>2020/08/28&lt;/td>
-&lt;td>片岡大哉&lt;/td>
-&lt;td>ROS2のドキュメント自動生成してみた
-&lt;a href="https://youtu.be/SFs4jSWL-D8?t=3108" target="_blank" rel="noopener">動画&lt;/a>&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;p>&lt;a href="https://rosjp.connpass.com/event/183750/">https://rosjp.connpass.com/event/183750/&lt;/a>&lt;/p>
-&lt;h2 id="uros-japan-ug-re-35-自作カスタムロボットのros対応-webinaru">&lt;u>ROS Japan UG Re: #35 自作／カスタムロボットのROS対応 Webinar&lt;/u>&lt;/h2>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>場所&lt;/th>
-&lt;th>発表日&lt;/th>
-&lt;th>発表者&lt;/th>
-&lt;th>演題&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>オンライン&lt;/td>
-&lt;td>2020/12/14&lt;/td>
-&lt;td>吉本幸太郎&lt;/td>
-&lt;td>自動航行船のROS2対応
-&lt;a href="https://www.youtube.com/watch?v=xDzj1rGwfNw&amp;amp;list=PLy_c3-6F_9apKcw2gl2ESH9djX-1k6WeG&amp;amp;index=5" target="_blank" rel="noopener">動画&lt;/a>&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;p>&lt;a href="https://rosjp.connpass.com/event/197222/">https://rosjp.connpass.com/event/197222/&lt;/a>&lt;/p>
-&lt;h2 id="uros-japan-ug-34-lt大会持ち込みltu">&lt;u>ROS Japan UG #34 LT大会（持ち込みLT）&lt;/u>&lt;/h2>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>場所&lt;/th>
-&lt;th>発表日&lt;/th>
-&lt;th>発表者&lt;/th>
-&lt;th>演題&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>東京&lt;/td>
-&lt;td>2020/02/17&lt;/td>
-&lt;td>片岡大哉&lt;/td>
-&lt;td>
-&lt;a href="https://docs.google.com/presentation/d/1um8clBICblZ8IX2l2BtMWgPt_LQU85J5BOpsp0Tubnw/edit?usp=sharing" target="_blank" rel="noopener">ROS2で共有ライブラリを作るのがとてもつらいお話&lt;/a>
-&lt;a href="https://youtu.be/nKE7xUATBNA?t=423" target="_blank" rel="noopener">動画&lt;/a>&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;p>&lt;a href="https://rosjp.connpass.com/event/161041/">https://rosjp.connpass.com/event/161041/&lt;/a>&lt;/p>
-&lt;h2 id="uros-japan-ug-18-関西勉強会u">&lt;u>ROS Japan UG #18 関西勉強会&lt;/u>&lt;/h2>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>場所&lt;/th>
-&lt;th>発表日&lt;/th>
-&lt;th>発表者&lt;/th>
-&lt;th>演題&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>滋賀&lt;/td>
-&lt;td>2017/12/17&lt;/td>
-&lt;td>片岡大哉、西下敦生&lt;/td>
-&lt;td>
-&lt;a href="https://www.slideshare.net/masayakataoka/3d-object-detection-using-pcl-point-cloud-library" target="_blank" rel="noopener">pclで三次元物体認識&lt;/a>&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;p>&lt;a href="https://rosjp.connpass.com/event/72045/">https://rosjp.connpass.com/event/72045/&lt;/a>&lt;/p>
-&lt;h2 id="uros-japan-ug-13-移動ロボット勉強会u">&lt;u>ROS Japan UG #13 移動ロボット勉強会&lt;/u>&lt;/h2>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>場所&lt;/th>
-&lt;th>発表日&lt;/th>
-&lt;th>発表者&lt;/th>
-&lt;th>演題&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>東京&lt;/td>
-&lt;td>2017/10/25&lt;/td>
-&lt;td>片岡大哉、和田翠星&lt;/td>
-&lt;td>
-&lt;a href="https://docs.google.com/presentation/d/1sFCBonvnUbPf5SBrAahCp6JlBjhRLaM3x-krzjUcNNk/edit" target="_blank" rel="noopener">GazeboでUSV シミュレーション&lt;/a>&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;p>&lt;a href="https://rosjp.connpass.com/event/66253/">https://rosjp.connpass.com/event/66253/&lt;/a>&lt;/p>
-&lt;h1 id="roscon">&lt;strong>ROSCON&lt;/strong>&lt;/h1>
-&lt;p>ROSCONは査読ありのROS開発者の国際会議です。
-OUXT PolarisではROSCONJPの2018,2019,2021の本会議に提案が採択された実績及びROSCON MacauにてメンバーがLightning Talkを行なった実績があります。&lt;/p>
-&lt;h2 id="urosconjp-2024u">&lt;u>ROSCONJP 2024&lt;/u>&lt;/h2>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>場所&lt;/th>
-&lt;th>発表日&lt;/th>
-&lt;th>発表者&lt;/th>
-&lt;th>演題&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>東京&lt;/td>
-&lt;td>2024/9/25&lt;/td>
-&lt;td>二見 堅太、松崎 史弥&lt;/td>
-&lt;td>
-&lt;a href="https://roscon.jp/2024/presentations/06.pdf" target="_blank" rel="noopener">Martime RobotX Challenge2024に向けた自律航行ハードウェアとROS 2とのインテグレーション&lt;/a>,&lt;br>
-&lt;a href="https://vimeo.com/showcase/11452054/video/1029114561" target="_blank" rel="noopener">Presentation Video&lt;/a>&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;h3 id="abstract">Abstract&lt;/h3>
-&lt;p>OUXT Polarisは自律航行船と自律ドローンをコネクトさせたロボット競技会Martime RobotX Challengeに出場し、決勝進出を目指して活動している。高精度ロボット開発は高度なロボットハードウェアとソフトウェアをうまく結合することが重要となる。今回は、自律航行船と自律ドローンの開発を例に、結合の手法や制約事項、ソフトウェアの高速化などの知見に関して発表する。&lt;/p>
-&lt;h2 id="urosconjp-2021u">&lt;u>ROSCONJP 2021&lt;/u>&lt;/h2>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>場所&lt;/th>
-&lt;th>発表日&lt;/th>
-&lt;th>発表者&lt;/th>
-&lt;th>演題&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>東京&lt;/td>
-&lt;td>2021/9/16&lt;/td>
-&lt;td>吉本幸太郎、小倉将人&lt;/td>
-&lt;td>
-&lt;a href="https://roscon.jp/presentations/21.pdf" target="_blank" rel="noopener">Martime RobotX Challenge2022 のためのビヘイビアプランニング開発&lt;/a>,&lt;br>
-&lt;a href="https://vimeo.com/638043225/b9f16e187d" target="_blank" rel="noopener">Presentation Video&lt;/a>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>東京&lt;/td>
-&lt;td>2021/9/16&lt;/td>
-&lt;td>片岡大哉&lt;/td>
-&lt;td>
-&lt;a href="https://docs.google.com/presentation/d/1MSvtNRBFXpQIUjxkKop5JWZlm5n56TC96fJPIpgbCdM/edit?usp=sharing" target="_blank" rel="noopener">ros-integration-action 無料で始める簡単結合テスト&lt;/a>&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;h3 id="abstract-1">Abstract&lt;/h3>
-&lt;p>OUXT-Polaris は完全自律航行船の国際コンテスト出場を目指すチームである。自律航行のためのビヘイビアプラニングには BehaviorTree.CPP ライブラリ1を使用している。 OUXT ではこのライブラリを更に便利に使うための拡張ツールを開発した。また、自動航行ソフトウェアのテストには実機実験が大切である。コロナ禍でも実施可能な OUXT-Polaris の取り組みを紹介する。&lt;/p>
-&lt;h2 id="uroscon-2019-macauu">&lt;u>ROSCON 2019 Macau&lt;/u>&lt;/h2>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>場所&lt;/th>
-&lt;th>発表日&lt;/th>
-&lt;th>発表者&lt;/th>
-&lt;th>演題&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>マカオ&lt;/td>
-&lt;td>2019/11/1&lt;/td>
-&lt;td>片岡大哉&lt;/td>
-&lt;td>
-&lt;a href="https://docs.google.com/presentation/d/1JlIHBWABynf4gf0fQTIkJ3G6S0t-PvDRBwkFqgfJnik/edit?usp=sharing" target="_blank" rel="noopener">pcl_appsとROS2で始める点群処理&lt;/a>&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;h2 id="urosconjp-2019u">&lt;u>ROSCONJP 2019&lt;/u>&lt;/h2>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>場所&lt;/th>
-&lt;th>発表日&lt;/th>
-&lt;th>発表者&lt;/th>
-&lt;th>演題&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>東京&lt;/td>
-&lt;td>2019/09/25&lt;/td>
-&lt;td>片岡大哉、和田翠星、増岡伸也、田中良道&lt;/td>
-&lt;td>
-&lt;a href="https://docs.google.com/presentation/d/1h-CJzWTqgiuRm0yYv2PdxBk7fp8D3dvHgWh-_MqOTO4/edit?usp=sharing" target="_blank" rel="noopener">Virtual RobotX Chellengeへ向けたオープンソース自律航行システムの開発&lt;/a>&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;h3 id="abstract-2">Abstract&lt;/h3>
-&lt;p>OUXT PolarisはMaritime RobotX Challengeに日本から有志で参加しているチームである。2018年大会ではタスクをROSを用いてOSSの自律航行システムを構築し、大会ではタスクを1つクリアした。今年は、シミュレーターによる大会Virtual RobotX Challengeが開催される。ROSCon JP 2019では、昨年の反省を踏まえたソフトウェアアーキテクチャの改良と、成果物によるROSコミュニティへの貢献について発表を行う。
-&lt;a href="https://vimeopro.com/osrfoundation/roscon-jp-2019/video/370249409" target="_blank" rel="noopener">video&lt;/a>&lt;/p>
-&lt;h2 id="urosconjp-2018u">&lt;u>ROSCONJP 2018&lt;/u>&lt;/h2>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>場所&lt;/th>
-&lt;th>発表日&lt;/th>
-&lt;th>発表者&lt;/th>
-&lt;th>演題&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>東京&lt;/td>
-&lt;td>2018/9/14&lt;/td>
-&lt;td>田中良道&lt;/td>
-&lt;td>
-&lt;a href="https://roscon.ros.org/jp/2018/presentations/ROSCon_JP_2018_presentation_17.pdf" target="_blank" rel="noopener">Maritime RobotX Challenge 2018への取り組み&lt;/a>&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;h3 id="abstract-3">Abstract&lt;/h3>
-&lt;p>OUXT Polarisは日本各地の高専生・大学生・大学院生を中心に構成されたチームである。自律走行船の国際大会であるMaritime RobotX Challengeへ唯一の日本チームとして参加し、入賞することを活動目的としている。ROSCon JP 2018 においては、開発中の機体について各技術要素とROSによるシステム統合技術を紹介し、知識と経験の共有を図るとともに、要素技術に関する議論を期待している。&lt;/p>
-&lt;p>
-&lt;a href="https://vimeo.com/292069925" target="_blank" rel="noopener">video&lt;/a>&lt;/p>
-&lt;p>ROSConJP official website:
-&lt;a href="https://roscon.jp/" target="_blank" rel="noopener">here&lt;/a>&lt;/p>
-&lt;h1 id="ouxt-polaris勉強会休止中">&lt;strong>OUXT Polaris勉強会（休止中）&lt;/strong>&lt;/h1>
-&lt;p>OUXT Polarisでは月に一度程度の頻度で勉強会を開催しています。
-勉強会においてはチーム外の方にも来ていただいて議論や知見の共有を行なっています。&lt;/p>
-&lt;p>&lt;a href="https://ouxt-polaris.connpass.com">https://ouxt-polaris.connpass.com&lt;/a>&lt;/p>
-&lt;h1 id="他ロボット競技チームとの交流">&lt;strong>他ロボット競技チームとの交流&lt;/strong>&lt;/h1>
-&lt;h2 id="uごちゃまぜロボットコンテスト交流会-1u">&lt;u>ごちゃまぜロボットコンテスト交流会 #1&lt;/u>&lt;/h2>
-&lt;h3 id="回路制御セッションlt">回路・制御セッションLT&lt;/h3>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>場所&lt;/th>
-&lt;th>発表日&lt;/th>
-&lt;th>発表者&lt;/th>
-&lt;th>演題&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>オンライン&lt;/td>
-&lt;td>2021/8/29&lt;/td>
-&lt;td>真田 辰哉&lt;/td>
-&lt;td>
-&lt;a href="https://docs.google.com/presentation/d/1eX-4q53B-KSLe45MT007Y4fA5y4Qvg5hhZ7Q96SlFeY/edit?usp=sharing" target="_blank" rel="noopener">回路のドキュメント， 残してますか？&lt;/a>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>オンライン&lt;/td>
-&lt;td>2021/8/29&lt;/td>
-&lt;td>片岡 大哉&lt;/td>
-&lt;td>
-&lt;a href="https://docs.google.com/presentation/d/1gdvyy3P4PtuJM4OW5FNaBInLRl3fx1LGs2wjQ9_TK_M/edit?usp=sharing" target="_blank" rel="noopener">コロナ禍でもみんなでできるフィールド実験を目指して&lt;/a>&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;p>&lt;a href="https://scramble-robocon-meetup.connpass.com/event/218937/">https://scramble-robocon-meetup.connpass.com/event/218937/&lt;/a>&lt;/p>
-&lt;h2 id="uフィールドロボティクス勉強会-1u">&lt;u>フィールドロボティクス勉強会 #1&lt;/u>&lt;/h2>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>場所&lt;/th>
-&lt;th>発表日&lt;/th>
-&lt;th>発表者&lt;/th>
-&lt;th>演題&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>オンライン&lt;/td>
-&lt;td>2019/12/20&lt;/td>
-&lt;td>片岡 大哉&lt;/td>
-&lt;td>
-&lt;a href="https://docs.google.com/presentation/d/1La6yIR7biA0-OSTfUmhWJ_WzKOiSXXZ-Bv4oG04rzdQ/edit?usp=sharing" target="_blank" rel="noopener">ソフト屋から見たフィールドロボット スコールに負けない認識系を作る！！&lt;/a>&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;p>&lt;a href="https://frj.connpass.com/event/156793/">https://frj.connpass.com/event/156793/&lt;/a>&lt;/p>
-&lt;h2 id="uそとろぼ-第2回フィールドロボティクス勉強会オンラインu">&lt;u>そとろぼ！ 第2回フィールドロボティクス勉強会オンライン&lt;/u>&lt;/h2>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>場所&lt;/th>
-&lt;th>発表日&lt;/th>
-&lt;th>発表者&lt;/th>
-&lt;th>演題&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>オンライン&lt;/td>
-&lt;td>2021/8/28&lt;/td>
-&lt;td>片岡 大哉&lt;/td>
-&lt;td>
-&lt;a href="https://docs.google.com/presentation/d/1LOxP7aNiviGGZsBSauLB_Vhlks3EigBtK8BozU3C0pQ/edit?usp=sharing" target="_blank" rel="noopener">ros2_controlで動くロボット 多摩川、安威川で浮かべてみた&lt;/a>&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;p>&lt;a href="https://frj.connpass.com/event/219686/">https://frj.connpass.com/event/219686/&lt;/a>&lt;/p>
-&lt;h2 id="u自律移動勉強会with-robohanu">&lt;u>自律移動勉強会with Robohan&lt;/u>&lt;/h2>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>場所&lt;/th>
-&lt;th>発表日&lt;/th>
-&lt;th>発表者&lt;/th>
-&lt;th>演題&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>オンライン&lt;/td>
-&lt;td>2021/9/19&lt;/td>
-&lt;td>片岡 大哉&lt;/td>
-&lt;td>
-&lt;a href="https://docs.google.com/presentation/d/1EPSkBz0jrBDOpFTDcVVkeMStDlK6PijpHtkO5YvwGxU/edit?usp=sharing" target="_blank" rel="noopener">自律移動勉強会 with Robohan&lt;/a>&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;h1 id="その他勉強会">&lt;strong>その他勉強会&lt;/strong>&lt;/h1>
-&lt;h2 id="u第12回-mlops-勉強会u">&lt;u>第12回 MLOps 勉強会&lt;/u>&lt;/h2>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>場所&lt;/th>
-&lt;th>発表日&lt;/th>
-&lt;th>発表者&lt;/th>
-&lt;th>演題&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>オンライン&lt;/td>
-&lt;td>2021/10/14&lt;/td>
-&lt;td>片岡 大哉&lt;/td>
-&lt;td>
-&lt;a href="https://docs.google.com/presentation/d/1kG9Pfwr6wx-qhGW9SE4Ys5pHqlLd9rjwTmmQu1Qxxwo/edit?usp=sharing" target="_blank" rel="noopener">ロボットシステムの開発と運用、本番で一発完動するロボットシステムのために&lt;/a>&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;p>&lt;a href="https://mlops.connpass.com/event/223517/">https://mlops.connpass.com/event/223517/&lt;/a>&lt;/p>
-&lt;h2 id="uunity-dojo秋のlt祭りu">&lt;u>Unity Dojo　秋のLT祭り&lt;/u>&lt;/h2>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>場所&lt;/th>
-&lt;th>発表日&lt;/th>
-&lt;th>発表者&lt;/th>
-&lt;th>演題&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>オンライン&lt;/td>
-&lt;td>2021/10/19&lt;/td>
-&lt;td>片岡大哉&lt;/td>
-&lt;td>
-&lt;a href="https://youtu.be/PUu66BCNRbQ" target="_blank" rel="noopener">UniSim、ROS2に最適化されたUnityベースのシミュレータ&lt;/a>&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;p>&lt;a href="https://meetup.unity3d.jp/jp/events/1332">https://meetup.unity3d.jp/jp/events/1332&lt;/a>&lt;/p>
-&lt;p>Unityは物理エンジンや高度なレンダリングパイプラインを備え、ロボティクス分野への応用が期待されている。 Maritime RobotX Challengeに出場しているOUXT Polarisでは実機テストのコスト削減のためUnityベースでROS2に最適化されたシミュレータの開発に着手している。 今回の講演ではURDFのインポートやネイティブライブラリを利用したROS2トピックPub/Sub等の技術を紹介する。&lt;/p></description></item></channel></rss>
+&lt;p>本年度は決勝進出を目標として挑戦していきます！応援のほどよろしくお願いいたします。&lt;/p></description></item></channel></rss>
