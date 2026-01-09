@@ -14,7 +14,7 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: 九州大学
+- name: 九州大学 大学院
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -24,7 +24,7 @@ bio:
 #- 
 
 education:
-  -courses:
+  courses:
     - course: 修士（工学）
       institution: The University of Kitakyushu
       year: 2024
@@ -59,8 +59,6 @@ user_groups:
 ---
 
 ## プロフィール
-認識系統担当。たまにデザイン関係。
-
 | 年月 | 所属等 |
 |:-|:-|
 | 2018年4月-2022年3月 | 北九州市立大学 国際環境工学部 機械システム工学科 |

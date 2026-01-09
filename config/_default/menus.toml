@@ -20,7 +20,8 @@
 
 [[main]]
   name = "講演実績/Seminars"
-  url = "/pages/Seminar"
+  # url = "/pages/seminar"
+  url = "/pages/seminar/publications"
   weight = 40
 
 [[main]]

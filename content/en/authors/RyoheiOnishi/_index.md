@@ -1,10 +1,10 @@
 ---
 # Display name
-title: 山上　赳史
+title: Ryohei Onishi
 
 # Username (this should match the folder name)
 authors:
-- TakeshiYamagami
+- RyoheiOnishi
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,7 +14,7 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: 九州工業大学院
+- name: Kyushu Institute of Technology
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -52,5 +52,6 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 回路
+- Software
+- Hardware
 ---
