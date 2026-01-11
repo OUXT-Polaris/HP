@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: We are the only student-led team in Japan that participates in the Autopilot Ship Robot Contest held in Hawaii!
+role: Student-Led Team for Maritime RobotX Challenge and RoboBoat
 
 # Organizations/Affiliations
 organizations:
@@ -50,20 +50,38 @@ email: ""
 user_groups:
 ---
 
-We are a student-led robotics team called '''OUXT Polaris''', which was formed for the [Maritime Robotx Challenge](https://www.robotx.org/).
+We are a student-led robotics team established to compete in the [Maritime RobotX Challenge](https://www.robotx.org/).  
+For the 2025 season, we are participating in [RoboBoat](https://roboboat.org/), and we plan to compete in the 2026 tournament as well.
+<br>
+<br>
+## What is **RoboBoat**?
+RoboBoat is an international competition for small autonomous surface vehicles (ASVs) organized by RoboNation, held annually in March.<br>
+In this competition, participating teams design and construct their own hulls and integrate custom-developed control systems, sensors, and navigation algorithms to compete.<br>
+The vessels must operate fully autonomously and are required to complete various tasks during the competition.
+<br>
 
-The Maritime RobotX Challenge is one of the most advanced robotics competitions in the world.
+{{< youtube id="OIVBayCQBm8?si=MNpMzRLvoRwLWCUL">}}
+<br>
 
-{{< figure src="/img/about/ship.jpg" title="The ship during the tournament" class="center" width="450">}}
+OUXT Polaris has been participating in RoboBoat since last year. For more details, please refer to the article below:
 
-Each team develops control equipment, control systems, sensors, and algorithms, which are mounted on a hull called [WAM-V](http://www.wam-v.com/), and competes in the competition.
-The ship must be fully automated and will be tasked with a variety of tasks during the competition.
+https://note.com/lush_bonobo1853/n/nc0a60b1aad72
 
-The next conference will be held from December 12-19, 2020.
-Would you like to work with us to build the world's smartest autopilot ship?
-If you're interested, please [contact](./#contact) us!
+Additionally, we received a special award at RoboBoat 2025.<br>
 
-The team is always looking for sponsors.
-For more information, please check our [Call for Sponsors](./pages/call-sponsor) page.
+**[OUXT Polaris plans to participate in RoboBoat again this year](/en/technical-work)**
 
-{{< youtube id="pr_4i2vnWtg">}}
+<table>
+  <tr>
+    <td>{{< figure src="/img/about/roboboat.jpg" title="Small vessel built for the competition(2025)" class="center" width="450">}}</td>
+    <td>{{< figure src="/img/about/working.jpg" title="Team members at work(2025)" class="center" width="450">}}</td>
+  </tr>
+</table>
+
+</br>
+
+
+# Seeking sponsors
+The activities of OUXT Polaris are made possible through the support of our sponsors.<br>
+We are currently seeking sponsors to support our participation in RoboBoat and the Maritime RobotX Challenge.<br>
+For more details, please visit our [Sponsorship page](./pages/call-sponsor).

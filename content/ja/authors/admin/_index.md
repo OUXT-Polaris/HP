@@ -69,7 +69,7 @@ https://note.com/lush_bonobo1853/n/nc0a60b1aad72
 
 また、RoboBoat2025では特別賞を受賞しています。<br>
 
-**OUXT Polarisは今年度もRoboBoatに参加する予定です！！**
+**[OUXT Polarisは今年度もRoboBoatに参加する予定です！！](/ja/technical-work)**
 
 <table>
   <tr>
