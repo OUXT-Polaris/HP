@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Seminars | OUXT Polaris</title><link>https://www.ouxt.jp/en/pages/seminar/</link><atom:link href="https://www.ouxt.jp/en/pages/seminar/index.xml" rel="self" type="application/rss+xml"/><description>Seminars</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>OUXT Polaris 2020-2024</copyright><lastBuildDate>Thu, 10 Jul 2025 13:50:27 +0900</lastBuildDate><image><url>https://www.ouxt.jp/images/icon_hud1e4b740b82faf5d5011883d0ab60ce8_134644_512x512_fill_lanczos_center_2.png</url><title>Seminars</title><link>https://www.ouxt.jp/en/pages/seminar/</link></image><item><title>Seminars</title><link>https://www.ouxt.jp/en/pages/seminar/publications/</link><pubDate>Thu, 10 Jul 2025 13:50:27 +0900</pubDate><guid>https://www.ouxt.jp/en/pages/seminar/publications/</guid><description>&lt;p>At OUXT Polaris, we actively engage in speaking activities to share the knowledge gained through our development with the ROS community and the robot competition community. Below is a list of our past presentations.&lt;/p>
+&lt;hr>
+&lt;h1 id="competitions-technical-documentation">&lt;strong>Competitions (Technical Documentation)&lt;/strong>&lt;/h1>
+&lt;p>In competitions like RoboBoat and the Maritime RobotX Challenge, &amp;ldquo;Technical Documentation&amp;rdquo; summarizing the technical details of vehicle development is included as a scoring item. We have published the materials written and presented by OUXT Polaris in the past.&lt;/p>
+&lt;h2 id="roboboat">&lt;strong>RoboBoat&lt;/strong>&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th align="left">Competition&lt;/th>
+&lt;th align="left">Date&lt;/th>
+&lt;th align="left">Author&lt;/th>
+&lt;th align="left">Title&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td align="left">&lt;strong>RoboBoat 2025&lt;/strong>&lt;/td>
+&lt;td align="left">2025/03/06&lt;/td>
+&lt;td align="left">Kenta Futami &lt;em>et al.&lt;/em>&lt;/td>
+&lt;td align="left">
+&lt;a href="https://robonation.org/app/uploads/sites/3/2025/02/TDR_OUXT_Polaris_RB2025.pdf" target="_blank" rel="noopener">Technical Design Report : OUXT Polaris 2025&lt;/a> (Florida)&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="robotx">&lt;strong>RobotX&lt;/strong>&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th align="left">Competition&lt;/th>
+&lt;th align="left">Author&lt;/th>
+&lt;th align="left">Title&lt;/th>
+&lt;th>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td align="left">&lt;strong>RobotX 2022&lt;/strong>&lt;/td>
+&lt;td align="left">Kenta Okamoto &lt;em>et al.&lt;/em>&lt;/td>
+&lt;td align="left">
+&lt;a href="https://arxiv.org/pdf/2306.13894" target="_blank" rel="noopener">OUXT Polaris: Autonomous Navigation System for the 2022 Maritime RobotX Challenge&lt;/a> (Australia)&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td align="left">&lt;strong>RobotX 2018&lt;/strong>&lt;/td>
+&lt;td align="left">Shuhei Horiguchi&lt;/td>
+&lt;td align="left">
+&lt;a href="https://robonation.org/app/uploads/sites/2/2019/09/Osaka_RX18_Paper.pdf" target="_blank" rel="noopener">Development of a navigation system with high function and high reusability for Maritime RobotX Challenge 2018&lt;/a> (Hawaii)&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td align="left">&lt;strong>RobotX 2016&lt;/strong>&lt;/td>
+&lt;td align="left">Suisei Wada &lt;em>et al.&lt;/em>&lt;/td>
+&lt;td align="left">
+&lt;a href="https://scholar.google.co.jp/scholar?cluster=4258648321170149126&amp;amp;hl=ja&amp;amp;as_sdt=2005&amp;amp;sciodt=0,5" target="_blank" rel="noopener">Journal Paper about the development for the 2016 RobotX Competition&lt;/a> (Hawaii)&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td align="left">&lt;strong>RobotX 2014&lt;/strong>&lt;/td>
+&lt;td align="left">Naoya Fujimoto &lt;em>et al.&lt;/em>&lt;/td>
+&lt;td align="left">
+&lt;a href="https://robonation.org/app/uploads/sites/2/2019/09/Osaka_RX14_Paper.pdf" target="_blank" rel="noopener">Catamaran Robot “Polaris -I” for Maritime RobotX Challenge 2014&lt;/a> (Singapore)&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;hr>
+&lt;h1 id="academic-conferences">&lt;strong>Academic Conferences&lt;/strong>&lt;/h1>
+&lt;h2 id="roscon--roscon-jp">&lt;strong>ROSCon / ROSCon JP&lt;/strong>&lt;/h2>
+&lt;p>This is the world&amp;rsquo;s largest international and domestic conference for ROS (Robot Operating System) developers. OUXT Polaris has had multiple presentations accepted.&lt;/p>
+&lt;h3 id="roscon-jp-2024">&lt;strong>ROSCon JP 2024&lt;/strong>&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Date:&lt;/strong> 2024/09/25 (Tokyo)&lt;/li>
+&lt;li>&lt;strong>Author:&lt;/strong> Kenta Futami, Fumiya Matsuzaki&lt;/li>
+&lt;li>&lt;strong>Title:&lt;/strong>
+&lt;a href="https://roscon.jp/2024/presentations/06.pdf" target="_blank" rel="noopener">Maritime RobotX Challenge 2024に向けた自律航行ハードウェアとROS 2とのインテグレーション&lt;/a> (Japanese)&lt;/li>
+&lt;li>&lt;strong>Video:&lt;/strong>
+&lt;a href="https://vimeo.com/showcase/11452054/video/1029114561" target="_blank" rel="noopener">Presentation Video&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Abstract:&lt;/strong> 自律航行船と自律ドローンを連携させたロボット競技会「Maritime RobotX Challenge」への挑戦を例に、高度なハードウェアとソフトウェアの結合手法、制約事項、ソフトウェア高速化の知見について発表。&lt;/li>
+&lt;/ul>
+&lt;h3 id="roscon-jp-2021">&lt;strong>ROSCon JP 2021&lt;/strong>&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Date:&lt;/strong> 2021/09/16 (Tokyo/Online)&lt;/li>
+&lt;li>&lt;strong>Author:&lt;/strong> Kotaro Yoshimoto, Masato Ogura&lt;/li>
+&lt;li>&lt;strong>Title:&lt;/strong>
+&lt;a href="https://roscon.jp/2021/presentations/21.pdf" target="_blank" rel="noopener">Maritime RobotX Challenge 2022 のためのビヘイビアプランニング開発&lt;/a> (Japanese)&lt;/li>
+&lt;li>&lt;strong>Video:&lt;/strong>
+&lt;a href="https://vimeo.com/638043225/b9f16e187d" target="_blank" rel="noopener">Presentation Video&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Abstract:&lt;/strong> Maritime RobotX Challenge 2022に向けた自律航行システムのビヘイビアプランニング開発について発表。コロナ禍でもチーム開発を行うためのROS 2ベースのシステムアーキテクチャ、シミュレーション環境、ビヘイビアプランニング手法を紹介。&lt;/li>
+&lt;/ul>
+&lt;h4 id="lt-session">LT Session&lt;/h4>
+&lt;ul>
+&lt;li>&lt;strong>Author:&lt;/strong> Masaya Kataoka&lt;/li>
+&lt;li>&lt;strong>Title:&lt;/strong>
+&lt;a href="https://roscon.jp/2021/presentations/17.pdf" target="_blank" rel="noopener">ros-integration-action 無料で始める簡単結合テスト&lt;/a> (Japanese)&lt;/li>
+&lt;li>&lt;strong>Video:&lt;/strong>
+&lt;a href="https://vimeo.com/638042931/b079369c12" target="_blank" rel="noopener">Presentation Video&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="roscon-2019-macau">&lt;strong>ROSCon 2019 Macau&lt;/strong>&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Date:&lt;/strong> 2019/11/01 (Macau)&lt;/li>
+&lt;li>&lt;strong>Author:&lt;/strong> Masaya Kataoka&lt;/li>
+&lt;li>&lt;strong>Title:&lt;/strong> Component Everything in PCL&lt;/li>
+&lt;li>&lt;strong>Video:&lt;/strong>
+&lt;a href="https://vimeo.com/379127050" target="_blank" rel="noopener">Presentation Video&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="roscon-jp-2019">&lt;strong>ROSCon JP 2019&lt;/strong>&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Date:&lt;/strong> 2019/09/25 (Tokyo)&lt;/li>
+&lt;li>&lt;strong>Author:&lt;/strong> Masaya Kataoka, Suisei Wada, Shinya Masuoka, Yoshimichi Tanaka&lt;/li>
+&lt;li>&lt;strong>Title:&lt;/strong>
+&lt;a href="https://roscon.ros.org/jp/2019/presentations/ROSCon_JP_2019_presentation_11.pdf" target="_blank" rel="noopener">Virtual RobotX Challengeへ向けたオープンソース自律航行システムの開発&lt;/a> (Japanese)&lt;/li>
+&lt;li>&lt;strong>Video:&lt;/strong>
+&lt;a href="https://vimeopro.com/osrfoundation/roscon-jp-2019/video/370249409" target="_blank" rel="noopener">Presentation Video&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Abstract:&lt;/strong> 2019年に開催されたVirtual RobotX Challengeに向けた自律航行システムの開発について発表。OUXT Polarisが開発したオープンソースのROSベース自律航行システム、Gazeboシミュレーション環境を紹介。&lt;/li>
+&lt;/ul>
+&lt;h3 id="roscon-jp-2018">&lt;strong>ROSCon JP 2018&lt;/strong>&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Date:&lt;/strong> 2018/09/14 (Tokyo)&lt;/li>
+&lt;li>&lt;strong>Author:&lt;/strong> Yoshimichi Tanaka&lt;/li>
+&lt;li>&lt;strong>Title:&lt;/strong>
+&lt;a href="https://roscon.jp/2018/presentations/ROSCon_JP_2018_presentation_17.pdf" target="_blank" rel="noopener">Maritime RobotX Challenge 2018への取り組み&lt;/a> (Japanese)&lt;/li>
+&lt;li>&lt;strong>Video:&lt;/strong>
+&lt;a href="https://vimeo.com/292069925" target="_blank" rel="noopener">Presentation Video&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Abstract:&lt;/strong> 2018年にハワイで開催されたMaritime RobotX Challengeに向けたOUXT Polarisの取り組みについて発表。開発中の機体について各技術要素とROSによるシステム統合技術を紹介。&lt;/li>
+&lt;/ul>
+&lt;h2 id="domestic-conferences">&lt;strong>Domestic Conferences&lt;/strong>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Robotics and Mechatronics Conference (ROBOMECH) 2025&lt;/strong>
+&lt;ul>
+&lt;li>2025/06/10 (Yamanashi) / Ryohei Onishi: RoboBoat 2025のための自律航行型無人船の開発&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Annual Conference of the Robotics Society of Japan (RSJ) 2023&lt;/strong>
+&lt;ul>
+&lt;li>2023/09/08 (Miyagi) / Fumiya Matsuzaki: Maritime RobotX への挑戦を通じた技術活動&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h1 id="community-events">&lt;strong>Community Events&lt;/strong>&lt;/h1>
+&lt;h2 id="ros-japan-user-group-rosjp">&lt;strong>ROS Japan User Group (ROSJP)&lt;/strong>&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th align="left">Event&lt;/th>
+&lt;th align="left">Date&lt;/th>
+&lt;th align="left">Author&lt;/th>
+&lt;th align="left">Title&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td align="left">&lt;strong>ROS Japan UG #58&lt;/strong>&lt;/td>
+&lt;td align="left">2025/06/20&lt;/td>
+&lt;td align="left">Fumiya Matsuzaki&lt;/td>
+&lt;td align="left">RoboBoatに向けた小型自律航行船の開発&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td align="left">&lt;strong>ROS Japan UG #43&lt;/strong>&lt;/td>
+&lt;td align="left">2021/07/17&lt;/td>
+&lt;td align="left">Masaya Kataoka&lt;/td>
+&lt;td align="left">ros2_controlで動くロボット 多摩川で浮かべてみた&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td align="left">&lt;strong>ROS Japan UG #38&lt;/strong>&lt;/td>
+&lt;td align="left">2020/08/28&lt;/td>
+&lt;td align="left">Masaya Kataoka&lt;/td>
+&lt;td align="left">ROS 2のドキュメント自動生成してみた&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td align="left">&lt;strong>ROS Japan UG #35&lt;/strong>&lt;/td>
+&lt;td align="left">2020/12/14&lt;/td>
+&lt;td align="left">Kotaro Yoshimoto&lt;/td>
+&lt;td align="left">自動航行船のROS 2対応&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td align="left">&lt;strong>ROS Japan UG #34&lt;/strong>&lt;/td>
+&lt;td align="left">2020/02/17&lt;/td>
+&lt;td align="left">Masaya Kataoka&lt;/td>
+&lt;td align="left">ROS 2で共有ライブラリを作るのがとてもつらいお話&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td align="left">&lt;strong>ROS Japan UG #18&lt;/strong>&lt;/td>
+&lt;td align="left">2017/12/17&lt;/td>
+&lt;td align="left">Kataoka, Nishishita&lt;/td>
+&lt;td align="left">pclで三次元物体認識&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td align="left">&lt;strong>ROS Japan UG #13&lt;/strong>&lt;/td>
+&lt;td align="left">2017/10/25&lt;/td>
+&lt;td align="left">Kataoka, Wada&lt;/td>
+&lt;td align="left">GazeboでUSV シミュレーション&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="other-study-groups--meetups">&lt;strong>Other Study Groups / Meetups&lt;/strong>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Unity Dojo Autumn LT Festival (2021/10/19)&lt;/strong>
+&lt;ul>
+&lt;li>Masaya Kataoka:
+&lt;a href="https://youtu.be/PUu66BCNRbQ" target="_blank" rel="noopener">UniSim、ROS 2に最適化されたUnityベースのシミュレータ&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>12th MLOps Study Group (2021/10/14)&lt;/strong>
+&lt;ul>
+&lt;li>Masaya Kataoka:
+&lt;a href="https://docs.google.com/presentation/d/1kG9Pfwr6wx-qhGW9SE4Ys5pHqlLd9rjwTmmQu1Qxxwo/edit?usp=sharing" target="_blank" rel="noopener">ロボットシステムの開発と運用、本番で一発完動するロボットシステムのために&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Soto-Robo! 2nd Field Robotics Study Group (2021/08/28)&lt;/strong>
+&lt;ul>
+&lt;li>Masaya Kataoka:
+&lt;a href="https://docs.google.com/presentation/d/1LOxP7aNiviGGZsBSauLB_Vhlks3EigBtK8BozU3C0pQ/edit?usp=sharing" target="_blank" rel="noopener">ros2_controlで動くロボット 多摩川、安威川で浮かべてみた&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Mixed Robot Contest Meetup #1 (2021/08/29)&lt;/strong>
+&lt;ul>
+&lt;li>Tatsuya Sanada:
+&lt;a href="https://docs.google.com/presentation/d/1eX-4q53B-KSLe45MT007Y4fA5y4Qvg5hhZ7Q96SlFeY/edit?usp=sharing" target="_blank" rel="noopener">回路のドキュメント、残してますか？&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h1 id="ouxt-polaris-study-group-hiatus">&lt;strong>OUXT Polaris Study Group (Hiatus)&lt;/strong>&lt;/h1>
+&lt;p>OUXT Polaris regularly held study groups for the purpose of discussion and knowledge sharing, including with external participants.&lt;/p>
+&lt;p>
+&lt;a href="https://ouxt-polaris.connpass.com" target="_blank" rel="noopener">Connpass Group: OUXT Polaris&lt;/a>&lt;/p></description></item></channel></rss>

@@ -1,4 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>OUXT Polaris</title><link>https://www.ouxt.jp/</link><atom:link href="https://www.ouxt.jp/index.xml" rel="self" type="application/rss+xml"/><description>OUXT Polaris</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>OUXT Polaris 2020-2024</copyright><lastBuildDate>Thu, 10 Jul 2025 13:50:27 +0900</lastBuildDate><image><url>https://www.ouxt.jp/images/icon_hud1e4b740b82faf5d5011883d0ab60ce8_134644_512x512_fill_lanczos_center_2.png</url><title>OUXT Polaris</title><link>https://www.ouxt.jp/</link></image><item><title>講演実績</title><link>https://www.ouxt.jp/pages/seminar/publications/</link><pubDate>Thu, 10 Jul 2025 13:50:27 +0900</pubDate><guid>https://www.ouxt.jp/pages/seminar/publications/</guid><description>&lt;p>OUXT Polarisでは、開発を通して得た知見をROSコミュニティやロボット競技コミュニティに還元するべく、精力的に講演活動を行なっています。これまでの講演内容は以下の通りです。&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>OUXT Polaris</title><link>https://www.ouxt.jp/</link><atom:link href="https://www.ouxt.jp/index.xml" rel="self" type="application/rss+xml"/><description>OUXT Polaris</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>OUXT Polaris 2020-2024</copyright><lastBuildDate>Fri, 09 Jan 2026 00:00:00 +0000</lastBuildDate><image><url>https://www.ouxt.jp/images/icon_hud1e4b740b82faf5d5011883d0ab60ce8_134644_512x512_fill_lanczos_center_2.png</url><title>OUXT Polaris</title><link>https://www.ouxt.jp/</link></image><item><title>1/9/26 システムテスト</title><link>https://www.ouxt.jp/reports/testing-report/</link><pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate><guid>https://www.ouxt.jp/reports/testing-report/</guid><description>&lt;h2 id="test-purpose">Test Purpose&lt;/h2>
+&lt;p>Verification of manual operation functionality&lt;/p>
+&lt;h2 id="results">Results&lt;/h2>
+&lt;p>Operated extremely well. No issues with control in the surge, sway, and pitch directions. The aircraft was stable with no risk of capsizing.&lt;/p>
+&lt;p>&lt;strong>Controller&lt;/strong>: ○○&lt;/p>
+&lt;h2 id="video">Video&lt;/h2>
+&lt;div style="text-align: center; margin-top: 20px;">
+&lt;video controls style="max-width: 300px; width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+&lt;source src="https://www.ouxt.jp/img/technical-work/testing_video.mp4" type="video/mp4">
+Your browser does not support the video tag.
+&lt;/video>
+&lt;/div></description></item><item><title>講演実績</title><link>https://www.ouxt.jp/pages/seminar/publications/</link><pubDate>Thu, 10 Jul 2025 13:50:27 +0900</pubDate><guid>https://www.ouxt.jp/pages/seminar/publications/</guid><description>&lt;p>OUXT Polarisでは、開発を通して得た知見をROSコミュニティやロボット競技コミュニティに還元するべく、精力的に講演活動を行なっています。これまでの講演内容は以下の通りです。&lt;/p>
 &lt;hr>
 &lt;h1 id="競技会関連-technical-documentation">&lt;strong>競技会関連 (Technical Documentation)&lt;/strong>&lt;/h1>
 &lt;p>RoboBoatやMaritime RobotX Challengeでは、機体開発の技術的な詳細をまとめた「Technical Documentation」が採点項目に含まれます。OUXT Polarisが過去に執筆・発表した資料を公開しています。&lt;/p>
@@ -596,4 +607,4 @@ RobotX2020 オンライン決起会の様子
 &lt;/figure>
 &lt;/p>
 &lt;p>また、HPの方も従来のものから新しい本サイトへと一新しました。&lt;/p>
-&lt;p>本年度は決勝進出を目標として挑戦していきます！応援のほどよろしくお願いいたします。&lt;/p></description></item></channel></rss>
+&lt;p>本年度は決勝進出を目標として挑戦していきます！応援のほどよろしくお願いいたします。&lt;/p></description></item><item><title>メンバー</title><link>https://www.ouxt.jp/members/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.ouxt.jp/members/</guid><description/></item><item><title>開発状況</title><link>https://www.ouxt.jp/technical-work/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.ouxt.jp/technical-work/</guid><description/></item></channel></rss>

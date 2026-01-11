@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Reports | OUXT Polaris</title><link>https://www.ouxt.jp/reports/</link><atom:link href="https://www.ouxt.jp/reports/index.xml" rel="self" type="application/rss+xml"/><description>Reports</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>OUXT Polaris 2020-2024</copyright><lastBuildDate>Fri, 09 Jan 2026 00:00:00 +0000</lastBuildDate><image><url>https://www.ouxt.jp/images/icon_hud1e4b740b82faf5d5011883d0ab60ce8_134644_512x512_fill_lanczos_center_2.png</url><title>Reports</title><link>https://www.ouxt.jp/reports/</link></image><item><title>1/9/26 システムテスト</title><link>https://www.ouxt.jp/reports/testing-report/</link><pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate><guid>https://www.ouxt.jp/reports/testing-report/</guid><description>&lt;h2 id="test-purpose">Test Purpose&lt;/h2>
+&lt;p>Verification of manual operation functionality&lt;/p>
+&lt;h2 id="results">Results&lt;/h2>
+&lt;p>Operated extremely well. No issues with control in the surge, sway, and pitch directions. The aircraft was stable with no risk of capsizing.&lt;/p>
+&lt;p>&lt;strong>Controller&lt;/strong>: ○○&lt;/p>
+&lt;h2 id="video">Video&lt;/h2>
+&lt;div style="text-align: center; margin-top: 20px;">
+&lt;video controls style="max-width: 300px; width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+&lt;source src="https://www.ouxt.jp/img/technical-work/testing_video.mp4" type="video/mp4">
+Your browser does not support the video tag.
+&lt;/video>
+&lt;/div></description></item></channel></rss>
