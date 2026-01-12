@@ -7,8 +7,8 @@ summary: "Our team is looking for sponsors."
 authors: [admin]
 tags: []
 categories: []
-date: 2020-06-24T12:34:23+09:00
-lastmod: 2020-06-24T12:34:23+09:00
+date: 2025-06-24T12:34:23+09:00
+lastmod: 2025-06-24T12:34:23+09:00
 featured: false
 draft: false
 
@@ -32,12 +32,12 @@ Therefore, we are constantly seeking sponsors.
 If you have any questions, please feel free to [contact us](../../#contact).  
 We are currently looking for sponsors through the end of **March 2026**.
 
-## Financial Sponsors
+## **Financial Sponsors**
 
 OUXT Polaris needs financial support to purchase robot components and cover transportation expenses.  
 We are looking for sponsors who can support us in this area.
 
-## In-Kind Sponsors
+## **In-Kind Sponsors**
 
 At OUXT Polaris, we are developing fully autonomous ships using a variety of technologies and products.  
 We will feature your products in blog posts tagged with your company name.  
@@ -47,7 +47,7 @@ If you are interested in supporting us, please feel free to [contact us](../../#
 
 ---
 
-## Sponsorship Tiers
+## **Sponsorship Tiers**
 
 |                                                                                                                          | **Gold Sponsor**                                                | **Silver Sponsor**         | **Bronze Sponsor**        |
 |--------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|-----------------------------|---------------------------|
@@ -70,7 +70,7 @@ If you are interested in supporting us, please feel free to [contact us](../../#
 
 ---
 
-## Sample Sponsorship Returns
+## **Sample Sponsorship Returns**
 
 If you have any questions, feel free to [contact us](../../#contact).
 
