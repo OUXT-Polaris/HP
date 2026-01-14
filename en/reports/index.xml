@@ -1,14 +1,163 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Reports | OUXT Polaris</title><link>https://www.ouxt.jp/en/reports/</link><atom:link href="https://www.ouxt.jp/en/reports/index.xml" rel="self" type="application/rss+xml"/><description>Reports</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>OUXT Polaris 2020-2024</copyright><lastBuildDate>Fri, 09 Jan 2026 00:00:00 +0000</lastBuildDate><image><url>https://www.ouxt.jp/images/icon_hud1e4b740b82faf5d5011883d0ab60ce8_134644_512x512_fill_lanczos_center_2.png</url><title>Reports</title><link>https://www.ouxt.jp/en/reports/</link></image><item><title>1/9/26 System Test</title><link>https://www.ouxt.jp/en/reports/testing-report/</link><pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate><guid>https://www.ouxt.jp/en/reports/testing-report/</guid><description>&lt;h2 id="test-purpose">Test Purpose&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Reports | OUXT Polaris</title><link>https://www.ouxt.jp/en/reports/</link><atom:link href="https://www.ouxt.jp/en/reports/index.xml" rel="self" type="application/rss+xml"/><description>Reports</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>OUXT Polaris 2020-2024</copyright><lastBuildDate>Wed, 14 Jan 2026 00:00:00 +0000</lastBuildDate><image><url>https://www.ouxt.jp/images/icon_hud1e4b740b82faf5d5011883d0ab60ce8_134644_512x512_fill_lanczos_center_2.png</url><title>Reports</title><link>https://www.ouxt.jp/en/reports/</link></image><item><title/><link>https://www.ouxt.jp/en/reports/autonomy-report/</link><pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate><guid>https://www.ouxt.jp/en/reports/autonomy-report/</guid><description>&lt;h2 id="system-configuration-and-communication-architecture">&lt;strong>System Configuration and Communication Architecture&lt;/strong>&lt;/h2>
+&lt;div style="text-align: center; margin: 30px 0;">
+&lt;img src="https://www.ouxt.jp/img/technical-work/software_system.png" alt="Software System" style="max-width: 75%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+&lt;p style="margin-top: 10px; font-style: italic; color: #666;">Fig 1. Software System&lt;/p>
+&lt;/div>
+&lt;p>The Mini-V system is composed of the following elements to achieve both advanced information processing and real-time control.&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>Hardware Configuration&lt;/strong>:&lt;br>We use &amp;ldquo;NVIDIA Jetson AGX Orin&amp;rdquo; for the main computer and &amp;ldquo;Pixhawk&amp;rdquo; for the flight controller.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Communication Middleware&lt;/strong>:&lt;br> We use &amp;ldquo;ROS 2 (Robot Operating System 2)&amp;rdquo; as the core of our software development. The system has a modular design, allowing multiple members to develop perception, control, and communication subsystems in parallel.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Communication Automation&lt;/strong>:&lt;br> To bridge the communication gap between the high-level computer running ROS 2 (Jetson) and low-level microcontrollers (motor drivers and emergency stop devices), we developed a proprietary mechanism called &amp;ldquo;ProtoLink&amp;rdquo;.&lt;/p>
+&lt;ul>
+&lt;li>It automatically generates Protocol Buffer messages from ROS 2 message definitions.&lt;/li>
+&lt;li>By using nanopb, it generates lightweight C structures compatible with Arduino and STM32 environments, realizing seamless communication without manual protocol maintenance.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;br>
+&lt;h2 id="perception-system">&lt;strong>Perception System&lt;/strong>&lt;/h2>
+&lt;div style="text-align: center; margin: 30px 0;">
+&lt;img src="https://www.ouxt.jp/img/technical-work/yolo.png" alt="Image inference with YOLO" style="max-width: 75%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+&lt;p style="margin-top: 10px; font-style: italic; color: #666;">Fig 2. Image inference with YOLO&lt;/p>
+&lt;/div>
+&lt;p>For environment recognition, we use a hybrid sensor fusion combining a camera and LiDAR (Velodyne VLP16). The processing flow is as follows:&lt;/p>
+&lt;ol>
+&lt;li>&lt;strong>Visual Recognition&lt;/strong>:&lt;br> We use &amp;ldquo;YOLO&amp;rdquo;, capable of high-speed real-time processing, to extract bounding boxes of objects from camera images.&lt;/li>
+&lt;li>&lt;strong>Point Cloud Processing&lt;/strong>:&lt;br> Simultaneously, 3D point cloud data obtained from Velodyne VLP16 is processed using a rule-based algorithm for clustering (classification by chunks).&lt;/li>
+&lt;li>&lt;strong>Sensor Fusion&lt;/strong>:&lt;br> By integrating 2D visual data and 3D point cloud clusters, we identify the &amp;ldquo;type&amp;rdquo; and &amp;ldquo;precise 3D position&amp;rdquo; of objects.&lt;/li>
+&lt;li>&lt;strong>Costmap Update&lt;/strong>:&lt;br> The integrated obstacle information is sent to Pixhawk and used to update the local costmap for avoidance.&lt;/li>
+&lt;/ol>
+&lt;br>
+&lt;h2 id="localization">&lt;strong>Localization&lt;/strong>&lt;/h2>
+&lt;p>Self-position estimation is mainly processed by the &amp;ldquo;ArduPilot&amp;rdquo; firmware running on the Pixhawk flight controller.&lt;/p>
+&lt;div style="text-align: center; margin: 30px 0;">
+&lt;img src="https://www.ouxt.jp/img/technical-work/pixhawk.png" alt="Pixhawk" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+&lt;p style="margin-top: 10px; font-style: italic; color: #666;">Fig 3. Pixhawk&lt;/p>
+&lt;/div>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>Sensor Configuration&lt;/strong>:&lt;br> GNSS (Global Navigation Satellite System) and IMU (Inertial Measurement Unit) are integrated into Pixhawk, and these data are processed with a Kalman filter to estimate self-position.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Visual Odometry Integration&lt;/strong>:&lt;br> In addition to GNSS and IMU data, visual odometry information (movement estimation by image analysis) sent from the ROS 2 main computer is fused to perform self-position estimation and PID control.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;br>
+&lt;h2 id="planning--autonomy">&lt;strong>Planning &amp;amp; Autonomy&lt;/strong>&lt;/h2>
+&lt;div style="text-align: center; margin: 30px 0;">
+&lt;img src="https://www.ouxt.jp/img/technical-work/mission_planner.png" alt="Simulation with Mission planner" style="max-width: 75%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+&lt;p style="margin-top: 10px; font-style: italic; color: #666;">Fig 4. Simulation with Mission planner&lt;/p>
+&lt;/div>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>Dynamic Path Generation Based on Visual Information&lt;/strong>:&lt;br>
+Instead of running on a predetermined route, the route is calculated in real-time from environmental information captured by the camera and LiDAR.&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Identification of Safe Passage Route&lt;/strong>: Detects markers on the left and right and calculates their geometric midpoint to identify a safe route to pass through.&lt;/li>
+&lt;li>&lt;strong>Automatic Waypoint Generation&lt;/strong>: Sequentially generates relative waypoints for the calculated target point and steers autonomously to the destination.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;br>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>Obstacle Detection and Avoidance Function&lt;/strong>:&lt;br>
+If there is an obstacle on the navigation route, the robot immediately recognizes it and takes avoidance action.&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Spatial Recognition by Costmap&lt;/strong>: Information on recognized obstacles is immediately reflected in the robot&amp;rsquo;s &amp;ldquo;local costmap&amp;rdquo; (surrounding map).&lt;/li>
+&lt;li>&lt;strong>Circumnavigation/Avoidance&lt;/strong>: When an obstacle is detected, it identifies the position by verifying with GNSS information, and at the same time performs advanced control to avoid and circumnavigate while keeping a safe distance using LiDAR for distance measurement.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;br>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>Precision Maneuvering Based on Situational Awareness&lt;/strong>:&lt;br>
+It is possible to not only simply move but also understand external signals and dock shapes to perform complex actions.&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Signal Analysis and Action Decision&lt;/strong>: Analyzes external signs such as light signals using image recognition, and based on instructions (color or pattern), can navigate to draw complex shapes such as clockwise or counter-clockwise turns.&lt;/li>
+&lt;li>&lt;strong>High-Precision Approach Control&lt;/strong>: In situations where docking to a quay or dock is required, it uses LiDAR ranging data to grasp the distance to the wall surface in units of several centimeters, and accurately approaches and stops at the designated location.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;br>
+&lt;ul>
+&lt;li>&lt;strong>Safety Verification via Simulation&lt;/strong>:&lt;br>
+These complex autonomous behaviors are thoroughly verified in a virtual space before operating the actual machine. Through behavior confirmation in a field wider than the actual water surface using SITL (Software-In-The-Loop) environment utilizing Pixhawk and Docker containers, only safe software is deployed to the actual machine.&lt;/li>
+&lt;/ul></description></item><item><title/><link>https://www.ouxt.jp/en/reports/mechanical-report/</link><pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate><guid>https://www.ouxt.jp/en/reports/mechanical-report/</guid><description>&lt;h2 id="hulls-design-improvements">Hulls Design Improvements&lt;/h2>
+&lt;h3 id="challenges-and-reflections-from-roboboat-2025">Challenges and Reflections from RoboBoat 2025&lt;/h3>
+&lt;p>At RoboBoat 2025, our team experienced a frustrating result: our ASV capsized during autonomous navigation, preventing us from completing the tasks.
+The structural causes were mainly due to the following two points:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>High Center of Gravity&lt;/strong>: The center of gravity of the entire vessel was too high.&lt;/li>
+&lt;li>&lt;strong>Instability of Hulls Shape&lt;/strong>: The &amp;ldquo;curved high-rocker (banana-shaped)&amp;rdquo; pontoons we previously used lacked stability on the water surface.&lt;/li>
+&lt;/ul>
+&lt;h3 id="drastic-structural-improvements-for-2026">Drastic Structural Improvements for 2026&lt;/h3>
+&lt;p>To prevent capsizing and ensure mission success, we have implemented the following structural changes for RoboBoat 2026:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Hulls Shape Change (Flat Bottom)&lt;/strong>&lt;br>
+We moved away from the unstable banana shape and newly designed and adopted &amp;ldquo;flat-bottom&amp;rdquo; pontoons.&lt;/li>
+&lt;li>&lt;strong>Lower Center of Gravity&lt;/strong>&lt;br>
+We physically lowered the mounting position of the enclosure (waterproof case) housing electronic equipment to reset the center of gravity lower. Additionally, we designed the hulls to house batteries and motor drivers internally, achieving an even lower center of gravity.&lt;/li>
+&lt;/ul>
+&lt;div style="text-align: center; margin: 30px 0;">
+&lt;div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+&lt;div style="flex: 1; min-width: 300px;">
+&lt;img src="https://www.ouxt.jp/img/technical-work/robot_2025.jpg" alt="2025 Robot" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+&lt;p style="margin-top: 5px; font-size: 0.9em; color: #666;">2025 Model&lt;/p>
+&lt;/div>
+&lt;div style="flex: 1; min-width: 300px;">
+&lt;img src="https://www.ouxt.jp/img/technical-work/robot_2026.jpg" alt="2026 Robot" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+&lt;p style="margin-top: 5px; font-size: 0.9em; color: #666;">2026 Model&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;p style="margin-top: 15px; font-style: italic; color: #666;">Fig 1. Hull comparison: 2025 (Left) vs 2026 (Right).&lt;/p>
+&lt;/div>
+&lt;h2 id="other-detailed-design-and-implementation">Other Detailed Design and Implementation&lt;/h2>
+&lt;h3 id="ensuring-airtightness-and-wiring">Ensuring Airtightness and Wiring&lt;/h3>
+&lt;p>We redesigned the wiring path to connect the batteries and motor drivers inside the hull to the external electronics box.
+To pass the connectors through while maintaining airtightness, we adopted the following method:&lt;/p>
+&lt;ol>
+&lt;li>Drilled holes in the hull for wiring.&lt;/li>
+&lt;li>Used Tupperware (sealed containers) to cover the holes and create an airtight compartment.&lt;/li>
+&lt;li>Used epoxy resin for bonding to achieve complete waterproofing and airtightness (Fig 2).&lt;/li>
+&lt;/ol>
+&lt;h3 id="securing-connection-strength-with-the-frame">Securing Connection Strength with the Frame&lt;/h3>
+&lt;p>For connecting the hulls and the frame, we used a method of fixing them with a dedicated jig at one central point on each hull.
+However, with a single-point fixation, there was a risk of the jig breaking due to moment loads (twisting and bending forces).
+Therefore, we created additional support parts extending from the frame to support both ends of the hulls (Fig 2). This distributes the load and ensures a stable connection.
+The completed design fits within a compact size of less than 1 meter in both length and width.
+It can be easily carried by two people, significantly reducing the burden of transport and setup.&lt;/p>
+&lt;div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 30px;">
+&lt;div style="flex: 1; min-width: 300px; text-align: center;">
+&lt;img src="https://www.ouxt.jp/img/technical-work/hand.jpg" alt="Wiring and sealing detail" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+&lt;p style="margin-top: 10px; font-style: italic; color: #666;">Fig 2. sealing using tupperware and support structure.&lt;/p>
+&lt;/div>
+&lt;/div></description></item><item><title>1/9/26 System Test</title><link>https://www.ouxt.jp/en/reports/testing-report/</link><pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate><guid>https://www.ouxt.jp/en/reports/testing-report/</guid><description>&lt;h2 id="test-purpose">Test Purpose&lt;/h2>
 &lt;p>Verification of manual operation functionality&lt;/p>
 &lt;h2 id="results">Results&lt;/h2>
 &lt;p>Operated extremely well. No issues with control in the surge and pitch directions. The aircraft was stable with no risk of capsizing.&lt;/p>
-&lt;p>&lt;strong>Controller&lt;/strong>: ○○&lt;/p>
+&lt;p>Controller: Radiolink T8FB&lt;/p>
 &lt;h2 id="video">Video&lt;/h2>
-&lt;div style="text-align: center; margin-top: 20px;">
+&lt;div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
+&lt;div style="flex: 1; min-width: 300px; text-align: center;">
 &lt;video controls style="max-width: 300px; width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 &lt;source src="https://www.ouxt.jp/img/technical-work/testing_video.mp4" type="video/mp4">
 Your browser does not support the video tag.
 &lt;/video>
+&lt;/div>
+&lt;div style="flex: 1; min-width: 300px; text-align: center;">
+&lt;video controls style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+&lt;source src="https://www.ouxt.jp/img/technical-work/simulation_video.mp4" type="video/mp4">
+Your browser does not support the video tag.
+&lt;/video>
+&lt;p style="margin-top: 10px; font-style: italic; color: #666;">Simulation with Mission planner&lt;/p>
+&lt;/div>
 &lt;/div>
 &lt;h2 id="next-steps">Next Steps&lt;/h2>
 &lt;p>Next, we plan to operate it with the autonomous navigation software installed.&lt;/p></description></item></channel></rss>

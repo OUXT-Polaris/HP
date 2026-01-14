@@ -1,15 +1,166 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>OUXT Polaris</title><link>https://www.ouxt.jp/</link><atom:link href="https://www.ouxt.jp/index.xml" rel="self" type="application/rss+xml"/><description>OUXT Polaris</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>OUXT Polaris 2020-2024</copyright><lastBuildDate>Fri, 09 Jan 2026 00:00:00 +0000</lastBuildDate><image><url>https://www.ouxt.jp/images/icon_hud1e4b740b82faf5d5011883d0ab60ce8_134644_512x512_fill_lanczos_center_2.png</url><title>OUXT Polaris</title><link>https://www.ouxt.jp/</link></image><item><title>1/9/26 システムテスト</title><link>https://www.ouxt.jp/reports/testing-report/</link><pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate><guid>https://www.ouxt.jp/reports/testing-report/</guid><description>&lt;h2 id="test-purpose">Test Purpose&lt;/h2>
-&lt;p>Verification of manual operation functionality&lt;/p>
-&lt;h2 id="results">Results&lt;/h2>
-&lt;p>Operated extremely well. No issues with control in the surge, sway, and pitch directions. The aircraft was stable with no risk of capsizing.&lt;/p>
-&lt;p>&lt;strong>Controller&lt;/strong>: ○○&lt;/p>
-&lt;h2 id="video">Video&lt;/h2>
-&lt;div style="text-align: center; margin-top: 20px;">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>OUXT Polaris</title><link>https://www.ouxt.jp/</link><atom:link href="https://www.ouxt.jp/index.xml" rel="self" type="application/rss+xml"/><description>OUXT Polaris</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>OUXT Polaris 2020-2024</copyright><lastBuildDate>Wed, 14 Jan 2026 00:00:00 +0000</lastBuildDate><image><url>https://www.ouxt.jp/images/icon_hud1e4b740b82faf5d5011883d0ab60ce8_134644_512x512_fill_lanczos_center_2.png</url><title>OUXT Polaris</title><link>https://www.ouxt.jp/</link></image><item><title/><link>https://www.ouxt.jp/reports/autonomy-report/</link><pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate><guid>https://www.ouxt.jp/reports/autonomy-report/</guid><description>&lt;h2 id="システム構成と通信アーキテクチャ">&lt;strong>システム構成と通信アーキテクチャ&lt;/strong>&lt;/h2>
+&lt;div style="text-align: center; margin: 30px 0;">
+&lt;img src="https://www.ouxt.jp/img/technical-work/software_system.png" alt="Software System" style="max-width: 75%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+&lt;p style="margin-top: 10px; font-style: italic; color: #666;">図1. ソフトウェアシステム&lt;/p>
+&lt;/div>
+&lt;p>Mini-Vのシステムは、高度な情報処理とリアルタイム制御を両立させるために、以下の要素で構成されています。&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>ハードウェア構成&lt;/strong>:&lt;br>メインコンピュータには「NVIDIA Jetson AGX Orin」を使用し、飛行制御コントローラー（フライトコントローラー）には「Pixhawk」を採用しています。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>通信ミドルウェア&lt;/strong>:&lt;br> ソフトウェア開発の核として「ROS 2 (Robot Operating System 2)」を採用しています。システムはモジュール設計となっており、認識・制御・通信の各サブシステムを複数のメンバーが並行して開発できる構成です。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>通信の自動化&lt;/strong>:&lt;br> ROS 2を搭載した上位コンピュータ（Jetson）と、低レイヤのマイクロコントローラー（モータードライバや緊急停止装置）間の通信ギャップを埋めるため、独自機構「ProtoLink」を開発しました。&lt;/p>
+&lt;ul>
+&lt;li>ROS 2のメッセージ定義から、Protocol Bufferメッセージを自動生成します。&lt;/li>
+&lt;li>nanopbを利用することで、ArduinoやSTM32環境と互換性のある軽量なC構造体を生成し、手動でのプロトコル保守なしにシームレスな通信を実現しています。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;br>
+&lt;h2 id="物体認識系">&lt;strong>物体認識系&lt;/strong>&lt;/h2>
+&lt;div style="text-align: center; margin: 30px 0;">
+&lt;img src="https://www.ouxt.jp/img/technical-work/yolo.png" alt="Image inference with YOLO" style="max-width: 75%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+&lt;p style="margin-top: 10px; font-style: italic; color: #666;">図2. YOLOによる画像推論&lt;/p>
+&lt;/div>
+&lt;p>環境認識には、カメラとLiDAR（Velodyne VLP16）を組み合わせたハイブリッド・センサーフュージョンを採用しています。処理のフローは以下の通りです。&lt;/p>
+&lt;ol>
+&lt;li>&lt;strong>視覚認識&lt;/strong>:&lt;br> 高速なリアルタイム処理が可能な「YOLO」を採用し、カメラ画像から物体のバウンディングボックス（境界枠）を抽出します。&lt;/li>
+&lt;li>&lt;strong>点群処理&lt;/strong>:&lt;br> 同時に、Velodyne VLP16から得られる3D点群データを、ルールベースのアルゴリズムを用いてクラスタリング（塊ごとの分類）処理します。&lt;/li>
+&lt;li>&lt;strong>センサーフュージョン&lt;/strong>:&lt;br> 2Dの視覚データと3Dの点群クラスタを統合することで、物体の「種別」と「3D空間上の正確な位置」を特定します。&lt;/li>
+&lt;li>&lt;strong>コストマップ更新&lt;/strong>:&lt;br> 統合された障害物情報はPixhawkへ送信され、回避のためのローカルコストマップの更新に使用されます。&lt;/li>
+&lt;/ol>
+&lt;br>
+&lt;h2 id="自己位置推定">&lt;strong>自己位置推定&lt;/strong>&lt;/h2>
+&lt;p>自己位置推定は、Pixhawkフライトコントローラー上で動作する「ArduPilot」ファームウェアが中心となって処理を行います。&lt;/p>
+&lt;div style="text-align: center; margin: 30px 0;">
+&lt;img src="https://www.ouxt.jp/img/technical-work/pixhawk.png" alt="Pixhawk" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+&lt;p style="margin-top: 10px; font-style: italic; color: #666;">図3. Pixhawk&lt;/p>
+&lt;/div>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>センサー構成&lt;/strong>:&lt;br> GNSS（衛星測位システム）とIMU（慣性計測装置）はPixhawkに統合されており、これらのデータをカルマンフィルタで処理して自己位置を推定します。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>ビジュアルオドメトリの統合&lt;/strong>:&lt;br> GNSSとIMUのデータに加え、ROS 2メインコンピュータから送信されるビジュアルオドメトリ（画像解析による移動量推定）情報を融合させることで、自己位置推定とPID制御を行っています。&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;br>
+&lt;h2 id="計画システムと自律性">&lt;strong>計画システムと自律性&lt;/strong>&lt;/h2>
+&lt;div style="text-align: center; margin: 30px 0;">
+&lt;img src="https://www.ouxt.jp/img/technical-work/mission_planner.png" alt="Simulation with Mission planner" style="max-width: 75%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+&lt;p style="margin-top: 10px; font-style: italic; color: #666;">図4. Mission plannerによるシミュレーション&lt;/p>
+&lt;/div>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>視覚情報に基づく動的な経路生成&lt;/strong>:&lt;br>
+あらかじめ決められたルートを走るのではなく、カメラとLiDARで捉えた環境情報からリアルタイムに航路を計算します。&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>安全な通過ルートの特定&lt;/strong>: 左右にある目印を検出し、その幾何学的な中間点を算出することで、安全に通過できるルートを特定します。&lt;/li>
+&lt;li>&lt;strong>ウェイポイントの自動生成&lt;/strong>: 算出した目標地点に対して相対的なウェイポイントを次々と生成し、目的地まで自律的に舵を取ります。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;br>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>障害物の検知と回避機能&lt;/strong>:&lt;br>
+航行ルート上に障害物が存在する場合、ロボットはそれを即座に認識して回避行動をとります。&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>コストマップによる空間認識&lt;/strong>: 認識された障害物の情報は、ロボットが持つ「ローカルコストマップ（周囲の地図）」に即座に反映されます。&lt;/li>
+&lt;li>&lt;strong>周回・回避&lt;/strong>: 障害物を検知した際は、GNSS情報と照合して位置を特定すると同時に、LiDARで距離を計測しながら安全な距離を保って回避・周回する高度な制御を行います。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;br>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>状況判断による精密操船&lt;/strong>:&lt;br>
+単に移動するだけでなく、外部からの信号やドックの形状を理解し、複雑な動作を行うことが可能です。&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>信号解析と動作決定&lt;/strong>: 光信号などの外部サインを画像認識で解析し、その指示（色やパターン）に基づいて、時計回りや反時計回りの旋回など、複雑な図形を描くように航行することができます。&lt;/li>
+&lt;li>&lt;strong>高精度な接近制御&lt;/strong>: 岸壁やドックへの着岸が必要な場面では、LiDARの測距データを用いて壁面との距離を数センチ単位で把握し、指定された場所へ正確にアプローチして停止します。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;br>
+&lt;ul>
+&lt;li>&lt;strong>シミュレーションによる安全性検証&lt;/strong>:&lt;br>
+これらの複雑な自律行動は、実機を動かす前に仮想空間で徹底的に検証されます。PixhawkとDockerコンテナを活用したSITL（Software-In-The-Loop）環境により、実際の水面よりも広いフィールドでの挙動確認を経て、安全なソフトウェアのみが実機にデプロイされます。&lt;/li>
+&lt;/ul></description></item><item><title/><link>https://www.ouxt.jp/reports/mechanical-report/</link><pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate><guid>https://www.ouxt.jp/reports/mechanical-report/</guid><description>&lt;h2 id="船体ハルの設計改良">船体（ハル）の設計改良&lt;/h2>
+&lt;h3 id="課題と反省-roboboat-2025">課題と反省 (RoboBoat 2025)&lt;/h3>
+&lt;p>RoboBoat 2025において、私たちは自律航行中の転覆によりタスクを完了できないという悔しい結果を経験しました。
+その構造的な原因は、主に以下の2点にありました。&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>重心の高さ&lt;/strong>: 機体全体の重心位置が高すぎたこと。&lt;/li>
+&lt;li>&lt;strong>船体形状の不安定さ&lt;/strong>: 以前採用していた「湾曲したハイロッカー型（バナナ型）」のポンツーンは、水面での安定性に欠けていました。&lt;/li>
+&lt;/ul>
+&lt;h3 id="2026年に向けた構造の抜本的改良">2026年に向けた構造の抜本的改良&lt;/h3>
+&lt;p>転覆を防ぎ、ミッションを確実に成功させるため、以下の構造変更を行いました。&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>船体形状の変更（フラットボトム化）&lt;/strong>&lt;br>
+不安定だったバナナ型をやめ、底面が平らな「フラットボトム型」のポンツーンを新たに設計・採用しました。&lt;/li>
+&lt;li>&lt;strong>低重心化（Low Center of Gravity）&lt;/strong>&lt;br>
+電子機器を収めるエンクロージャー（防水ケース）の取り付け位置を物理的に下げ、重心を低く設定し直しました。また、ハル内部にバッテリーとモータドライバを収納できる設計にすることで、さらなる低重心化を実現しました。&lt;/li>
+&lt;/ul>
+&lt;div style="text-align: center; margin: 30px 0;">
+&lt;div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+&lt;div style="flex: 1; min-width: 300px;">
+&lt;img src="https://www.ouxt.jp/img/technical-work/robot_2025.jpg" alt="2025 Robot" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+&lt;p style="margin-top: 5px; font-size: 0.9em; color: #666;">&lt;/p>
+&lt;/div>
+&lt;div style="flex: 1; min-width: 300px;">
+&lt;img src="https://www.ouxt.jp/img/technical-work/robot_2026.jpg" alt="2026 Robot" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+&lt;p style="margin-top: 5px; font-size: 0.9em; color: #666;">&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;p style="margin-top: 15px; font-style: italic; color: #666;">図1. 船体比較：2025年モデル（左） 2026年モデル（右）&lt;/p>
+&lt;/div>
+&lt;h2 id="その他の詳細設計と実装">その他の詳細設計と実装&lt;/h2>
+&lt;h3 id="気密性と配線の確保">気密性と配線の確保&lt;/h3>
+&lt;p>ハル内部のバッテリーやモータードライバを、外部の電装ボックスと接続するための配線経路を再設計しました。
+コネクタを通し、かつ気密性を保つために、以下の手法を採用しています。&lt;/p>
+&lt;ol>
+&lt;li>ハルに配線用の穴を開ける。&lt;/li>
+&lt;li>タッパー（密閉容器）を用いて穴を塞ぎ、気密区画を作成。&lt;/li>
+&lt;li>接着にはエポキシ樹脂を使用し、完全な防水・気密を実現（図2参照）。&lt;/li>
+&lt;/ol>
+&lt;h3 id="フレームとの接続強度の確保">フレームとの接続強度の確保&lt;/h3>
+&lt;p>ハルとフレームの接続には、各ハルの中央1箇所に専用の治具を作成して固定する方法をとっています。
+しかし、1点固定ではモーメント荷重（ねじれや曲げの力）によって治具が破壊されるリスクがありました。
+そこで、フレームから伸びる支持パーツを追加作成し、ハルの両端を支える構造にしました（図2参照）。これにより負荷を分散させ、安定した接続を実現しています。
+完成した機体は、縦横ともに1m未満のコンパクトなサイズに収まりました。
+2人で簡単に持ち運ぶことができ、運搬やセットアップの負担を大幅に軽減しています。&lt;/p>
+&lt;div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 30px;">
+&lt;div style="flex: 1; min-width: 300px; text-align: center;">
+&lt;img src="https://www.ouxt.jp/img/technical-work/hand.jpg" alt="Wiring and sealing detail" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+&lt;p style="margin-top: 10px; font-style: italic; color: #666;">図2. タッパーウェアによる密閉と支持構造&lt;/p>
+&lt;/div>
+&lt;/div></description></item><item><title>1/9/26 システムテスト</title><link>https://www.ouxt.jp/reports/testing-report/</link><pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate><guid>https://www.ouxt.jp/reports/testing-report/</guid><description>&lt;h2 id="テスト目的">テスト目的&lt;/h2>
+&lt;p>手動操作機能の検証&lt;/p>
+&lt;h2 id="結果">結果&lt;/h2>
+&lt;p>順調に動作しました。前後進および横揺れ方向の制御に問題はなく、船体は安定しており、転覆のリスクはありませんでした。&lt;/p>
+&lt;p>&lt;strong>コントローラー&lt;/strong>: Radiolink T8FB&lt;/p>
+&lt;h2 id="動画">動画&lt;/h2>
+&lt;div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
+&lt;div style="flex: 1; min-width: 300px; text-align: center;">
 &lt;video controls style="max-width: 300px; width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 &lt;source src="https://www.ouxt.jp/img/technical-work/testing_video.mp4" type="video/mp4">
 Your browser does not support the video tag.
 &lt;/video>
-&lt;/div></description></item><item><title>講演実績</title><link>https://www.ouxt.jp/pages/seminar/publications/</link><pubDate>Thu, 10 Jul 2025 13:50:27 +0900</pubDate><guid>https://www.ouxt.jp/pages/seminar/publications/</guid><description>&lt;p>OUXT Polarisでは、開発を通して得た知見をROSコミュニティやロボット競技コミュニティに還元するべく、精力的に講演活動を行なっています。これまでの講演内容は以下の通りです。&lt;/p>
+&lt;/div>
+&lt;div style="flex: 1; min-width: 300px; text-align: center;">
+&lt;video controls style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+&lt;source src="https://www.ouxt.jp/img/technical-work/simulation_video.mp4" type="video/mp4">
+Your browser does not support the video tag.
+&lt;/video>
+&lt;p style="margin-top: 10px; font-style: italic; color: #666;">Mission plannerによるシミュレーション&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;h2 id="next-steps">Next Steps&lt;/h2>
+&lt;p>次は、自律航行ソフトウェアをインストールしての稼働を予定しています。&lt;/p></description></item><item><title>講演実績</title><link>https://www.ouxt.jp/pages/seminar/publications/</link><pubDate>Thu, 10 Jul 2025 13:50:27 +0900</pubDate><guid>https://www.ouxt.jp/pages/seminar/publications/</guid><description>&lt;p>OUXT Polarisでは、開発を通して得た知見をROSコミュニティやロボット競技コミュニティに還元するべく、精力的に講演活動を行なっています。これまでの講演内容は以下の通りです。&lt;/p>
 &lt;hr>
 &lt;h1 id="競技会関連-technical-documentation">&lt;strong>競技会関連 (Technical Documentation)&lt;/strong>&lt;/h1>
 &lt;p>RoboBoatやMaritime RobotX Challengeでは、機体開発の技術的な詳細をまとめた「Technical Documentation」が採点項目に含まれます。OUXT Polarisが過去に執筆・発表した資料を公開しています。&lt;/p>
@@ -236,7 +387,14 @@ Your browser does not support the video tag.
 &lt;h1 id="ouxt-polaris勉強会休止中">&lt;strong>OUXT Polaris勉強会（休止中）&lt;/strong>&lt;/h1>
 &lt;p>OUXT Polarisでは、外部の方も交えた議論や知見共有を目的とした勉強会を定期的に開催しています。&lt;/p>
 &lt;p>
-&lt;a href="https://ouxt-polaris.connpass.com" target="_blank" rel="noopener">Connpassグループ: OUXT Polaris&lt;/a>&lt;/p></description></item><item><title>スポンサー募集</title><link>https://www.ouxt.jp/pages/call-sponsor/</link><pubDate>Tue, 24 Jun 2025 12:34:23 +0900</pubDate><guid>https://www.ouxt.jp/pages/call-sponsor/</guid><description>&lt;h2 id="ouxt-polaris-スポンサー募集のご案内">OUXT Polaris スポンサー募集のご案内&lt;/h2>
+&lt;a href="https://ouxt-polaris.connpass.com" target="_blank" rel="noopener">Connpassグループ: OUXT Polaris&lt;/a>&lt;/p></description></item><item><title>スポンサー募集</title><link>https://www.ouxt.jp/pages/call-sponsor/</link><pubDate>Tue, 24 Jun 2025 12:34:23 +0900</pubDate><guid>https://www.ouxt.jp/pages/call-sponsor/</guid><description>&lt;div style="text-align: left;">
+&lt;figure >
+&lt;a data-fancybox="" href="https://www.ouxt.jp/img/eightknot.png" >
+&lt;img src="https://www.ouxt.jp/img/eightknot.png" alt="" width="50%" >
+&lt;/a>
+&lt;/figure>
+&lt;/div>
+&lt;h2 id="ouxt-polaris-スポンサー募集のご案内">OUXT Polaris スポンサー募集のご案内&lt;/h2>
 &lt;p>OUXT Polarisでは、自律航行船の開発および世界大会への挑戦を支えてくださるスポンサー企業様を随時募集しております。 現在は、2026年3月末までの期間をご支援いただける企業様を重点的に募っております。&lt;/p>
 &lt;p>私たちの活動にご賛同いただける場合は、
 &lt;a href="../../#contact">お問い合わせ&lt;/a>よりぜひご連絡ください。&lt;/p>
