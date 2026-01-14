@@ -5,6 +5,7 @@ title: 松崎 史弥
 # Username (this should match the folder name)
 authors:
 - FumiyaMatsuzaki
+weight: 20
 
 # Is this the primary user of the site?
 superuser: true

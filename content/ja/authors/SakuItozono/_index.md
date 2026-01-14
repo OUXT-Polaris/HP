@@ -5,6 +5,7 @@ title: 糸園 朔
 # Username (this should match the folder name)
 authors:
 - SakuItozono
+weight: 100
 
 # Is this the primary user of the site?
 superuser: true
@@ -53,4 +54,5 @@ social:
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - ソフトウェア
+- ハードウェア
 ---

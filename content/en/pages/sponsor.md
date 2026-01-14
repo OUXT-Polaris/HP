@@ -27,6 +27,9 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+{{< figure src="/img/eightknot.png" title="Sponsor Logos" width="100%" >}}
+
 OUXT Polaris needs a robot fabrication/development fee and a robot transportation fee.
 
 For this reason, we are always looking for sponsors. For details, please refer to the [Call for Sponsor](../call-sponsor/).

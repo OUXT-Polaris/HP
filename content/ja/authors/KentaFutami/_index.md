@@ -5,6 +5,7 @@ title: 二見 堅太
 # Username (this should match the folder name)
 authors:
 - KentaFutami
+weight: 30
 
 # Is this the primary user of the site?
 superuser: true
@@ -53,5 +54,6 @@ social:
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - ハードウェア
+- ソフトウェア
 - 運営
 ---

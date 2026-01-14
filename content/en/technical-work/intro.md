@@ -16,6 +16,6 @@ subtitle = ""
     <img src="/img/technical-work/current_technical_work.jpg" alt="Current Technical Work" class="img-fluid" style="border-radius: 8px;">
   </div>
   <div class="col-12 col-md-6">
-    <p>Our boat is the autonomous surface vehicle (ASV) for Robo Boat 2026! We've significantly upgraded both the hardware and software based on last year's experience!</p>
+    <p>Our boat is the autonomous surface vehicle (ASV) for RoboBoat 2026! We've significantly upgraded both the hardware and software based on last year's experience!</p>
   </div>
 </div>

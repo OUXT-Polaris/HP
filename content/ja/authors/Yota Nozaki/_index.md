@@ -5,6 +5,7 @@ title: 野崎 陽太
 # Username (this should match the folder name)
 authors:
 - Yota Nozaki
+weight: 120
 
 # Is this the primary user of the site?
 superuser: true
