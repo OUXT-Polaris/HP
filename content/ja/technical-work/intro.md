@@ -4,7 +4,7 @@ headless = true
 active = true
 weight = 10
 
-title = "Current Technical Work"
+title = "現在の技術開発"
 subtitle = ""
 
 [design]

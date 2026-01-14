@@ -4,7 +4,7 @@ headless = true
 active = true
 weight = 20
 
-title = "Each Technology Development"
+title = "各チームの開発の様子"
 subtitle = ""
 
 [design]

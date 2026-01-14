@@ -69,7 +69,7 @@ https://note.com/lush_bonobo1853/n/nc0a60b1aad72
 
 Additionally, we received a special award at RoboBoat 2025.<br>
 
-**[OUXT Polaris plans to participate in RoboBoat again this year](/en/technical-work)**
+**[OUXT Polaris plans to participate in RoboBoat again this year](/technical-work)**
 
 <table>
   <tr>
