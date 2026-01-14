@@ -5,6 +5,7 @@ title: 岡本 健太
 # Username (this should match the folder name)
 authors:
 - KentaOkamoto
+weight: 40
 
 # Is this the primary user of the site?
 superuser: true

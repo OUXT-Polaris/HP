@@ -5,6 +5,7 @@ title: 巖津 公祐
 # Username (this should match the folder name)
 authors:
 - KosukeIwatsu
+weight: 60
 
 # Is this the primary user of the site?
 superuser: true
@@ -53,4 +54,5 @@ social:
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - ソフトウェア
+- ハードウェア
 ---

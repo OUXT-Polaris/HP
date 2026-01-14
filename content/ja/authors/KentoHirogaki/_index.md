@@ -5,6 +5,7 @@ title: 廣垣 賢豊
 # Username (this should match the folder name)
 authors:
 - KentoHirogaki
+weight: 50
 
 # Is this the primary user of the site?
 superuser: true

@@ -5,6 +5,7 @@ title: 近藤 正悠
 # Username (this should match the folder name)
 authors:
 - MasaharuKondo
+weight: 70
 
 # Is this the primary user of the site?
 superuser: true

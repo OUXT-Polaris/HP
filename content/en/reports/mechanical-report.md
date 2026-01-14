@@ -25,8 +25,17 @@ To prevent capsizing and ensure mission success, we have implemented the followi
     We physically lowered the mounting position of the enclosure (waterproof case) housing electronic equipment to reset the center of gravity lower. Additionally, we designed the hulls to house batteries and motor drivers internally, achieving an even lower center of gravity.
 
 <div style="text-align: center; margin: 30px 0;">
-  <img src="/img/technical-work/placeholder1.jpg" alt="Hull comparison" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-  <p style="margin-top: 10px; font-style: italic; color: #666;">Fig 1. The top hull is our new one, and the bottom is the old design. The arrow indicates the cavity that holds the battery box.</p>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+    <div style="flex: 1; min-width: 300px;">
+      <img src="/img/technical-work/robot_2025.jpg" alt="2025 Robot" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+      <p style="margin-top: 5px; font-size: 0.9em; color: #666;">2025 Model</p>
+    </div>
+    <div style="flex: 1; min-width: 300px;">
+      <img src="/img/technical-work/robot_2026.jpg" alt="2026 Robot" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+      <p style="margin-top: 5px; font-size: 0.9em; color: #666;">2026 Model</p>
+    </div>
+  </div>
+  <p style="margin-top: 15px; font-style: italic; color: #666;">Fig 1. Hull comparison: 2025 (Left) vs 2026 (Right).</p>
 </div>
 
 ## Other Detailed Design and Implementation
@@ -37,23 +46,19 @@ To pass the connectors through while maintaining airtightness, we adopted the fo
 
 1.  Drilled holes in the hull for wiring.
 2.  Used Tupperware (sealed containers) to cover the holes and create an airtight compartment.
-3.  Used epoxy resin for bonding to achieve complete waterproofing and airtightness (see Fig 4).
+3.  Used epoxy resin for bonding to achieve complete waterproofing and airtightness (Fig 2).
 
 ### Securing Connection Strength with the Frame
 For connecting the hulls and the frame, we used a method of fixing them with a dedicated jig at one central point on each hull.
 However, with a single-point fixation, there was a risk of the jig breaking due to moment loads (twisting and bending forces).
-Therefore, we created additional support parts extending from the frame to support both ends of the hulls (see Fig 5). This distributes the load and ensures a stable connection.
+Therefore, we created additional support parts extending from the frame to support both ends of the hulls (Fig 2). This distributes the load and ensures a stable connection.
 The completed design fits within a compact size of less than 1 meter in both length and width.
 It can be easily carried by two people, significantly reducing the burden of transport and setup.
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 30px;">
   <div style="flex: 1; min-width: 300px; text-align: center;">
-    <img src="/img/technical-work/placeholder4.jpg" alt="Wiring and sealing detail" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <p style="margin-top: 10px; font-style: italic; color: #666;">Fig 4. Detail of the wiring and sealing using epoxy and tupperware.</p>
-  </div>
-  <div style="flex: 1; min-width: 300px; text-align: center;">
-    <img src="/img/technical-work/placeholder5.jpg" alt="Frame connection support" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <p style="margin-top: 10px; font-style: italic; color: #666;">Fig 5. Additional support structure.</p>
+    <img src="/img/technical-work/hand.jpg" alt="Wiring and sealing detail" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <p style="margin-top: 10px; font-style: italic; color: #666;">Fig 2. sealing using tupperware and support structure.</p>
   </div>
 </div>
 

@@ -5,6 +5,7 @@ title: 藤岡 怜生
 # Username (this should match the folder name)
 authors:
 - ReoFujioka
+weight: 80
 
 # Is this the primary user of the site?
 superuser: true

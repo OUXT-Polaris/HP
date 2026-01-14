@@ -5,6 +5,7 @@ title: OUXT Polaris
 # Username (this should match the folder name)
 authors:
 - admin
+weight: 1
 
 # Is this the primary user of the site?
 superuser: true

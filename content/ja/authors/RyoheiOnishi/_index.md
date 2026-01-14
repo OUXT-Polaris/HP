@@ -5,6 +5,7 @@ title: 大西 凌平
 # Username (this should match the folder name)
 authors:
 - RyoheiOnishi
+weight: 90
 
 # Is this the primary user of the site?
 superuser: true

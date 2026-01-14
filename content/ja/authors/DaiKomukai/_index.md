@@ -5,6 +5,7 @@ title: 小武海 大
 # Username (this should match the folder name)
 authors:
 - DaiKomukai
+weight: 10
 
 # Is this the primary user of the site?
 superuser: true
