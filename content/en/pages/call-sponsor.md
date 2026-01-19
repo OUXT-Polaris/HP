@@ -31,6 +31,9 @@ projects: []
 <div style="text-align: left;">
   {{< figure src="/img/eightknot.png" width="50%" >}}
 </div>
+<div style="text-align: left;">
+  {{< figure src="/img/kaiyozyuko.png" width="50%" >}}
+</div>
 
 OUXT Polaris requires funding for robot development, manufacturing, and transportation.  
 Therefore, we are constantly seeking sponsors.  
