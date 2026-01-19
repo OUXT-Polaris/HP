@@ -394,6 +394,13 @@ Your browser does not support the video tag.
 &lt;/a>
 &lt;/figure>
 &lt;/div>
+&lt;div style="text-align: left;">
+&lt;figure >
+&lt;a data-fancybox="" href="https://www.ouxt.jp/img/kaiyozyuko.png" >
+&lt;img src="https://www.ouxt.jp/img/kaiyozyuko.png" alt="" width="50%" >
+&lt;/a>
+&lt;/figure>
+&lt;/div>
 &lt;h2 id="ouxt-polaris-スポンサー募集のご案内">OUXT Polaris スポンサー募集のご案内&lt;/h2>
 &lt;p>OUXT Polarisでは、自律航行船の開発および世界大会への挑戦を支えてくださるスポンサー企業様を随時募集しております。 現在は、2026年3月末までの期間をご支援いただける企業様を重点的に募っております。&lt;/p>
 &lt;p>私たちの活動にご賛同いただける場合は、

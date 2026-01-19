@@ -5,6 +5,13 @@
 &lt;/a>
 &lt;/figure>
 &lt;/div>
+&lt;div style="text-align: left;">
+&lt;figure >
+&lt;a data-fancybox="" href="https://www.ouxt.jp/img/kaiyozyuko.png" >
+&lt;img src="https://www.ouxt.jp/img/kaiyozyuko.png" alt="" width="50%" >
+&lt;/a>
+&lt;/figure>
+&lt;/div>
 &lt;p>OUXT Polaris requires funding for robot development, manufacturing, and transportation.&lt;br>
 Therefore, we are constantly seeking sponsors.&lt;br>
 If you have any questions, please feel free to
@@ -138,6 +145,14 @@ And other sponsor companies/individuals.
 &lt;figure id="figure-sponsor-logos">
 &lt;a data-fancybox="" href="https://www.ouxt.jp/img/eightknot.png" data-caption="Sponsor Logos">
 &lt;img src="https://www.ouxt.jp/img/eightknot.png" alt="" width="100%" >
+&lt;/a>
+&lt;figcaption>
+Sponsor Logos
+&lt;/figcaption>
+&lt;/figure>
+&lt;figure id="figure-sponsor-logos">
+&lt;a data-fancybox="" href="https://www.ouxt.jp/img/kaiyozyuko.png" data-caption="Sponsor Logos">
+&lt;img src="https://www.ouxt.jp/img/kaiyozyuko.png" alt="" width="100%" >
 &lt;/a>
 &lt;figcaption>
 Sponsor Logos
