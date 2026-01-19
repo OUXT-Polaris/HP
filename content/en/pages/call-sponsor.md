@@ -33,6 +33,7 @@ projects: []
 </div>
 <div style="text-align: left;">
   {{< figure src="/img/kaiyozyuko.png" width="50%" >}}
+  <!-- Updated image to kaiyozyuko -->
 </div>
 
 OUXT Polaris requires funding for robot development, manufacturing, and transportation.  
