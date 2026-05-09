@@ -29,11 +29,11 @@ projects: []
 ---
 
 <div style="text-align: left;">
-  {{< figure src="/img/eightknot.png" width="50%" >}}
+  {{< figure src="/img/sponsor/eightknot.png" width="50%" >}}
 </div>
-<div style="text-align: left;">
+<!-- <div style="text-align: left;">
   {{< figure src="/img/kaiyozyuko.png" width="50%" >}}
-</div>
+</div> -->
 
 ## OUXT Polaris スポンサー募集のご案内
 OUXT Polarisでは、自律航行船の開発および世界大会への挑戦を支えてくださるスポンサー企業様を随時募集しております。 現在は、2026年3月末までの期間をご支援いただける企業様を重点的に募っております。
