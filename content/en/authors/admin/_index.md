@@ -50,26 +50,40 @@ email: ""
 user_groups:
 ---
 
-We are a student-led robotics team established to compete in the [Maritime RobotX Challenge](https://www.robotx.org/).  
-For the 2025 season, we are participating in [RoboBoat](https://roboboat.org/), and we plan to compete in the 2026 tournament as well.
+We are a student-led robotics team established to compete in the [Maritime RobotX Challenge](https://www.robotx.org/) and the [RoboBoat](https://roboboat.org/).  
+We are planning to participate in the  competition in November 2026.
 <br>
 <br>
+## What is the **Maritime RobotX Challenge**?
+The Maritime RobotX Challenge (RobotX) is a premier international competition for autonomous marine systems organized by RoboNation. <br>
+In this competition, participating teams integrate custom-developed control systems, sensors, and navigation algorithms into a standard surface vessel. The challenge requires advanced multi-domain coordination, often utilizing autonomous surface vehicles (ASV) alongside drones (UAV) and underwater robots (UUV). <br>
+These integrated systems must operate fully autonomously and work together to complete various complex tasks during the competition.
+<br>
+{{< youtube id="3PPprTwbfbk" >}}
+<br>
+Up until the 2024 competition, teams utilized a large standard WAM-V (Wave Adaptive Modular Vessel) as their primary surface platform. 
+However, starting from the 2026 challenge in Singapore,the competition has transitioned to a more compact surface platform.
+<br>
+
+
 ## What is **RoboBoat**?
-RoboBoat is an international competition for small autonomous surface vehicles (ASVs) organized by RoboNation, held annually in March.<br>
+RoboBoat is an international competition for small autonomous surface vehicles (ASV) organized by RoboNation, held annually in March.<br>
 In this competition, participating teams design and construct their own hulls and integrate custom-developed control systems, sensors, and navigation algorithms to compete.<br>
 The vessels must operate fully autonomously and are required to complete various tasks during the competition.
 <br>
 
-{{< youtube id="OIVBayCQBm8?si=MNpMzRLvoRwLWCUL">}}
+{{< youtube id="B0d30wNh4HU" >}}
+<br>
+
 <br>
 
 OUXT Polaris has been participating in RoboBoat since last year. For more details, please refer to the article below:
 
 https://note.com/lush_bonobo1853/n/nc0a60b1aad72
 
-Additionally, we received a special award at RoboBoat 2025.<br>
+Additionally, we received a sponsor award at RoboBoat 2026.<br>
 
-**[OUXT Polaris plans to participate in RoboBoat again this year](/technical-work)**
+**[OUXT Polaris plans to participate in RobotX this year](/technical-work)**
 
 <table>
   <tr>

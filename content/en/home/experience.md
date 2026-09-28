@@ -17,6 +17,16 @@ date_format = "2006/01/02"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "RoboBoat 2026"
+  company = "Conference Outline"
+  company_url = "https://roboboat.org/programs/2026/"
+  location = "Florida"
+  date_start = "2026-02-19"
+  date_end = "2026-02-24"
+  description = """"""
+
 [[experience]]
   title = "RoboBoat 2025"
   company = "Conference Outline"
